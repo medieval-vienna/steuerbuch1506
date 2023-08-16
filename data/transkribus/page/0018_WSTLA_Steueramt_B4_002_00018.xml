@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-11T16:02:08.854+01:00</Created>
+        <LastChange>2022-05-12T11:43:32.364+02:00</LastChange>
+        <TranskribusMetadata docId="831090" pageId="30875109" pageNr="18" tsid="82216567" status="IN_PROGRESS" userId="114903" imgUrl="https://files.transkribus.eu/Get?id=CRHVUUFCHROHMPEZAOSQVANB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MPNOCKYRMDJGCJCPBNNECLBV" imageId="24289861"/>
+    </Metadata>
+    <Page imageFilename="0018_WSTLA_Steueramt_B4_002_00018.jpg" imageWidth="3500" imageHeight="2472">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692198649227" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1652280237132_705"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1652346721697_81"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1652280237132_705" custom="readingOrder {index:0;}">
+            <Coords points="187,252 1311,252 1692,252 1694,980 1692,2167 1311,2175 360,2175 185,2163 185,422"/>
+            <TextLine id="line_1652280321094_741" custom="readingOrder {index:0;}">
+                <Coords points="360,258 394,255 429,252 736,254 923,257 923,311 896,312 549,321 360,316"/>
+                <Baseline points="360,297 394,294 429,291 549,303 575,298 602,296 629,293 655,291 682,290 709,290 736,290 762,291 789,291 816,293 842,294 869,294 896,294 923,293"/>
+                <TextEquiv>
+                    <Unicode>ibidem Caspar Vingkhin </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652280327914_745" custom="readingOrder {index:1;}">
+                <Coords points="230,337 423,332 1473,283 1694,284 1694,434 230,395"/>
+                <Baseline points="247,386 423,371 539,374 564,372 589,371 614,369 640,369 665,368 690,368 715,368 741,368 766,368 791,368 816,368 842,368 867,368 892,368 917,368 943,368 968,368 993,368 1018,368 1044,368 1410,377 1455,380 1473,383 1507,387 1669,384"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Jorg Ain goldschmid iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652280404325_755" custom="readingOrder {index:2;}">
+                <Coords points="249,425 309,422 431,416 673,409 782,409 1681,420 1681,483 1394,488 279,489 249,489"/>
+                <Baseline points="249,468 279,468 309,465 371,461 401,458 431,455 564,449 591,448 618,446 645,445 673,444 700,444 727,444 754,444 782,444 809,445 836,446 863,447 891,449 918,449 945,450 972,452 1000,453 1027,454 1054,455 1081,455 1109,456 1394,467 1673,467"/>
+                <TextEquiv>
+                    <Unicode>nihil ibidem Connrat lawtenmacher iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652280479562_762" custom="readingOrder {index:3;}">
+                <Coords points="369,507 423,501 548,491 756,485 886,485 965,488 965,539 396,564 369,565"/>
+                <Baseline points="369,546 396,545 423,540 548,525 574,525 600,524 626,523 652,522 678,522 704,521 730,521 756,519 782,519 808,519 834,519 860,519 886,519 912,521 938,521 965,522"/>
+                <TextEquiv>
+                    <Unicode>ibidem Georig Kosrspannrer </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652281173682_773" custom="readingOrder {index:4;}">
+                <Coords points="269,595 558,582 583,581 734,576 810,575 861,576 937,579 962,580 1013,585 1013,634 330,657 269,652"/>
+                <Baseline points="269,633 299,635 330,638 384,633 417,629 558,615 583,614 608,614 633,613 659,612 684,611 709,611 734,609 760,609 785,609 810,608 836,609 861,609 886,610 911,611 937,612 962,613 987,616 1013,618"/>
+                <TextEquiv>
+                    <Unicode>711 domus Una pars ciunitatl </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652281209522_777" custom="readingOrder {index:5;}">
+                <Coords points="194,676 228,667 1497,578 1683,574 1683,724 194,740"/>
+                <Baseline points="194,719 228,710 263,710 375,714 422,707 564,699 594,696 624,693 654,690 684,689 714,687 744,687 774,687 804,686 834,686 865,686 895,686 925,686 955,686 985,686 1015,686 1045,686 1075,684 1105,684 1135,683 1166,681 1379,675 1424,678 1497,678 1676,681"/>
+                <TextEquiv>
+                    <Unicode>1 d ibidem maister michel platner hos iiij ttl d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652281248868_782" custom="readingOrder {index:6;}">
+                <Coords points="242,754 453,750 576,740 626,737 702,734 804,731 880,730 1007,730 1681,748 1681,800 242,812"/>
+                <Baseline points="263,799 427,794 453,789 576,777 601,776 626,774 652,774 677,773 702,771 728,771 753,770 778,770 804,768 829,768 854,768 880,767 905,767 930,767 956,767 981,767 1007,767 1404,780 1672,779"/>
+                <TextEquiv>
+                    <Unicode>d ibidem mert karl slosser iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652281298055_787" custom="readingOrder {index:7;}">
+                <Coords points="236,823 266,820 1048,804 1120,804 1263,808 1401,815 1682,810 1682,864 402,901 236,887"/>
+                <Baseline points="236,866 266,863 402,882 447,876 584,852 619,852 655,851 691,851 727,849 762,848 798,847 834,846 870,845 905,844 941,843 977,842 1013,842 1048,840 1084,840 1120,840 1156,842 1191,842 1227,843 1263,844 1299,846 1401,851 1677,850"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Hairnrich ainn Hawbnstrickher Lx d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652281352807_792" custom="readingOrder {index:8;}">
+                <Coords points="252,913 281,910 594,891 652,888 738,885 825,882 1055,879 1142,878 1391,888 1671,885 1671,939 371,984 252,977"/>
+                <Baseline points="252,956 281,953 311,956 341,960 371,963 420,963 465,957 566,929 594,927 623,926 652,924 681,923 710,922 738,921 767,920 796,920 825,918 854,918 882,918 911,918 940,917 969,917 998,917 1026,917 1055,915 1084,915 1113,915 1142,914 1391,924 1660,931"/>
+                <TextEquiv>
+                    <Unicode>12 d 711 domus Altra pars Veit gatninger iij ttl d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:9;}">
+                <Coords points="1157,973 1187,970 1217,971 1247,972 1278,972 1278,942 1247,942 1217,941 1187,940 1157,943"/>
+                <Baseline points="1157,963 1187,960 1217,961 1247,962 1278,962"/>
+                <TextEquiv>
+                    <Unicode>macher </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652281422055_799" custom="readingOrder {index:10;} textStyle {offset:31; length:7;strikethrough:true;}">
+                <Coords points="244,1013 488,998 1676,945 1676,990 1428,1002 244,1071"/>
+                <Baseline points="254,1057 452,1046 488,1037 504,1037 543,1033 582,1030 622,1027 661,1023 701,1019 740,1016 780,1014 819,1010 859,1008 898,1004 937,1002 977,1001 1016,999 1056,997 1095,996 1135,996 1174,995 1214,996 1253,996 1293,998 1428,987 1663,986"/>
+                <TextEquiv>
+                    <Unicode>d ibidem maister Peter Puchssenmaister hos iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652345565043_12" custom="readingOrder {index:11;} textStyle {offset:31; length:2;strikethrough:true;}">
+                <Coords points="218,1114 287,1105 702,1061 758,1056 1623,980 1671,986 1671,1112 218,1178"/>
+                <Baseline points="218,1157 252,1154 287,1148 425,1136 473,1134 504,1137 532,1129 560,1123 588,1118 617,1112 645,1107 673,1103 702,1099 730,1097 758,1094 787,1092 815,1090 843,1088 871,1087 900,1086 928,1086 956,1085 985,1085 1013,1083 1041,1083 1070,1083 1379,1089 1413,1092 1448,1089 1623,1064 1671,1070"/>
+                <TextEquiv>
+                    <Unicode>11 d ibidem Jrsickh Ain furman lx iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652345678484_17" custom="readingOrder {index:12;}">
+                <Coords points="237,1186 703,1150 736,1147 836,1138 936,1133 1002,1131 1680,1116 1680,1173 456,1237 237,1244"/>
+                <Baseline points="249,1234 456,1218 486,1215 504,1215 537,1210 570,1205 603,1201 637,1196 670,1192 703,1188 736,1185 770,1182 803,1179 836,1176 869,1175 903,1173 936,1171 969,1170 1002,1169 1036,1169 1069,1169 1102,1169 1135,1170 1169,1172 1374,1167 1666,1160"/>
+                <TextEquiv>
+                    <Unicode>d ibidemHanns Lanng furman iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652345734871_23" custom="readingOrder {index:13;}">
+                <Coords points="264,1249 871,1222 1017,1216 1379,1214 1687,1199 1687,1262 435,1320 231,1320 231,1256"/>
+                <Baseline points="231,1299 264,1292 435,1301 464,1296 493,1293 522,1289 551,1286 580,1282 609,1278 638,1276 667,1273 696,1271 726,1269 755,1268 784,1265 813,1263 842,1262 871,1260 900,1259 929,1258 958,1257 987,1256 1017,1254 1379,1256 1674,1259"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Urban Schickh furer iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652345821539_35" custom="readingOrder {index:14;}">
+                <Coords points="257,1356 476,1343 512,1338 549,1333 658,1322 694,1319 1493,1259 1694,1261 1694,1384 1618,1390 1593,1391 257,1414"/>
+                <Baseline points="440,1388 476,1382 512,1377 549,1372 585,1369 621,1365 658,1361 694,1358 730,1357 767,1355 803,1353 839,1352 876,1350 912,1350 948,1349 985,1349 1021,1349 1057,1349 1094,1349 1130,1349 1167,1349 1419,1346 1449,1347 1479,1347 1493,1341 1518,1346 1543,1349 1568,1350 1593,1350 1618,1349 1643,1347 1668,1345 1694,1343"/>
+                <TextEquiv>
+                    <Unicode>d domus Jorg gunber Schuster perse ij ttl iiij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652345943170_39" custom="readingOrder {index:15;}">
+                <Coords points="441,1431 576,1412 649,1407 723,1403 796,1401 906,1398 1053,1398 1200,1401 1311,1404 1311,1462 441,1489"/>
+                <Baseline points="441,1470 467,1468 493,1465 519,1462 546,1458 576,1451 612,1449 649,1446 686,1444 723,1442 759,1442 796,1440 833,1439 870,1438 906,1437 943,1437 980,1437 1017,1437 1053,1437 1090,1439 1127,1439 1164,1440 1200,1440 1237,1442 1274,1443 1311,1443"/>
+                <TextEquiv>
+                    <Unicode>ibidem Leonhart gennsrnckher Schuster hz </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652346199196_43" custom="readingOrder {index:16;}">
+                <Coords points="223,1511 509,1505 619,1493 692,1488 1481,1437 1620,1430 1656,1437 1656,1563 1527,1565 223,1566"/>
+                <Baseline points="237,1560 473,1547 509,1542 546,1538 582,1535 619,1530 655,1529 692,1525 728,1524 765,1521 801,1521 837,1519 874,1518 910,1518 947,1518 983,1517 1020,1517 1056,1517 1093,1518 1129,1518 1166,1518 1370,1518 1400,1518 1430,1521 1481,1521 1527,1523 1620,1514 1656,1521"/>
+                <TextEquiv>
+                    <Unicode>d domus relicta Hanns kheserin perse iiij ttl d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652346258435_48" custom="readingOrder {index:17;}">
+                <Coords points="276,1591 693,1565 734,1563 817,1559 900,1556 1274,1550 1379,1554 1667,1550 1667,1607 339,1658 276,1655"/>
+                <Baseline points="276,1634 307,1634 339,1637 444,1632 485,1624 527,1619 568,1613 610,1610 651,1605 693,1602 734,1600 776,1598 817,1596 859,1595 900,1593 942,1593 983,1593 1025,1592 1066,1592 1108,1592 1149,1590 1191,1590 1232,1589 1274,1587 1379,1592 1665,1598"/>
+                <TextEquiv>
+                    <Unicode>nihil ibidem relicta Hanns keglin goldsmidin iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652346324794_53" custom="readingOrder {index:18;}">
+                <Coords points="237,1686 466,1675 500,1668 534,1662 602,1653 636,1649 670,1646 738,1641 806,1638 1675,1612 1675,1738 1500,1749 237,1744"/>
+                <Baseline points="245,1717 466,1714 500,1707 534,1701 568,1697 602,1692 636,1688 670,1685 704,1683 738,1680 772,1679 806,1677 840,1677 874,1676 908,1676 942,1676 976,1676 1010,1676 1044,1676 1078,1677 1113,1677 1371,1683 1396,1681 1422,1683 1500,1707 1656,1690"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Hanns Hamer platner iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:19;}">
+                <Coords points="429,1831 466,1823 503,1816 540,1811 577,1805 614,1800 651,1795 689,1790 726,1787 763,1784 800,1781 837,1778 874,1777 911,1774 949,1774 986,1772 1023,1771 1060,1771 1097,1771 1134,1771 1172,1769 1172,1717 1134,1719 1097,1719 1060,1719 1023,1719 986,1720 949,1722 911,1722 874,1725 837,1726 800,1729 763,1732 726,1735 689,1738 651,1743 614,1748 577,1753 540,1759 503,1764 466,1771 429,1779"/>
+                <Baseline points="429,1814 466,1806 503,1799 540,1794 577,1788 614,1783 651,1778 689,1773 726,1770 763,1767 800,1764 837,1761 874,1760 911,1757 949,1757 986,1755 1023,1754 1060,1754 1097,1754 1134,1754 1172,1752"/>
+                <TextEquiv>
+                    <Unicode>ibidem Jorg Kebssinger von Osen </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:20;}">
+                <Coords points="185,1890 215,1891 245,1887 275,1882 535,1862 535,1832 275,1852 245,1857 215,1861 185,1860"/>
+                <Baseline points="185,1880 215,1881 245,1877 275,1872 524,1860"/>
+                <TextEquiv>
+                    <Unicode>1 dedit per summar scheffen </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:21;}">
+                <Coords points="220,1932 289,1919 317,1923 345,1926 345,1862 317,1859 289,1855 220,1868"/>
+                <Baseline points="233,1917 289,1898 317,1902 345,1905"/>
+                <TextEquiv>
+                    <Unicode>3 ttl d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652346432694_60" custom="readingOrder {index:22;}">
+                <Coords points="422,1858 453,1853 581,1841 1607,1776 1635,1776 1664,1779 1664,1905 422,1891"/>
+                <Baseline points="422,1880 453,1875 485,1872 517,1870 549,1867 581,1863 612,1862 644,1860 676,1859 708,1857 740,1856 771,1856 803,1855 835,1854 867,1854 899,1854 930,1854 962,1854 994,1856 1026,1856 1058,1856 1359,1860 1407,1863 1607,1860 1635,1860 1664,1863"/>
+                <TextEquiv>
+                    <Unicode>domus Hanns Anngrer perse v ttl d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652346472453_64" custom="readingOrder {index:23;} unclear {offset:12; length:6;}">
+                <Coords points="446,1887 757,1881 809,1881 861,1882 887,1884 887,1914 494,1948 446,1945"/>
+                <Baseline points="442,1932 494,1929 602,1907 627,1906 653,1905 679,1904 705,1903 731,1902 757,1901 783,1901 809,1901 835,1902 861,1902 887,1904"/>
+                <TextEquiv>
+                    <Unicode>domus sannd umharl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652346531858_69" custom="readingOrder {index:24;}">
+                <Coords points="233,1960 512,1946 587,1936 662,1930 737,1927 1362,1903 1647,1888 1647,1949 233,1990"/>
+                <Baseline points="225,1991 475,1973 512,1966 550,1961 587,1956 625,1953 662,1950 700,1949 737,1947 775,1946 812,1946 849,1944 887,1944 924,1944 962,1944 999,1943 1037,1942 1074,1941 1112,1939 1149,1936 1187,1932 1362,1944 1644,1941"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Jorg Kreidnweis goldsmid iij s d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:25;}">
+                <Coords points="719,2175 744,2173 769,2172 794,2169 819,2167 844,2165 869,2164 894,2161 919,2159 944,2158 969,2157 994,2155 1019,2154 1019,2096 994,2097 969,2099 944,2100 919,2101 894,2103 869,2106 844,2107 819,2109 794,2111 769,2114 744,2115 719,2117"/>
+                <Baseline points="719,2156 744,2154 769,2153 794,2150 819,2148 844,2146 869,2145 894,2142 919,2140 944,2139 969,2138 994,2136 1019,2135"/>
+                <TextEquiv>
+                    <Unicode>xxij ttl v s </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ibidem Caspar Vingkhin &#13;
+d ibidem Jorg Ain goldschmid iij s d &#13;
+nihil ibidem Connrat lawtenmacher iij s d &#13;
+ibidem Georig Kosrspannrer &#13;
+711 domus Una pars ciunitatl &#13;
+1 d ibidem maister michel platner hos iiij ttl d &#13;
+d ibidem mert karl slosser iij s d &#13;
+d ibidem Hairnrich ainn Hawbnstrickher Lx d &#13;
+12 d 711 domus Altra pars Veit gatninger iij ttl d &#13;
+macher &#13;
+d ibidem maister Peter Puchssenmaister hos iij s d &#13;
+11 d ibidem Jrsickh Ain furman lx iij s d &#13;
+d ibidemHanns Lanng furman iij s d &#13;
+d ibidem Urban Schickh furer iij s d &#13;
+d domus Jorg gunber Schuster perse ij ttl iiij s d &#13;
+ibidem Leonhart gennsrnckher Schuster hz &#13;
+d domus relicta Hanns kheserin perse iiij ttl d &#13;
+nihil ibidem relicta Hanns keglin goldsmidin iij s d &#13;
+d ibidem Hanns Hamer platner iij s d &#13;
+ibidem Jorg Kebssinger von Osen &#13;
+1 dedit per summar scheffen &#13;
+3 ttl d &#13;
+domus Hanns Anngrer perse v ttl d &#13;
+domus sannd umharl&#13;
+d ibidem Jorg Kreidnweis goldsmid iij s d&#13;
+xxij ttl v s </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1652346721697_81" custom="readingOrder {index:1;}">
+            <Coords points="1856,208 2147,210 3294,210 3294,2193 2147,2193 1856,2019"/>
+            <TextLine id="r14l1" custom="readingOrder {index:0;} unclear {offset:6; length:5;} unclear {offset:22; length:9;}">
+                <Coords points="1971,259 2261,258 2288,257 2314,257 2341,257 2367,256 2394,255 2420,254 2447,254 2473,252 2500,252 2527,251 2553,249 2580,248 2606,248 2633,247 2659,246 2686,246 2712,246 2739,246 2766,246 2766,210 2739,210 2712,210 2686,210 2659,210 2633,211 2606,212 2580,212 2553,213 2527,215 2500,216 2473,216 2447,218 2420,218 2394,219 2367,220 2341,221 2314,221 2288,221 2261,222 1971,223"/>
+                <Baseline points="1980,251 2261,246 2288,245 2314,245 2341,245 2367,244 2394,243 2420,242 2447,242 2473,240 2500,240 2527,239 2553,237 2580,236 2606,236 2633,235 2659,234 2686,234 2712,234 2739,234 2766,234"/>
+                <TextEquiv>
+                    <Unicode>domus truja ad sactum nucharlem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652346933309_106" custom="readingOrder {index:1;}">
+                <Coords points="1992,275 2438,268 2506,267 3030,260 3275,250 3275,305 2130,324 2097,324 1992,312"/>
+                <Baseline points="1992,300 2028,300 2097,308 2130,308 2234,297 2268,296 2302,295 2336,294 2370,293 2404,293 2438,291 2472,291 2506,290 2540,290 2575,290 2609,290 2643,290 2677,290 2711,290 2745,290 2779,291 2813,291 2847,291 2881,291 2916,291 3030,297 3263,295"/>
+                <TextEquiv>
+                    <Unicode>ibidem + Hanns Mairr sleiffer no rl iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652346974040_111" custom="readingOrder {index:2;} textStyle {offset:1; length:1;superscript:true;} unclear {offset:14; length:9;}">
+                <Coords points="1991,329 2039,326 2533,318 2635,318 2661,319 2738,322 2738,352 2278,358 1991,360"/>
+                <Baseline points="1991,350 2039,347 2253,348 2278,348 2304,347 2329,345 2355,344 2380,344 2406,342 2431,341 2457,341 2482,339 2508,339 2533,338 2559,338 2584,338 2610,338 2635,338 2661,339 2686,340 2712,342 2738,342"/>
+                <TextEquiv>
+                    <Unicode>4a ad sanctum nucharlem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347062889_115" custom="readingOrder {index:3;}">
+                <Coords points="1808,384 2213,363 2252,362 2292,361 2492,358 3045,353 3090,353 3282,338 3282,393 3150,413 1808,415"/>
+                <Baseline points="1840,422 2040,390 2213,383 2252,382 2292,381 2332,381 2372,380 2412,380 2452,380 2492,378 2532,378 2572,378 2612,378 2652,380 2692,380 2732,380 2772,381 2812,383 2852,384 2892,388 2932,390 2972,393 3045,390 3090,390 3150,395 3269,389"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Wolfganng Krenibser Cramer hos vj s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347157858_121" custom="readingOrder {index:4;} textStyle {offset:7; length:1;superscript:true;} unclear {offset:20; length:10;}">
+                <Coords points="1995,408 2641,394 2718,394 2718,424 2024,445 1995,438"/>
+                <Baseline points="1995,428 2024,435 2309,422 2334,422 2360,422 2385,422 2411,420 2436,420 2462,419 2487,419 2513,417 2539,417 2564,416 2590,416 2615,416 2641,414 2666,414 2692,414 2718,414"/>
+                <TextEquiv>
+                    <Unicode>domus 5a ad sanctum v nuchalem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347217809_126" custom="readingOrder {index:5;}">
+                <Coords points="1829,459 2046,451 2207,435 2269,433 2363,432 2834,432 3297,412 3297,467 3160,498 3135,501 1829,489"/>
+                <Baseline points="1838,481 2019,475 2046,471 2207,455 2238,455 2269,453 2301,453 2332,453 2363,452 2395,452 2426,452 2457,452 2489,452 2520,452 2551,452 2583,452 2614,452 2645,452 2677,452 2708,452 2739,452 2771,452 2802,452 2834,452 3036,477 3063,477 3090,477 3135,483 3160,480 3285,465"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Anndre graser gusser hos xj s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347269344_132" custom="readingOrder {index:6;} unclear {offset:24; length:9;}">
+                <Coords points="2010,528 2330,500 2397,495 2465,492 2633,492 2835,498 2835,547 2052,577 2010,576"/>
+                <Baseline points="2010,560 2052,561 2196,551 2229,545 2263,541 2296,536 2330,533 2364,531 2397,528 2431,527 2465,525 2498,525 2532,525 2565,525 2599,525 2633,525 2666,527 2700,528 2734,528 2767,530 2801,531 2835,531"/>
+                <TextEquiv>
+                    <Unicode>domus des von Pademdorf nur Regis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347330516_136" custom="readingOrder {index:7;}">
+                <Coords points="2004,601 2029,597 2054,594 2350,573 2402,570 2480,567 2585,565 2768,564 2768,612 2004,649"/>
+                <Baseline points="2004,633 2029,629 2054,626 2246,615 2272,613 2298,609 2324,607 2350,605 2376,604 2402,602 2428,601 2454,600 2480,599 2507,599 2533,599 2559,599 2585,597 2611,597 2637,597 2663,597 2689,597 2715,597 2741,597 2768,596"/>
+                <TextEquiv>
+                    <Unicode>ibidem Hanns Ungelter hos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347351755_140" custom="readingOrder {index:8;}">
+                <Coords points="2013,687 2070,676 2128,666 2237,657 2341,650 2446,644 2499,641 2551,639 2656,636 2708,635 2813,633 3075,633 3232,635 3285,636 3285,690 2013,736"/>
+                <Baseline points="2013,720 2041,716 2070,709 2099,704 2128,699 2157,699 2237,693 2289,690 2341,686 2394,683 2446,680 2499,677 2551,675 2603,674 2656,672 2708,671 2761,671 2813,669 2865,669 2918,669 2970,669 3023,669 3075,669 3127,671 3180,671 3232,671 3285,672"/>
+                <TextEquiv>
+                    <Unicode>ibidem nihil Hanns Scheihephlug Zimerman no rl xxxij d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l16" custom="readingOrder {index:9;}">
+                <Coords points="2267,845 2293,844 2319,843 2346,842 2372,840 2399,839 2425,837 2451,834 2478,832 2504,829 2531,827 2557,825 2583,822 2610,821 2636,818 2663,817 2689,815 2715,815 2742,813 2768,813 2795,815 2795,760 2768,758 2742,758 2715,760 2689,760 2663,762 2636,763 2610,766 2583,767 2557,770 2531,772 2504,774 2478,777 2451,779 2425,782 2399,784 2372,785 2346,787 2319,788 2293,789 2267,790"/>
+                <Baseline points="2267,827 2293,826 2319,825 2346,824 2372,822 2399,821 2425,819 2451,816 2478,814 2504,811 2531,809 2557,807 2583,804 2610,803 2636,800 2663,799 2689,797 2715,797 2742,795 2768,795 2795,797"/>
+                <TextEquiv>
+                    <Unicode>Preidnnstrase </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l17" custom="readingOrder {index:10;} textStyle {offset:0; length:28;strikethrough:true;} unclear {offset:0; length:28;}">
+                <Coords points="2213,924 2244,924 2276,923 2307,922 2339,921 2371,920 2402,919 2434,918 2466,917 2497,916 2529,914 2561,914 2592,912 2624,912 2656,911 2687,909 2719,909 2751,908 2782,908 2814,908 2846,908 2846,854 2814,854 2782,854 2751,854 2719,855 2687,855 2656,857 2624,858 2592,858 2561,860 2529,860 2497,862 2466,863 2434,864 2402,865 2371,866 2339,867 2307,868 2276,869 2244,870 2213,870"/>
+                <Baseline points="2213,906 2244,906 2276,905 2307,904 2339,903 2371,902 2402,901 2434,900 2466,899 2497,898 2529,896 2561,896 2592,894 2624,894 2656,893 2687,891 2719,891 2751,890 2782,890 2814,890 2846,890"/>
+                <TextEquiv>
+                    <Unicode>herren Kupnechten Keihabnegr </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347650246_158" custom="readingOrder {index:11;}">
+                <Coords points="2034,876 2095,876 2095,926 2034,926"/>
+                <Baseline points="2034,921 2095,921"/>
+                <TextEquiv>
+                    <Unicode>Domus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347587045_147" custom="readingOrder {index:12;} textStyle {offset:0; length:6;strikethrough:true;} unclear {offset:7; length:6;}">
+                <Coords points="2013,981 2038,971 2205,954 2280,948 2534,933 2534,987 2508,992 2013,1030"/>
+                <Baseline points="2013,1014 2038,1004 2063,1002 2088,1002 2205,990 2230,988 2255,986 2280,984 2306,983 2331,982 2356,981 2382,980 2407,979 2432,978 2458,977 2483,975 2508,974 2534,969"/>
+                <TextEquiv>
+                    <Unicode>ibidem dortor wech hos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347749991_174" custom="readingOrder {index:13;}">
+                <Coords points="2012,1055 2202,1029 2281,1024 2468,1014 2601,1009 2708,1005 2735,1004 2735,1058 2078,1101 2012,1104"/>
+                <Baseline points="2012,1088 2045,1085 2078,1085 2202,1065 2228,1064 2255,1062 2281,1060 2308,1059 2335,1058 2361,1056 2388,1055 2415,1053 2441,1052 2468,1050 2495,1049 2521,1049 2548,1047 2575,1046 2601,1045 2628,1044 2655,1043 2681,1043 2708,1041 2735,1040"/>
+                <TextEquiv>
+                    <Unicode>ibidem maister peter prornrater </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347781779_178" custom="readingOrder {index:14;}">
+                <Coords points="2003,1139 2213,1106 2288,1099 2313,1097 2389,1092 2439,1089 2464,1088 2515,1086 2565,1085 2590,1085 2616,1086 2616,1140 2003,1188"/>
+                <Baseline points="2003,1172 2034,1169 2066,1163 2213,1142 2238,1140 2263,1138 2288,1135 2313,1133 2338,1132 2364,1130 2389,1128 2414,1127 2439,1125 2464,1124 2490,1123 2515,1122 2540,1122 2565,1121 2590,1121 2616,1122"/>
+                <TextEquiv>
+                    <Unicode>ibidem herr Jorg Vermoser </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347830431_182" custom="readingOrder {index:15;}">
+                <Coords points="2010,1227 2216,1192 2242,1190 2400,1178 2505,1171 2558,1169 2585,1168 2585,1223 2055,1273 2010,1276"/>
+                <Baseline points="2010,1260 2055,1257 2216,1229 2242,1227 2268,1226 2295,1223 2321,1222 2347,1220 2374,1217 2400,1215 2426,1214 2453,1212 2479,1210 2505,1208 2532,1207 2558,1206 2585,1205"/>
+                <TextEquiv>
+                    <Unicode>domus grauen von Zorn </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347863033_186" custom="readingOrder {index:16;}">
+                <Coords points="2010,1314 2186,1288 2212,1285 2265,1279 2318,1274 2424,1266 2451,1264 2531,1259 2531,1314 2504,1317 2064,1360 2010,1363"/>
+                <Baseline points="2010,1347 2037,1345 2064,1344 2186,1325 2212,1322 2239,1319 2265,1316 2292,1314 2318,1311 2345,1309 2371,1307 2398,1305 2424,1303 2451,1301 2477,1300 2504,1299 2531,1296"/>
+                <TextEquiv>
+                    <Unicode>ibidem Jorg Mader hos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347882785_190" custom="readingOrder {index:17;}">
+                <Coords points="1846,1405 2232,1374 2258,1371 2309,1366 2360,1362 2412,1358 2463,1355 2618,1348 3023,1349 3055,1353 3275,1346 3275,1401 1846,1454"/>
+                <Baseline points="1855,1455 2020,1435 2045,1431 2070,1428 2181,1419 2206,1415 2232,1411 2258,1408 2283,1406 2309,1403 2335,1401 2360,1399 2386,1397 2412,1395 2438,1395 2463,1392 2489,1391 2515,1391 2540,1389 2566,1389 2592,1387 2618,1385 3023,1386 3055,1390 3087,1396 3269,1397"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Cristof rorer furer iij s d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652347931509_196" custom="readingOrder {index:18;}">
+                <Coords points="1847,1496 2192,1466 2297,1454 2333,1451 2438,1445 2509,1442 2579,1440 2650,1438 2897,1432 3234,1439 3260,1441 3260,1496 1847,1545"/>
+                <Baseline points="1858,1532 2040,1527 2192,1503 2227,1499 2262,1496 2297,1491 2333,1488 2368,1487 2403,1484 2438,1482 2474,1481 2509,1479 2544,1478 2579,1477 2615,1476 2650,1475 2685,1475 2720,1474 2756,1473 2791,1472 2826,1472 2861,1470 2897,1469 3005,1476 3030,1476 3056,1476 3081,1476 3107,1476 3132,1476 3158,1476 3183,1476 3209,1476 3234,1476 3260,1478"/>
+                <TextEquiv>
+                    <Unicode>d domus Hanns Kunnigwiser muhrer ij ttl iiij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652348031253_201" custom="readingOrder {index:19;}">
+                <Coords points="1988,1592 2220,1559 2270,1556 2574,1538 2600,1537 3281,1532 3281,1587 1988,1641"/>
+                <Baseline points="1988,1625 2016,1622 2045,1619 2220,1596 2245,1595 2270,1593 2296,1592 2321,1591 2346,1589 2372,1589 2397,1587 2422,1586 2448,1584 2473,1583 2498,1581 2524,1579 2549,1577 2574,1575 2600,1574 3014,1580 3043,1579 3274,1569"/>
+                <TextEquiv>
+                    <Unicode>ibidem Vildshofer no rl lx d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652348073687_206" custom="readingOrder {index:20;}">
+                <Coords points="1856,1667 2362,1630 2506,1622 2577,1619 2793,1613 2865,1613 3294,1615 3294,1670 3157,1676 3102,1678 1909,1717 1882,1717 1856,1716"/>
+                <Baseline points="1856,1700 1882,1701 1909,1701 1935,1700 1962,1697 1988,1696 2015,1695 2042,1694 2147,1685 2182,1682 2218,1679 2254,1675 2290,1673 2326,1670 2362,1667 2398,1665 2434,1663 2470,1661 2506,1659 2541,1658 2577,1656 2613,1655 2649,1655 2685,1653 2721,1652 2757,1652 2793,1650 2829,1650 2865,1650 3020,1656 3047,1658 3074,1659 3102,1660 3129,1659 3157,1658 3184,1656 3211,1655 3239,1653 3266,1652 3294,1652"/>
+                <TextEquiv>
+                    <Unicode>d domus wernhardin Koch furwarer perse ij ttl iiij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l31" custom="readingOrder {index:21;} textStyle {offset:2; length:3;superscript:true;}">
+                <Coords points="2238,1874 2284,1868 2330,1861 2376,1855 2422,1849 2468,1845 2514,1841 2561,1836 2607,1832 2653,1830 2699,1827 2745,1825 2791,1822 2837,1820 2884,1818 2930,1816 2976,1814 3022,1812 3068,1809 3114,1807 3161,1805 3161,1750 3114,1752 3068,1754 3022,1757 2976,1759 2930,1761 2884,1763 2837,1765 2791,1767 2745,1770 2699,1772 2653,1775 2607,1777 2561,1781 2514,1786 2468,1790 2422,1794 2376,1800 2330,1806 2284,1813 2238,1819"/>
+                <Baseline points="2238,1856 2284,1850 2330,1843 2376,1837 2422,1831 2468,1827 2514,1823 2561,1818 2607,1814 2653,1812 2699,1809 2745,1807 2791,1804 2837,1802 2884,1800 2930,1798 2976,1796 3022,1794 3068,1791 3114,1789 3161,1787"/>
+                <TextEquiv>
+                    <Unicode>Exto Astendendo et equerso </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652348198621_213" custom="readingOrder {index:22;} unclear {offset:11; length:10;}">
+                <Coords points="1890,1968 2249,1941 2309,1937 2339,1936 2400,1934 2460,1933 2641,1931 2761,1930 2792,1930 2792,1985 1971,2019 1917,2019 1890,2017"/>
+                <Baseline points="1890,2001 1917,2003 1944,2003 1971,2003 1998,2001 2025,1999 2052,1997 2079,1995 2189,1983 2219,1981 2249,1978 2279,1977 2309,1974 2339,1973 2369,1973 2400,1971 2430,1971 2460,1970 2490,1970 2520,1970 2550,1970 2580,1970 2611,1970 2641,1968 2671,1968 2701,1968 2731,1968 2761,1967 2792,1967"/>
+                <TextEquiv>
+                    <Unicode>domus herr Benyschkon Eberstorf </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l34" custom="readingOrder {index:23;}">
+                <Coords points="2222,2170 2248,2170 2274,2172 2300,2172 2326,2174 2352,2177 2378,2179 2404,2181 2430,2184 2456,2185 2482,2187 2508,2190 2534,2191 2560,2193 2586,2193 2652,2187 2652,2157 2586,2163 2560,2163 2534,2161 2508,2160 2482,2157 2456,2155 2430,2154 2404,2151 2378,2149 2352,2147 2326,2144 2300,2142 2274,2142 2248,2140 2222,2140"/>
+                <Baseline points="2222,2160 2248,2160 2274,2162 2300,2162 2326,2164 2352,2167 2378,2169 2404,2171 2430,2174 2456,2175 2482,2177 2508,2180 2534,2181 2560,2183 2586,2183 2648,2180"/>
+                <TextEquiv>
+                    <Unicode>viij ttl iij s ij d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>domus truja ad sactum nucharlem &#13;
+ibidem + Hanns Mairr sleiffer no rl iij s d &#13;
+4a ad sanctum nucharlem &#13;
+d ibidem Wolfganng Krenibser Cramer hos vj s d &#13;
+domus 5a ad sanctum v nuchalem &#13;
+d ibidem Anndre graser gusser hos xj s d &#13;
+domus des von Pademdorf nur Regis &#13;
+ibidem Hanns Ungelter hos &#13;
+ibidem nihil Hanns Scheihephlug Zimerman no rl xxxij d &#13;
+Preidnnstrase &#13;
+herren Kupnechten Keihabnegr &#13;
+Domus &#13;
+ibidem dortor wech hos&#13;
+ibidem maister peter prornrater &#13;
+ibidem herr Jorg Vermoser &#13;
+domus grauen von Zorn &#13;
+ibidem Jorg Mader hos &#13;
+d ibidem Cristof rorer furer iij s d&#13;
+d domus Hanns Kunnigwiser muhrer ij ttl iiij s d &#13;
+ibidem Vildshofer no rl lx d &#13;
+d domus wernhardin Koch furwarer perse ij ttl iiij s d &#13;
+Exto Astendendo et equerso &#13;
+domus herr Benyschkon Eberstorf &#13;
+viij ttl iij s ij d </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

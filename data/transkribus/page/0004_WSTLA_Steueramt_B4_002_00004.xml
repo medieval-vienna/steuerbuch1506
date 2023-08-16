@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-11T16:02:08.529+01:00</Created>
+        <LastChange>2023-04-27T16:51:39.311+02:00</LastChange>
+        <TranskribusMetadata docId="831090" pageId="30875080" pageNr="4" tsid="120162527" status="DONE" userId="114903" imgUrl="https://files.transkribus.eu/Get?id=GEBHMQOUEXMTAKSDTOSQKOCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USUKSZJCVCNBCYVRDZJZAWQM" imageId="24289832"/>
+    </Metadata>
+    <Page imageFilename="0004_WSTLA_Steueramt_B4_002_00004.jpg" imageWidth="3500" imageHeight="2437">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692198649175" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="2109,171 2109,2248 3269,2248 3269,171"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3249,246 3264,246 3264,171 3249,171"/>
+                <Baseline points="3249,221 3264,221"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="2175,441 2229,441 2284,439 2339,439 2393,438 2448,436 2503,435 2557,433 2612,432 2667,429 2722,427 2776,425 2831,423 2886,420 2940,417 2995,415 3050,412 3104,409 3159,408 3214,404 3269,402 3269,327 3214,329 3159,333 3104,334 3050,337 2995,340 2940,342 2886,345 2831,348 2776,350 2722,352 2667,354 2612,357 2557,358 2503,360 2448,361 2393,363 2339,364 2284,364 2229,366 2175,366"/>
+                <Baseline points="2175,416 2229,416 2284,414 2339,414 2393,413 2448,411 2503,410 2557,408 2612,407 2667,404 2722,402 2776,400 2831,398 2886,395 2940,392 2995,390 3050,387 3104,384 3159,383 3214,379 3269,377"/>
+                <TextEquiv>
+                    <Unicode>Anno domini Quingentesimo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="3041,519 3068,520 3096,520 3124,520 3152,519 3179,517 3207,515 3235,513 3263,510 3263,435 3235,438 3207,440 3179,442 3152,444 3124,445 3096,445 3068,445 3041,444"/>
+                <Baseline points="3041,494 3068,495 3096,495 3124,495 3152,494 3179,492 3207,490 3235,488 3263,485"/>
+                <TextEquiv>
+                    <Unicode>Sexto </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="2201,699 2246,696 2292,692 2337,690 2383,688 2429,687 2474,685 2520,685 2565,684 2611,684 2657,684 2702,684 2748,684 2793,684 2839,682 2885,682 2930,681 2976,679 3021,678 3067,675 3113,672 3113,597 3067,600 3021,603 2976,604 2930,606 2885,607 2839,607 2793,609 2748,609 2702,609 2657,609 2611,609 2565,609 2520,610 2474,610 2429,612 2383,613 2337,615 2292,617 2246,621 2201,624"/>
+                <Baseline points="2201,674 2246,671 2292,667 2337,665 2383,663 2429,662 2474,660 2520,660 2565,659 2611,659 2657,659 2702,659 2748,659 2793,659 2839,657 2885,657 2930,656 2976,654 3021,653 3067,650 3113,647"/>
+                <TextEquiv>
+                    <Unicode>Das virtail Lingnorum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="2205,1021 2254,1024 2304,1026 2353,1027 2403,1027 2453,1027 2502,1027 2552,1027 2601,1026 2651,1025 2701,1023 2750,1021 2800,1020 2849,1018 2899,1016 2949,1015 2998,1012 3048,1010 3097,1009 3147,1008 3197,1005 3197,930 3147,933 3097,934 3048,935 2998,937 2949,940 2899,941 2849,943 2800,945 2750,946 2701,948 2651,950 2601,951 2552,952 2502,952 2453,952 2403,952 2353,952 2304,951 2254,949 2205,946"/>
+                <Baseline points="2205,996 2254,999 2304,1001 2353,1002 2403,1002 2453,1002 2502,1002 2552,1002 2601,1001 2651,1000 2701,998 2750,996 2800,995 2849,993 2899,991 2949,990 2998,987 3048,985 3097,984 3147,983 3197,980"/>
+                <TextEquiv>
+                    <Unicode>Incipiendo im Hofgeslein </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="2301,1389 2331,1386 2361,1385 2392,1383 2422,1381 2453,1380 2483,1377 2513,1377 2544,1374 2574,1372 2605,1372 2635,1369 2665,1368 2696,1365 2726,1364 2757,1362 2787,1359 2817,1357 2848,1354 2878,1351 2909,1348 2909,1273 2878,1276 2848,1279 2817,1282 2787,1284 2757,1287 2726,1289 2696,1290 2665,1293 2635,1294 2605,1297 2574,1297 2544,1299 2513,1302 2483,1302 2453,1305 2422,1306 2392,1308 2361,1310 2331,1311 2301,1314"/>
+                <Baseline points="2301,1364 2331,1361 2361,1360 2392,1358 2422,1356 2453,1355 2483,1352 2513,1352 2544,1349 2574,1347 2605,1347 2635,1344 2665,1343 2696,1340 2726,1339 2757,1337 2787,1334 2817,1332 2848,1329 2878,1326 2909,1323"/>
+                <TextEquiv>
+                    <Unicode>Prima Zedula </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="2130,1692 2158,1689 2186,1686 2215,1684 2243,1682 2271,1680 2300,1680 2328,1679 2356,1679 2385,1679 2413,1679 2442,1679 2470,1679 2498,1680 2527,1680 2555,1680 2583,1680 2612,1680 2640,1680 2669,1680 2669,1625 2640,1625 2612,1625 2583,1625 2555,1625 2527,1625 2498,1625 2470,1624 2442,1624 2413,1624 2385,1624 2356,1624 2328,1624 2300,1625 2271,1625 2243,1627 2215,1629 2186,1631 2158,1634 2130,1637"/>
+                <Baseline points="2130,1674 2158,1671 2186,1668 2215,1666 2243,1664 2271,1662 2300,1662 2328,1661 2356,1661 2385,1661 2413,1661 2442,1661 2470,1661 2498,1662 2527,1662 2555,1662 2583,1662 2612,1662 2640,1662 2669,1662"/>
+                <TextEquiv>
+                    <Unicode>domus prima Jorg Reysinger </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646388703666_17" custom="readingOrder {index:7;}">
+                <Coords points="1976,1723 2273,1708 2337,1704 2433,1701 2562,1701 2819,1703 3281,1687 3280,1766 2981,1770 1976,1777"/>
+                <Baseline points="1984,1769 2137,1757 2163,1755 2177,1754 2209,1750 2241,1747 2273,1744 2305,1742 2337,1740 2369,1739 2401,1739 2433,1737 2465,1737 2498,1737 2530,1737 2562,1737 2594,1738 2626,1739 2658,1739 2690,1739 2722,1739 2754,1739 2786,1739 2819,1739 2981,1751 3014,1748 3047,1746 3275,1745"/>
+                <TextEquiv>
+                    <Unicode>nihil ibidem Colman Obeltshaimer hawer xxxij d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646388775007_35" custom="readingOrder {index:8;}">
+                <Coords points="1974,1790 2150,1795 2176,1792 2203,1789 2255,1786 2308,1784 2492,1784 2598,1785 2990,1798 3278,1784 3278,1832 1974,1844"/>
+                <Baseline points="1988,1841 2150,1831 2176,1828 2203,1825 2229,1824 2255,1822 2282,1821 2308,1820 2334,1820 2361,1820 2387,1820 2413,1820 2440,1820 2466,1820 2492,1820 2519,1821 2545,1821 2571,1821 2598,1821 2990,1830 3020,1833 3271,1828"/>
+                <TextEquiv>
+                    <Unicode>nihil do Jorg Roschawer perse lx d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646388816303_41" custom="readingOrder {index:9;}">
+                <Coords points="1840,1864 2166,1868 2222,1869 2303,1863 2385,1860 2493,1860 2684,1861 2995,1863 3022,1864 3274,1868 3274,1916 1840,1945"/>
+                <Baseline points="1865,1927 2136,1915 2163,1911 2190,1907 2217,1905 2244,1903 2271,1901 2299,1900 2326,1899 2353,1898 2380,1898 2407,1898 2434,1898 2461,1898 2489,1899 2516,1899 2543,1899 2570,1899 2597,1899 2624,1899 2652,1899 2936,1896 2963,1895 2990,1896 3017,1898 3312,1905"/>
+                <TextEquiv>
+                    <Unicode>d ibidem Hanns Grieskhircher lx d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647517661067_115" custom="readingOrder {index:10;}">
+                <Coords points="2346,2143 2426,2138 2610,2135 2609,2244 2485,2248 2457,2248 2429,2247 2346,2218"/>
+                <Baseline points="2346,2193 2378,2196 2400,2195 2429,2222 2457,2223 2485,2223 2513,2222 2541,2223"/>
+                <TextEquiv>
+                    <Unicode>iij ß ij d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2&#13;
+Anno domini Quingentesimo &#13;
+Sexto &#13;
+Das virtail Lingnorum &#13;
+Incipiendo im Hofgeslein &#13;
+Prima Zedula &#13;
+domus prima Jorg Reysinger &#13;
+nihil ibidem Colman Obeltshaimer hawer xxxij d&#13;
+nihil do Jorg Roschawer perse lx d &#13;
+d ibidem Hanns Grieskhircher lx d &#13;
+iij ß ij d </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

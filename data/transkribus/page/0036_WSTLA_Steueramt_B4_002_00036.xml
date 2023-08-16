@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-11T16:02:09.212+01:00</Created>
+        <LastChange>2022-07-07T10:47:12.506+02:00</LastChange>
+        <TranskribusMetadata docId="831090" pageId="30875146" pageNr="36" tsid="90255196" status="DONE" userId="114903" imgUrl="https://files.transkribus.eu/Get?id=NVGZOKURXODHMXRKWOOJCXWU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FMHDWJBJFJLBOWBENJLKKYZJ" imageId="24289897"/>
+    </Metadata>
+    <Page imageFilename="0036_WSTLA_Steueramt_B4_002_00036.jpg" imageWidth="3500" imageHeight="2450">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692198649276" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1657183194504_893"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1657183194504_893" custom="readingOrder {index:0;}">
+            <Coords points="270,212 1625,211 1667,211 1667,367 1664,1032 270,1029 270,362"/>
+            <TextLine id="line_1657183221050_897" custom="readingOrder {index:0;}">
+                <Coords points="270,212 1667,211 1667,337 1625,343 270,333"/>
+                <Baseline points="270,312 306,312 443,309 483,308 523,305 563,305 603,303 644,303 684,302 724,302 764,302 804,302 845,302 885,302 925,302 965,302 1005,302 1046,302 1086,302 1126,302 1166,302 1206,300 1247,299 1625,317 1667,311"/>
+                <TextEquiv>
+                    <Unicode>+ Domus Hanns Camer hafner Erben iij s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="528,432 569,428 610,425 652,422 693,419 735,417 776,416 817,414 859,413 900,412 942,411 983,410 1024,410 1066,408 1107,407 1149,405 1190,404 1231,402 1273,399 1314,396 1356,393 1356,329 1314,332 1273,335 1231,338 1190,340 1149,341 1107,343 1066,344 1024,346 983,346 942,347 900,348 859,349 817,350 776,352 735,353 693,355 652,358 610,361 569,364 528,368"/>
+                <Baseline points="528,411 569,407 610,404 652,401 693,398 735,396 776,395 817,393 859,392 900,391 942,390 983,389 1024,389 1066,387 1107,386 1149,384 1190,383 1231,381 1273,378 1314,375 1356,372"/>
+                <TextEquiv>
+                    <Unicode>ibidem Wolfganng Kamer hafner hospes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="540,524 570,519 601,516 632,512 663,509 693,507 724,505 755,503 786,502 816,502 847,501 878,500 909,500 939,500 970,500 1001,499 1032,499 1062,499 1093,499 1124,497 1155,497 1155,436 1124,436 1093,438 1062,438 1032,438 1001,438 970,439 939,439 909,439 878,439 847,440 816,441 786,441 755,442 724,444 693,446 663,448 632,451 601,455 570,458 540,463"/>
+                <Baseline points="540,504 570,499 601,496 632,492 663,489 693,487 724,485 755,483 786,482 816,482 847,481 878,480 909,480 939,480 970,480 1001,479 1032,479 1062,479 1093,479 1124,477 1155,477"/>
+                <TextEquiv>
+                    <Unicode>domus Wentzl pangkher varat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="540,619 581,612 622,607 664,601 705,598 746,594 788,591 829,588 870,586 912,586 953,584 994,583 1036,581 1077,581 1118,581 1160,580 1201,578 1242,578 1284,577 1325,575 1367,574 1367,513 1325,514 1284,516 1242,517 1201,517 1160,519 1118,520 1077,520 1036,520 994,522 953,523 912,525 870,525 829,527 788,530 746,533 705,537 664,540 622,546 581,551 540,558"/>
+                <Baseline points="540,599 581,592 622,587 664,581 705,578 746,574 788,571 829,568 870,566 912,566 953,564 994,563 1036,561 1077,561 1118,561 1160,560 1201,558 1242,558 1284,557 1325,555 1367,554"/>
+                <TextEquiv>
+                    <Unicode>ibidem Jahannes Niderhaimer mawter </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="765,696 791,691 817,687 844,686 870,684 896,685 923,686 949,687 975,689 1002,689 1028,689 1054,689 1081,685 1107,681 1133,676 1160,669 1160,605 1133,612 1107,617 1081,621 1054,625 1028,625 1002,625 975,625 949,623 923,622 896,621 870,620 844,622 817,623 791,627 765,632"/>
+                <Baseline points="765,675 791,670 817,666 844,665 870,663 896,664 923,665 949,666 975,668 1002,668 1028,668 1054,668 1081,664 1107,660 1133,655 1160,648"/>
+                <TextEquiv>
+                    <Unicode>hinus iih s d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="660,1007 687,1007 714,1008 741,1008 769,1010 796,1010 823,1011 851,1012 878,1013 905,1014 933,1015 960,1016 987,1017 1015,1018 1042,1019 1069,1020 1097,1021 1124,1022 1151,1023 1179,1023 1179,959 1151,959 1124,958 1097,957 1069,956 1042,955 1015,954 987,953 960,952 933,951 905,950 878,949 851,948 823,947 796,946 769,946 741,944 714,944 687,943 660,943"/>
+                <Baseline points="660,986 687,986 714,987 741,987 769,989 796,989 823,990 851,991 878,992 905,993 933,994 960,995 987,996 1015,997 1042,998 1069,999 1097,1000 1124,1001 1151,1002 1179,1002"/>
+                <TextEquiv>
+                    <Unicode>xj ? xxxvij ttl 5 s xxviij d </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>+ Domus Hanns Camer hafner Erben iij s d &#13;
+ibidem Wolfganng Kamer hafner hospes &#13;
+domus Wentzl pangkher varat &#13;
+ibidem Jahannes Niderhaimer mawter &#13;
+hinus iih s d &#13;
+xj ? xxxvij ttl 5 s xxviij d </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

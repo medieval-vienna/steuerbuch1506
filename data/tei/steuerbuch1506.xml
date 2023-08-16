@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">1506</title></titleStmt>
+         <seriesStmt><title>Steuerbücher Wien</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">1506</title><idno type="Transkribus">831090</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1" type="">
+               <lb facs="#facs_1_r1l1" n="N001"/>
+            </ab>
+            <ab facs="#facs_1_r2" type="">
+               <lb facs="#facs_1_r2l1" n="N001"/>
+            </ab>
+            <ab facs="#facs_1_r3" type="">
+               <lb facs="#facs_1_r3l1" n="N001"/>
+               <lb facs="#facs_1_r3l2" n="N002"/>
+               <lb facs="#facs_1_r3l3" n="N003"/>
+               <lb facs="#facs_1_r3l4" n="N004"/>
+               <lb facs="#facs_1_r3l5" n="N005"/>
+               <lb facs="#facs_1_r3l6" n="N006"/>
+               <lb facs="#facs_1_r3l7" n="N007"/>
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r1" type="">
+               <lb facs="#facs_2_r1l1" n="N001"/>
+               <lb facs="#facs_2_r1l2" n="N002"/>
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_r1" type="">
+               <lb facs="#facs_3_r1l1" n="N001"/>
+               <lb facs="#facs_3_r1l2" n="N002"/>
+            </ab>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <ab facs="#facs_4_r3" type="">
+               <lb facs="#facs_4_r3l1" n="N001"/>2
+               <lb facs="#facs_4_r3l2" n="N002"/>Anno domini Quingentesimo 
+               <lb facs="#facs_4_r3l3" n="N003"/>Sexto 
+               <lb facs="#facs_4_r3l4" n="N004"/>Das virtail Lingnorum 
+               <lb facs="#facs_4_r3l5" n="N005"/>Incipiendo im Hofgeslein 
+               <lb facs="#facs_4_r3l6" n="N006"/>Prima Zedula 
+               <lb facs="#facs_4_r3l7" n="N007"/>domus prima Jorg Reysinger 
+               <lb facs="#facs_4_line_1646388703666_17" n="N008"/>nihil ibidem Colman Obeltshaimer hawer xxxij d
+               <lb facs="#facs_4_line_1646388775007_35" n="N009"/>nihil do Jorg Roschawer perse lx d 
+               <lb facs="#facs_4_line_1646388816303_41" n="N010"/>d ibidem Hanns Grieskhircher lx d 
+               <lb facs="#facs_4_line_1647517661067_115" n="N011"/>iij ß ij d 
+            </ab>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <ab facs="#facs_5_TextRegion_1646913678441_100" type="">
+               <lb facs="#facs_5_r3l1" n="N001"/>domus <unclear>Telt</unclear> Messrer pranntstat 
+               <lb facs="#facs_5_line_1646913886598_124" n="N002"/>d domus Connrat Zentprecher j ttl d 
+               <lb facs="#facs_5_r3l4" n="N003"/>nunc Jorg Waldner glaser 
+               <lb facs="#facs_5_line_1646913894144_128" n="N004"/>d domus Relicta Anndre Grafenawerin huterin j ttl d 
+               <lb facs="#facs_5_r3l7" n="N005"/>erbenn
+               <lb facs="#facs_5_line_1646492984275_69" n="N006"/>d ibidem Anndre Hartperger huter hospes vj ß d
+               <lb facs="#facs_5_line_1646913859729_119" n="N007"/>d domus Mert Wiser huter perse j ttl d 
+               <lb facs="#facs_5_line_1646493002444_78" n="N008"/>domus prima herr Mathes ain briester
+               <lb facs="#facs_5_line_1646913705359_110" n="N009"/>d ibidem Michel Mulpeckh huter hospes iiij ß d
+               <lb facs="#facs_5_line_1682608107839_183" n="N010"/>d domus Relicta Mathes Podachtlin perse iij ttl d 
+               <lb facs="#facs_5_r3l18" n="N011"/>Exopposito
+               <lb facs="#facs_5_line_1646914145362_146" n="N012"/>d domus Hanns Tuchler perse xij t d 
+               <lb facs="#facs_5_line_1647517873791_142" n="N013"/>d ibidem Jorg frydolf xj ß d 
+               <lb facs="#facs_5_line_1682607526912_111" n="N014"/>nihil 
+               <lb facs="#facs_5_line_1646914238326_163" n="N015"/>ibidem Hanns von Nurmberg lx d 
+               <lb facs="#facs_5_line_1646914330349_175" n="N016"/>ibidem Pangretz Pernstainer bot lx d
+               <lb facs="#facs_5_line_1646914414490_189" n="N017"/>d ibidem Anndre Kantzgwanndtler iij ß d 
+               <lb facs="#facs_5_line_1646914433950_193" n="N018"/>d ibidem Relicta Mathes Kewslerin iij ß d 
+               <lb facs="#facs_5_line_1682607640408_131" n="N019"/>nihil 
+               <lb facs="#facs_5_line_1646914584906_219" n="N020"/>ibidem Hanns Ortenberger hawer  xxxij d 
+               <lb facs="#facs_5_line_1646914615109_225" n="N021"/>ibidem Hanns Pranntl pat xxxij d 
+               <lb facs="#facs_5_line_1646914679899_230" n="N022"/>d ibidem Cuntz Wolfl lewtgeb non cetera xxxij d 
+               <lb facs="#facs_5_r3l29" n="N023"/>xxj t v ß vj d 
+            </ab>
+            <ab facs="#facs_5_TextRegion_1682607749486_149" type="">
+               <lb facs="#facs_5_line_1646914837321_257" n="N001"/>+ ibidem Peter Pewger lewtgeb non cetera xxxij d 
+               <lb facs="#facs_5_line_1646914843693_261" n="N002"/>d ibidem Sigmund Springer non cetera xxxij d 
+               <lb facs="#facs_5_line_1646914852439_265" n="N003"/>+ ibidem Hanns Wendlin xxxij d 
+               <lb facs="#facs_5_r8l1" n="N004"/>nihil
+               <lb facs="#facs_5_line_1646914860012_269" n="N005"/>ibidem Anndre Hubnerin xxxij d 
+               <lb facs="#facs_5_line_1646914868405_273" n="N006"/>ibidem Mert Aicherin xxxij d
+               <lb facs="#facs_5_line_1646832845452_70" n="N007"/>ibidem Jorg Sigharterin xxxij d 
+               <lb facs="#facs_5_line_1646914939546_283" n="N008"/>+ ibidem Peter Reitterin huterin xxxij d 
+               <lb facs="#facs_5_line_1646832865760_78" n="N009"/>ibidem Hanns Turer huter iiij ß d 
+               <lb facs="#facs_5_line_1646832441177_54" n="N010"/>domus civitatis gusschmid vacat
+               <lb facs="#facs_5_line_1646662600376_147" n="N011"/>domus Relicta Wolfganng Zwickhlin verberin 
+               <lb facs="#facs_5_line_1646662628675_152" n="N012"/>ibidem Jorg Keckh Stewrkhnecht hospes
+               <lb facs="#facs_5_line_1646832914897_82" n="N013"/>7 d  ibidem Jacob Strenng verber xxxij d 
+               <lb facs="#facs_5_line_1646832920644_86" n="N014"/>d domus Jorg Peckhl verber perse iii½ ttl d 
+               <lb facs="#facs_5_line_1646832265921_33" n="N015"/>ibidem Hanns Potist prantweiner non cetera
+               <lb facs="#facs_5_line_1646832942942_90" n="N016"/>d ibidem Diemut Haslin xxxij d
+               <lb facs="#facs_5_line_1647517718661_122" n="N017"/>Ex<hi style="vertical-align: superscript;">to</hi>  Ascendeno et <unclear>converso</unclear> 
+               <lb facs="#facs_5_line_1646913030632_83" n="N018"/>d domus Paul Pernawer huter perse iiij ß d
+               <lb facs="#facs_5_line_1646912997713_79" n="N019"/>d domus Mathes Stainperger perse j ttl d
+               <lb facs="#facs_5_line_1646912681578_34" n="N020"/>+ ibidem Sebastian Weintrager xxxij d
+               <lb facs="#facs_5_r12l52" n="N021"/>vj t vj ß xx d 
+            </ab>
+            <ab facs="#facs_5_r11" type="">
+               <lb facs="#facs_5_r11l1" n="N001"/>8
+            </ab>
+            <ab facs="#facs_5_r15" type="">
+               <lb facs="#facs_5_r15l1" n="N001"/>3
+            </ab>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+            <ab facs="#facs_6_TextRegion_1647517977576_161" type="">
+               <lb facs="#facs_6_line_1647518149587_199" n="N001"/>d domus Larentz von Pulca verber perse iiij ttl d
+               <lb facs="#facs_6_line_1647518663251_219" n="N002"/>+ domus Caspar Heyninger perse j ttl d
+               <lb facs="#facs_6_line_1647518903923_225" n="N003"/>d ibidem Relicta Jacob Teglichin kramerin lx d 
+               <lb facs="#facs_6_line_1647518210133_210" n="N004"/>dedit xiij <hi>ttl</hi> dedit xiij ttl domus 1<hi style="vertical-align: superscript;">a</hi> et 2<hi style="vertical-align: superscript;">a</hi> Stephan Een perse. xxvj ttl d 
+               <lb facs="#facs_6_line_1647519007669_233" n="N005"/>+ domus Bertlme Rigl perse ij ttl d 
+               <lb facs="#facs_6_line_1647519081710_241" n="N006"/>ibidem Relicta Mert Waldnerin habet
+               <lb facs="#facs_6_line_1647519088981_245" n="N007"/>d domus Leonhart Vorster perse v ttl d 
+               <lb facs="#facs_6_r7l8" n="N008"/>Judenplatz
+               <lb facs="#facs_6_line_1647520409215_264" n="N009"/>d domus Relicta Hanns Hawtzenpergerin iiij ttl d 
+               <lb facs="#facs_6_line_1647520450056_269" n="N010"/>d ibidem Wolfganng Rewter huter hospes j ttl d 
+               <lb facs="#facs_6_line_1647520472233_274" n="N011"/>d domus Wolfganng Gmachl eysner perse v ttl d 
+               <lb facs="#facs_6_line_1647520504250_279" n="N012"/>d domus Wolfganng Frolich
+               <lb facs="#facs_6_r7l13" n="N013"/>nunc Anndre Freinberger 
+               <lb facs="#facs_6_r8l12" n="N014"/>x ttl d 
+               <lb facs="#facs_6_line_1647520539836_284" n="N015"/>domus Stephan Welser cramer 
+               <lb facs="#facs_6_line_1647520554067_288" n="N016"/>+ ibidem Mathes Pasler koch hospes lx d
+               <lb facs="#facs_6_line_1647520601675_293" n="N017"/>domus 2<hi style="vertical-align: superscript;">a</hi> Jorg Reysninger 
+               <lb facs="#facs_6_line_1647520611047_297" n="N018"/>ibidem Hanns Airtzinger peckh lx d 
+               <lb facs="#facs_6_line_1647520618080_301" n="N019"/>ibidem Hanns Pranner slayrer iij s d 
+               <lb facs="#facs_6_line_1647520693036_311" n="N020"/>d ibidem Bernhart Grill koch vj s d 
+               <lb facs="#facs_6_line_1647520725276_318" n="N021"/>ibidem Ulrich Pamporl nur 
+               <lb facs="#facs_6_line_1647520737234_322" n="N022"/>+ Stephan Teicher wintzer xxxij d 
+               <lb facs="#facs_6_r7l22" n="N023"/>lx ttl ij d
+            </ab>
+            <ab facs="#facs_6_TextRegion_1647522200671_389" type="">
+               <lb facs="#facs_6_r14l1" n="N001"/>ibidem Ludwig Klingkhaimer ku mt ner diener 
+               <lb facs="#facs_6_line_1647522409092_421" n="N002"/>d domus 3<hi style="vertical-align: superscript;">a</hi> Jorg Reysinger perse v ttl d 
+               <lb facs="#facs_6_line_1647522441864_428" n="N003"/>5 d ibidem Thoman Trogl zimerman non cetera xxxij d 
+               <lb facs="#facs_6_line_1647522465153_433" n="N004"/>+ ibidem Hanns Velber peckh lx d 
+               <lb facs="#facs_6_line_1647522505938_440" n="N005"/>d ibidem Paul Valckh lawtenmacher xxxij d 
+               <lb facs="#facs_6_line_1646833942578_176" n="N006"/>domus 2<hi style="vertical-align: superscript;">a</hi> Michel Schachnreiter
+               <lb facs="#facs_6_line_1646833952061_180" n="N007"/>d ibidem Hanns Tullner huter hospes vj s d 
+               <lb facs="#facs_6_line_1647522570452_451" n="N008"/>d domus Michel Sturm huter perse xij s d 
+               <lb facs="#facs_6_line_1647522609081_456" n="N009"/>d domus Niclas Toll huter perse vj s d 
+               <lb facs="#facs_6_line_1646834036412_196" n="N010"/>ibidem Leonhart Zimerman ladner hz 
+               <lb facs="#facs_6_line_1647522697298_463" n="N011"/>d domus Hanns Strasser huter perse xij s d 
+               <lb facs="#facs_6_line_1647522728285_468" n="N012"/>d ibidem Hainrich Taundl wintzer non cetera lx d 
+               <lb facs="#facs_6_line_1646834119503_210" n="N013"/>ibidem Relicta Leonhart Phanstinglin vischerin habet
+               <lb facs="#facs_6_line_1646834124538_214" n="N014"/>d domus Relicta Bertlme Huterin 
+               <lb facs="#facs_6_line_1647522793398_477" n="N015"/>nunc Lorentz Pawrnfeint xiiij s d 
+               <lb facs="#facs_6_line_1647522820979_482" n="N016"/>d ibidem Michel Holtzer Lx d 
+               <lb facs="#facs_6_line_1647522866926_489" n="N017"/>d ibidem Ludwig Weintrager xxxij d 
+               <lb facs="#facs_6_line_1647522914219_496" n="N018"/>+ ibidem Relicta Hanns Mullennbergerin Naterin xxxij d 
+               <lb facs="#facs_6_line_1647522934385_501" n="N019"/>d do 2<hi style="vertical-align: superscript;">a</hi> Wolfganng Puchler huter perse viij ttl d 
+               <lb facs="#facs_6_r14l38" n="N020"/>do 2<hi style="vertical-align: superscript;">a</hi> Wolfganng Puchler huter hospes 
+               <lb facs="#facs_6_line_1647942001439_231" n="N021"/>d ibidem Cristoff Fridwerger huter vj s d 
+               <lb facs="#facs_6_line_1647523031402_513" n="N022"/>d domus Paul Manndl huter Erben j ttl d 
+               <lb facs="#facs_6_line_1647523060819_518" n="N023"/>d ibidem Hanns Tenngkh huter hospes iiij ß d 
+               <lb facs="#facs_6_r14l45" n="N024"/>xxxij ttl vj ß viij d 
+            </ab>
+            <ab facs="#facs_6_r18" type="">
+               <lb facs="#facs_6_r18l1" n="N001"/>4
+            </ab>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <ab facs="#facs_7_r4" type="">
+               <lb facs="#facs_7_r4l1" n="N001"/>ibidem Mert Ibsser vunderkheuffl non cetera lx d 
+               <lb facs="#facs_7_r4l2" n="N002"/>domus Relicta Leonhart Rorerin 
+               <lb facs="#facs_7_r4l3" n="N003"/>nunc Gilig Hoflich 
+               <lb facs="#facs_7_r4l4" n="N004"/>ibidem Unnser frawn Auf der gstetten habet 
+               <lb facs="#facs_7_line_1647944621933_325" n="N005"/>d ibidem Cristof Pachsteltz hospes iij ttl d 
+               <lb facs="#facs_7_line_1647944716213_335" n="N006"/>d domus 2<hi style="vertical-align: superscript;">a</hi> Wolfganng Rieber perse x ttl d 
+               <lb facs="#facs_7_line_1647944821465_340" n="N007"/>d domus Relicta Hanns Staindlin gurtlerin xij s d 
+               <lb facs="#facs_7_line_1647945264038_351" n="N008"/>ibidem Relicta Jorah Teglichin habet 
+               <lb facs="#facs_7_line_1647945383188_357" n="N009"/>domus una pars Anndre Pranntsteter 
+               <lb facs="#facs_7_line_1647945459201_361" n="N010"/>domus Altra pars Sigmund Stegfelder 
+               <lb facs="#facs_7_line_1647945570779_369" n="N011"/>d ibidem Hanns Primmer hospes iij s d 
+               <lb facs="#facs_7_line_1647945662893_374" n="N012"/>d ibidem Leonhart Gerner mawrer xxxij d 
+               <lb facs="#facs_7_line_1647945832380_380" n="N013"/>+ ibidem Wolfganng Hebmstain non cetera  xxxij d  
+               <lb facs="#facs_7_line_1647945906111_385" n="N014"/>+ ibidem Hanns Sillpranntzeller non cetera xxxij d 
+               <lb facs="#facs_7_line_1647946025668_393" n="N015"/>d domus Anndre Puchler Harniger perse iij ttl d 
+               <lb facs="#facs_7_r4l41" n="N016"/><hi>Wolfganng galhamrer Erben</hi> xij s d
+               <lb facs="#facs_7_line_1652883692858_230" n="N017"/><hi>11 d domus nota hat das geldt wider<unclear> ainne</unclear></hi>
+               <lb facs="#facs_7_line_1647946162862_402" n="N018"/>nihil ibidem Ulrich Kaimperger hospes lx d 
+               <lb facs="#facs_7_line_1647946238046_412" n="N019"/>ibidem Fridrich Pirsch habet 
+               <lb facs="#facs_7_line_1647946277371_416" n="N020"/>domus Sigmund Herrannttin 
+               <lb facs="#facs_7_r4l52" n="N021"/>nunc Hanns Mastfogl vacat
+               <lb facs="#facs_7_r4l53" n="N022"/>Mert Windenn
+               <lb facs="#facs_7_line_1660126000031_19" n="N023"/>pader Erben 
+               <lb facs="#facs_7_r4l54" n="N024"/>vj ttl d 
+               <lb facs="#facs_7_line_1660126000035_20" n="N025"/>Estuarium 
+               <lb facs="#facs_7_r4l56" n="N026"/>Zwn Rorn
+               <lb facs="#facs_7_r4l57" n="N027"/>xxvj ttl lxvj d 
+            </ab>
+            <ab facs="#facs_7_TextRegion_1647946785005_428" type="">
+               <lb facs="#facs_7_line_1647946837695_451" n="N001"/>d ibidem Seferin pader hospes j ttl d 
+               <lb facs="#facs_7_line_1647946910405_460" n="N002"/>d ibidem Wolfganng Weiss lewtgeb lx d 
+               <lb facs="#facs_7_line_1647946976275_465" n="N003"/>+ domus una pars Ruprecht Korbler Erben iij ttl d 
+               <lb facs="#facs_7_line_1647947033033_470" n="N004"/>d ibidem Mert Schaideckh Velferber hospes xxxij d 
+               <lb facs="#facs_7_line_1647947118269_476" n="N005"/>+ ibidem Panngretz ain bat xxxij d  
+               <lb facs="#facs_7_line_1647947242947_494" n="N006"/>1d ibidem Relicta Michel Guthuerin hunrainerin lx d 
+               <lb facs="#facs_7_line_1647947235567_490" n="N007"/>d domus altra pars Jorg Stecher pewtler ij ttl iiij s d 
+               <lb facs="#facs_7_line_1647947207616_485" n="N008"/>d ibidem Wolfganng Kettner Airer iiij s d 
+               <lb facs="#facs_7_line_1647947168520_481" n="N009"/>ibidem Augustin Kirchperger pot 
+               <lb facs="#facs_7_line_1647947568986_508" n="N010"/>d ibidem Hanns ain koch non cetera xxxij d 
+               <lb facs="#facs_7_line_1647947663303_519" n="N011"/>d domus Achatz Mostorffer goldslaher pse iiij ttl d 
+               <lb facs="#facs_7_line_1647947765235_526" n="N012"/>dedit <hi><unclear>iiij <comment comment="Rheinische\u0020Gulden?">fl rh</comment> domus</unclear></hi> Wernhardin Trungkh vj ttl d 
+               <lb facs="#facs_7_line_1647947798399_535" n="N013"/>7d domus Jorg Jordan perse xxij ttl d 
+               <lb facs="#facs_7_line_1647947815066_540" n="N014"/>d domus Ulrich Permanin 
+               <lb facs="#facs_7_line_1647947821825_544" n="N015"/>nunc Mert Keckh iiij ttl d 
+               <lb facs="#facs_7_line_1647947849526_551" n="N016"/>d ibidem Stephan Schuhl haringer j ttl d 
+               <lb facs="#facs_7_line_1647947868363_556" n="N017"/>ibidem Larentz Pentzinger zimerman non cetera xxxij d 
+               <lb facs="#facs_7_line_1647947885546_561" n="N018"/>d ibidem Mert Ain lewtgeb lx d 
+               <lb facs="#facs_7_line_1647947911742_566" n="N019"/>domus Oswald Prantesserin nunc
+               <lb facs="#facs_7_r8l38" n="N020"/>Wunwolt Mayr  
+               <lb facs="#facs_7_line_1647947921557_570" n="N021"/>nihil ibidem Relicta Michel Pisthofin obsserin iiij s d
+               <lb facs="#facs_7_r8l41" n="N022"/>xlv ttl vj s viij 
+            </ab>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <ab facs="#facs_8_TextRegion_1660131089038_79" type="">
+               <lb facs="#facs_8_line_1648033865178_10" n="N001"/>domus prima Kuntz Pinterin 
+               <lb facs="#facs_8_r1l1" n="N002"/>1d 
+               <lb facs="#facs_8_line_1648033872101_14" n="N003"/>ibidem Michel Pettennawer kursner hospes 
+               <lb facs="#facs_8_r4l1" n="N004"/>j ttl iiij s d 
+               <lb facs="#facs_8_r3l5" n="N005"/>d ibidem relicta Ludwig Puchsnmaister
+               <lb facs="#facs_8_line_1648043337438_114" n="N006"/>in Ain Naterin lx d 
+               <lb facs="#facs_8_line_1648043306089_107" n="N007"/>d ibidem Kuntz Mayr nesstler xxxij d 
+               <lb facs="#facs_8_line_1648043273803_101" n="N008"/>d domus Fridrich Pirsch perse vij ttl d 
+               <lb facs="#facs_8_line_1648043036246_87" n="N009"/>d domus 2<hi style="vertical-align: superscript;">a</hi> Michel Schachnreiter huter perse vij ttl d 
+               <lb facs="#facs_8_line_1648042397172_79" n="N010"/>d domus Gilig Ernst perse v ttl d 
+               <lb facs="#facs_8_line_1648042225303_67" n="N011"/>d ibidem Thoman Storlinger hawer xxxij d
+               <lb facs="#facs_8_line_1648042113962_58" n="N012"/>d ibidem Hanns Gruntman maler hospes j ttl d 
+               <lb facs="#facs_8_line_1648042042171_53" n="N013"/>d domus Hanns Grossin nunc Hanns <comment comment="könnte\u0020auch\u0020Sturnen\u0020sein\u0020">Sturmen</comment> perse v ttl d
+               <lb facs="#facs_8_line_1648041838673_44" n="N014"/>domus relicta Jorah <unclear>Kochweinin</unclear> Erben v ttl d 
+               <lb facs="#facs_8_line_1648041636999_33" n="N015"/>d ibidem Jorg Stern hawer iij s d
+               <lb facs="#facs_8_line_1648041379397_20" n="N016"/>d ibidem Hanns Vindl hospes j ttl iiij s d 
+               <lb facs="#facs_8_r3l13" n="N017"/>Wildwercherstrass
+               <lb facs="#facs_8_line_1648042347631_75" n="N018"/>ibidem Jorg Hanntlinger
+               <lb facs="#facs_8_line_1648042177397_63" n="N019"/>domus Wolfganng Gmechl Eysner 
+               <lb facs="#facs_8_line_1648041965180_49" n="N020"/>ibidem Sigmund  Hoffsteter Vorsprech habet 
+               <lb facs="#facs_8_r3l31" n="N021"/>d domus relicta Jorg Strawbnigerin perse
+               <lb facs="#facs_8_line_1648041539576_29" n="N022"/>ibidem Magdalena des Kochwein Tochter habet
+               <lb facs="#facs_8_line_1648041489282_25" n="N023"/>domus relicta Jorg Gundackherin 
+               <lb facs="#facs_8_r3l39" n="N024"/>xxxiij ttl iiij s iiij d
+            </ab>
+            <ab facs="#facs_8_TextRegion_1648043901517_150" type="">
+               <lb facs="#facs_8_line_1648043993063_184" n="N001"/>12 dedit per ? ib Bernhart 
+               <lb facs="#facs_8_line_1648046645972_193" n="N002"/>d do Relicta Achatz 
+               <lb facs="#facs_8_line_1648046673130_204" n="N003"/>d ib Jorg <unclear>Vleischmanndl</unclear> weintrager lx d 
+               <lb facs="#facs_8_line_1648046703191_209" n="N004"/>Weintrager ? <unclear>rl</unclear> 
+               <lb facs="#facs_8_r8l8" n="N005"/>Hanns ain Zimerman no <unclear>rl</unclear> xxxij d 
+               <lb facs="#facs_8_r8l9" n="N006"/>Jorg ?
+               <lb facs="#facs_8_r8l10" n="N007"/>
+               <lb facs="#facs_8_line_1648046729482_215" n="N008"/>d do Wolfganng Tuchler pse v ttl d 
+               <lb facs="#facs_8_line_1648046785810_223" n="N009"/>do ?a Hanns gunther <unclear>kursner</unclear> v ttl d 
+               <lb facs="#facs_8_line_1648046792439_227" n="N010"/>do ?a Hanns gunther <unclear>kursner</unclear> 
+               <lb facs="#facs_8_line_1648046977698_246" n="N011"/>d do Hanns <unclear>diethain</unclear> ? ? x s d 
+               <lb facs="#facs_8_line_1648046984384_250" n="N012"/>1 d ib Hanns agader kursner hos vj s d
+               <lb facs="#facs_8_line_1648047006698_258" n="N013"/>d do Gregor weidmer kursner pse ij ttl d 
+               <lb facs="#facs_8_line_1648047052266_265" n="N014"/>d do Steffan puchler kastecher pse x s d 
+               <lb facs="#facs_8_line_1648047069397_270" n="N015"/>do 2a Wolfganng Vieder j ttl d 
+               <lb facs="#facs_8_line_1648047202240_275" n="N016"/>d ib Adam pagner goldschmid hos 
+               <lb facs="#facs_8_r8l25" n="N017"/>Caspar M<unclear>ulldorfer</unclear> <unclear>Tuchscherer</unclear> 
+               <lb facs="#facs_8_line_1648047412282_279" n="N018"/>nur Wolfganng Egrer pse x sd  
+               <lb facs="#facs_8_line_1648047432084_284" n="N019"/>ib Relicta Hanns phissterin Tuchschererin ?z 
+               <lb facs="#facs_8_line_1648047441822_288" n="N020"/>do a pars Bertlmer Stahlschmid 
+               <lb facs="#facs_8_line_1648047450048_292" n="N021"/>Schuster pse viiij s d 
+               <lb facs="#facs_8_line_1648047471268_297" n="N022"/>d do ?a pars Alexannder Cramer xij s d 
+               <lb facs="#facs_8_line_1648047494587_302" n="N023"/>d do za pars Kuntz ? Tuchscher pse j ttl d 
+               <lb facs="#facs_8_r8l35" n="N024"/>xxvj ttl vj s ij d 
+               <lb facs="#facs_8_r5l2" n="N025"/>
+               <lb facs="#facs_8_r5l3" n="N026"/>
+               <lb facs="#facs_8_r5l7" n="N027"/>ib 
+               <lb facs="#facs_8_r5l8" n="N028"/>ib 
+               <lb facs="#facs_8_r5l21" n="N029"/>d do 
+            </ab>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
+            <ab facs="#facs_9_TextRegion_1648307013666_51" type="">
+               <lb facs="#facs_9_r7l1" n="N001"/>Schilltergassl 
+               <lb facs="#facs_9_line_1648307026978_57" n="N002"/>d domus Marx Kirchsteter kursner perse j ttl d
+               <lb facs="#facs_9_line_1650459901663_73" n="N003"/>10 d domus Veit Rudolfin kursnerin vij s d
+               <lb facs="#facs_9_line_1650460020353_80" n="N004"/>d ibidem Erhart Domer kursner hospes lx d 
+               <lb facs="#facs_9_line_1650460106530_89" n="N005"/>ibidem Michel Krappinger schneider xxxij d 
+               <lb facs="#facs_9_line_1650460183405_94" n="N006"/>domus Relicta Kirchpergerin vorsprechin ij ttl d 
+               <lb facs="#facs_9_line_1650460263092_101" n="N007"/>Ex<hi style="vertical-align: superscript;">to</hi> Schiltergassl 
+               <lb facs="#facs_9_line_1650459518187_21" n="N008"/>d domus Sigmund Grunwalt perse ij ttl iiij s d 
+               <lb facs="#facs_9_line_1650460398091_109" n="N009"/>d domus 2<hi style="vertical-align: superscript;">a</hi> Kuntz Pinterin xij s d 
+               <lb facs="#facs_9_line_1650460486531_116" n="N010"/>d ibidem Niclas Greiffin schusterin iij s d 
+               <lb facs="#facs_9_r7l23" n="N011"/>d ibidem Hanns Benrech zyngiesser j ttl d
+               <lb facs="#facs_9_line_1650460784922_131" n="N012"/>d ibidem Relicta Hanns Phissterin tuchschererin j ttl d 
+               <lb facs="#facs_9_line_1650460957251_143" n="N013"/>d domus Wolfganng Trew nunc ij ttl d 
+               <lb facs="#facs_9_r7l29" n="N014"/>Hanns Vischer schneider perse 
+               <lb facs="#facs_9_line_1650461082833_151" n="N015"/>ibidem Sannd Sebastianns bruderschafft habet 
+               <lb facs="#facs_9_line_1650461203683_155" n="N016"/>d ibidem Wolfganng Osterreicher goldschmid perse vj ttl d 
+               <lb facs="#facs_9_line_1650461283653_160" n="N017"/>d ibidem Leonhart Tachawer schneider iiij s d 
+               <lb facs="#facs_9_line_1650461354299_165" n="N018"/>d domus Relicta Jheronimuss Vischerin iiij ttl d 
+               <lb facs="#facs_9_r7l43" n="N019"/>xxiij ttl xxxij d 
+            </ab>
+            <ab facs="#facs_9_TextRegion_1650461593486_173" type="">
+               <lb facs="#facs_9_line_1650461676978_193" n="N001"/>7 d ibidem Cristoff Koler tuchscherer iiij s d 
+               <lb facs="#facs_9_line_1650461811038_219" n="N002"/>d ibidem Stephann Lex schneider iiij s d 
+               <lb facs="#facs_9_line_1683126960587_58" n="N003"/>8 dedit per abzug seins  
+               <lb facs="#facs_9_line_1650462089214_235" n="N004"/>Ratsold 4 ttl d vj ttl sein in den <unclear>????</unclear>
+               <lb facs="#facs_9_line_1683126960586_57" n="N005"/>Cristoff Steger perse x ttl d 
+               <lb facs="#facs_9_line_1650462224675_244" n="N006"/>9 d domus Oswalden Ernnst Erbn iiij ttl d 
+               <lb facs="#facs_9_line_1650462413484_252" n="N007"/>d ibidem Jorg Aslabing hospes j ttl d 
+               <lb facs="#facs_9_line_1650462514244_257" n="N008"/>ibidem Kunrat Goldshaider lx d 
+               <lb facs="#facs_9_line_1650462614482_264" n="N009"/>ibidem Wolfganng ain ungellter 
+               <lb facs="#facs_9_line_1650462674278_268" n="N010"/>ibidem prima des von Polhaim x ttl d 
+               <lb facs="#facs_9_line_1650462774948_273" n="N011"/>d ibidem Hainrich Rigl hospes iij ttl d 
+               <lb facs="#facs_9_line_1650462835026_280" n="N012"/>ibidem Peter kuniglicher mt casstner 
+               <lb facs="#facs_9_line_1650462994917_284" n="N013"/>domus 2<hi style="vertical-align: superscript;">a</hi> des von Polhaim v ttl d 
+               <lb facs="#facs_9_line_1650463149058_292" n="N014"/>d ibidem Hanns Gratzer kasstecher lx d 
+               <lb facs="#facs_9_line_1650463319154_311" n="N015"/>d ibidem <hi>Hanns</hi>
+               <lb facs="#facs_9_line_1650463309301_304" n="N016"/>Arnolt
+               <lb facs="#facs_9_line_1650463319154_310" n="N017"/>Urfelder lewtgeb xxxij d 
+               <lb facs="#facs_9_line_1650463603551_329" n="N018"/>d ibidem Leonnhart Forg gurtler lx d 
+               <lb facs="#facs_9_line_1650463775484_339" n="N019"/>d ibidem Bernnhart Turrnperkg gurtler lx d 
+               <lb facs="#facs_9_line_1650464135204_346" n="N020"/>d domus Vincentz Immerlieb schuster perse ij ttl iiij s d 
+               <lb facs="#facs_9_line_1650464334654_357" n="N021"/>domus Anndre Pranntsteter 
+               <lb facs="#facs_9_r14l19" n="N022"/>nunc Lorentz Pawr greissler
+               <lb facs="#facs_9_line_1650464449827_364" n="N023"/>d ibidem <unclear>B? ?</unclear> zeckhlmacher hospes j ttl d 
+               <lb facs="#facs_9_line_1650464798678_370" n="N024"/>+ ibidem Hanns Kasstner wundarzt iiij s d 
+               <lb facs="#facs_9_line_1650464855540_375" n="N025"/>d ibidem Hanns vom Lannd satler non cetera iij s d 
+               <lb facs="#facs_9_line_1650464979625_382" n="N026"/>nihil ibidem Hanns Lanndshuter hospes xxij d 
+               <lb facs="#facs_9_line_1650465030054_387" n="N027"/>d ibidem Leonhart Foreysen sleiffer xxxij d 
+               <lb facs="#facs_9_r14l25" n="N028"/>xxxviiij ttl vj s vj d 
+            </ab>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
+            <ab facs="#facs_10_TextRegion_1650465167175_398" type="">
+               <lb facs="#facs_10_r1l1" n="N001"/>domus zuhewsl des von Polhaim 
+               <lb facs="#facs_10_line_1650465892741_406" n="N002"/>d ibidem Stephan Pernoder burgerpeckh vj s d 
+               <lb facs="#facs_10_r1l4" n="N003"/>domus prima Hanns Mannglhaimer Erbn 
+               <lb facs="#facs_10_line_1650466045072_416" n="N004"/>d ibidem Hanns Koch hunrairer iiij s d 
+               <lb facs="#facs_10_line_1650466255119_420" n="N005"/>+ ibidem Anndre Weispacher xxxij d 
+               <lb facs="#facs_10_line_1650466306056_425" n="N006"/>d domus 2a Hanns Mannglhaimer Erbn iij ttl d 
+               <lb facs="#facs_10_line_1650466398371_441" n="N007"/>d ibidem Jorg Leitner schneider lx d 
+               <lb facs="#facs_10_line_1650466438496_446" n="N008"/>ibidem Wolfganng Holtzinger ladner lx d
+               <lb facs="#facs_10_line_1650466483623_451" n="N009"/>d ibidem Hanns Geyr ungellter lx d 
+               <lb facs="#facs_10_line_1650466557030_460" n="N010"/>ibidem Bertlme Stettner organist non cetera  
+               <lb facs="#facs_10_line_1650466642050_464" n="N011"/>ibidem Johannes Gmainer Stat <unclear>R???entzer</unclear> 
+               <lb facs="#facs_10_r1l19" n="N012"/>Expposito 
+               <lb facs="#facs_10_line_1650466734586_471" n="N013"/>domus Leopold Schmotawer viiij ttl d 
+               <lb facs="#facs_10_line_1683193516073_148" n="N014"/><unclear continued="true">vest ??? zur ge</unclear>
+               <lb facs="#facs_10_r1l21" n="N015"/><unclear continued="true">sch  fon 8 foleo 142</unclear>
+               <lb facs="#facs_10_r1l22" n="N016"/>nunc Cristoff Steger 
+               <lb facs="#facs_10_line_1650466951348_482" n="N017"/>ibidem Larentz Dorffl hospes 
+               <lb facs="#facs_10_line_1650467010013_492" n="N018"/>d ibidem Sigmund Holtzhaimer oler iiij s d 
+               <lb facs="#facs_10_line_1650467084000_500" n="N019"/>d ibidem Hanns Franngkh sleiffer lx d 
+               <lb facs="#facs_10_line_1650467215505_508" n="N020"/>Ex<hi style="vertical-align: superscript;">to</hi> et econuerso
+               <lb facs="#facs_10_line_1650467302428_514" n="N021"/>domus Dominorum de Mawrbach 
+               <lb facs="#facs_10_line_1650467373917_520" n="N022"/>ibidem Hanns Stulpacher 
+               <lb facs="#facs_10_r1l36" n="N023"/>xiiij ttl vij s ij d 
+            </ab>
+            <ab facs="#facs_10_TextRegion_1650467466558_545" type="">
+               <lb facs="#facs_10_line_1650467570223_566" n="N001"/>d ibidem Cristof Marrkl paternosterer xxxij d 
+               <lb facs="#facs_10_line_1650467598476_573" n="N002"/>ibidem  Benedict Schuttenhelm vasziher xxxij d 
+               <lb facs="#facs_10_line_1650467821953_580" n="N003"/>d ibidem Peter Liebmperger gurtler xxxij d 
+               <lb facs="#facs_10_line_1650467890087_587" n="N004"/>ibidem Wolfgang Khellner kuniglicher mt zechuter 
+               <lb facs="#facs_10_line_1650467934825_591" n="N005"/>ibidem Jorg Mawrerin xxxij d 
+               <lb facs="#facs_10_line_1650467978679_597" n="N006"/>d ibidem Peter Ernhainer pewtler lx d 
+               <lb facs="#facs_10_line_1650468039808_602" n="N007"/>nihil ibidem <unclear>???</unclear> Hanns Khatzhaimer lewtgeb xxxij d 
+               <lb facs="#facs_10_line_1650468099626_609" n="N008"/>nihil ibidem Ulrich Perger hawer xxxij d 
+               <lb facs="#facs_10_r9l9" n="N009"/>domus 1<hi style="vertical-align: superscript;">a</hi> Lanngenkheller nunc 
+               <lb facs="#facs_10_line_1650468199003_619" n="N010"/>ib Wolfgang Fuchsperger <hi>hospes</hi> perse viij ttl d 
+               <lb facs="#facs_10_line_1683195114913_188" n="N011"/>d
+               <lb facs="#facs_10_line_1650468271061_626" n="N012"/>d ibidem Mathes Peltz pheylschiffter xxxij d 
+               <lb facs="#facs_10_line_1650468340932_633" n="N013"/>ibidem Hanns Gannserin lx d
+               <lb facs="#facs_10_line_1650468414607_644" n="N014"/>d domus Michel Spannberger schuster perse xiiij s d  
+               <lb facs="#facs_10_line_1650468468114_649" n="N015"/>domus 2<hi style="vertical-align: superscript;">a</hi> Lanngen khellner 
+               <lb facs="#facs_10_line_1650468499685_653" n="N016"/>d ibidem Cristoff Purckhart ladner iij s d
+               <lb facs="#facs_10_line_1650468591697_662" n="N017"/>d ibidem Stephan Moser swertfeger lx d 
+               <lb facs="#facs_10_line_1650468655802_667" n="N018"/>domus 3<hi style="vertical-align: superscript;">a</hi> Lanngenkeller 
+               <lb facs="#facs_10_line_1650468682605_671" n="N019"/>d ibidem Heinrich Layminger ladner iij s d 
+               <lb facs="#facs_10_line_1650468714475_680" n="N020"/>ibidem Wolfganng ain lewtgeb lx d
+               <lb facs="#facs_10_line_1650468726761_684" n="N021"/>domus Relicta Anndre Vederin 
+               <lb facs="#facs_10_line_1650468732169_688" n="N022"/>d ibidem Sigmund Winttersteiger messrer iij s d 
+               <lb facs="#facs_10_r9l23" n="N023"/><comment comment="später\u0020hinzugefügt?/\u0020andere\u0020Handschrift\u0020">d ibidem Hanns Simd leiteg iiij s d</comment>
+               <lb facs="#facs_10_r9l24" n="N024"/>xij ttl vj s viiij d 
+            </ab>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+            <ab facs="#facs_11_r2" type="">
+               <lb facs="#facs_11_line_1651060552739_41" n="N001"/>d domus Ulrich Schrat zum Eysengattern iiij ttl d 
+               <lb facs="#facs_11_line_1651060663895_53" n="N002"/>d ibidem Jorg Olerin gurtlerin xxxij d 
+               <lb facs="#facs_11_line_1651060716753_59" n="N003"/>d ibidem Wolfganng Lehner cramer lx d 
+               <lb facs="#facs_11_line_1651060765265_64" n="N004"/>d ibidem Stephan Mayr Lewtgwb xxxij d 
+               <lb facs="#facs_11_line_1651060834901_69" n="N005"/>+ ibidem Jorg Hunrairer lx d
+               <lb facs="#facs_11_line_1651060892399_74" n="N006"/>d ibidem Berhardin Nartzenpeckh pogner lx d 
+               <lb facs="#facs_11_line_1651061027862_81" n="N007"/>d ibidem Bertlmee Klampher non cetera xxxij d 
+               <lb facs="#facs_11_line_1651061225199_86" n="N008"/>d ibidem Hanns Hirsfelder messrer lx d 
+               <lb facs="#facs_11_line_1651061301850_93" n="N009"/>domus 4<hi style="vertical-align: superscript;">a</hi> Lanngen keller 
+               <lb facs="#facs_11_line_1651061339051_97" n="N010"/>d ibidem Oswald Guglhuber koltrager hospes xxxij d 
+               <lb facs="#facs_11_r2l39" n="N011"/>Claustrum zwn Weisenbruedern 
+               <lb facs="#facs_11_r2l40" n="N012"/>domus 1<hi style="vertical-align: superscript;">a</hi> Civitatis 
+               <lb facs="#facs_11_line_1651061871574_108" n="N013"/>d ib Ulrich Hafenpratl hospes xxxij d 
+               <lb facs="#facs_11_r2l43" n="N014"/>domus 2<hi style="vertical-align: superscript;">a</hi> Civitatis 
+               <lb facs="#facs_11_r2l44" n="N015"/>d ibidem Hanns Fuchspuchler koltrager hospes xxxij d 
+               <lb facs="#facs_11_r2l45" n="N016"/>domus 3<hi style="vertical-align: superscript;">a</hi> Civitatis  
+               <lb facs="#facs_11_line_1651062098504_127" n="N017"/>d ibidem Ulrich Peyss Tanndler xxxij d 
+               <lb facs="#facs_11_r2l48" n="N018"/>v ttl vij s xiiij d 
+            </ab>
+            <ab facs="#facs_11_r6" type="">
+               <lb facs="#facs_11_r6l1" n="N001"/>domus 4a Civitatis  
+               <lb facs="#facs_11_line_1651062302228_156" n="N002"/>d ibidem Hanns Zoller mawrer hospes xxxij d 
+               <lb facs="#facs_11_line_1651062352183_161" n="N003"/>domus 5a Civitatis
+               <lb facs="#facs_11_line_1651062524673_165" n="N004"/>+ ibidem Zacherias Kraws hospes v s d
+               <lb facs="#facs_11_line_1651062567973_170" n="N005"/>domus 6a Civitatis 
+               <lb facs="#facs_11_line_1651062972255_184" n="N006"/>d ibidem Jorg Mettlhaimer kramer hospes non cetera iiij s d 
+               <lb facs="#facs_11_line_1651063189892_195" n="N007"/>Ex<hi style="vertical-align: superscript;">to</hi> Kasstn am Hof 
+               <lb facs="#facs_11_line_1651063432064_199" n="N008"/>domus Hanns Packhprannstat
+               <lb facs="#facs_11_line_1651063471219_203" n="N009"/>d domus Relicta Jorg Huberin iiij ttl d 
+               <lb facs="#facs_11_line_1651064474272_219" n="N010"/>ibidem Relicta Cristof Pesinger Erbn Nunc Wolf ij ttl iiij s d 
+               <lb facs="#facs_11_r6l25" n="N011"/>ganng Postunger  
+               <lb facs="#facs_11_line_1651064776241_238" n="N012"/>d domus Gilig Hoflich huter Erbn v ttl d 
+               <lb facs="#facs_11_line_1651064848975_245" n="N013"/>d domus Relicta Peter Taimgkhlin huterin ij ttl d 
+               <lb facs="#facs_11_line_1651064909961_250" n="N014"/>d ibidem Fridrich Mayr huter hospes vj s d 
+               <lb facs="#facs_11_line_1651064989339_261" n="N015"/>d ibidem Jorg Steyrer messrer xxxij d 
+               <lb facs="#facs_11_line_1651065132380_269" n="N016"/>d domus Veit Wagner huter perse j ttl iiij s d 
+               <lb facs="#facs_11_line_1651065173265_275" n="N017"/>domus Hanns Tallinger purschtnpinter Erben
+               <lb facs="#facs_11_line_1651065286694_281" n="N018"/>nunc Heronime Kreirer huter perse x s d 
+               <lb facs="#facs_11_line_1651065343830_288" n="N019"/>d domus Jorg Reytzinger huter perse v ttl d 
+               <lb facs="#facs_11_line_1651065414538_300" n="N020"/>d domus Niclas Hapher huter perse v ttl d 
+               <lb facs="#facs_11_r6l53" n="N021"/><unclear>?</unclear> <unclear>viij ttl iij s iiij d </unclear>
+            </ab>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+            <ab facs="#facs_12_TextRegion_1651065675001_332" type="">
+               <lb facs="#facs_12_line_1651065714512_336" n="N001"/>8 d domus Relicta Jorg Klerin iij ttl d
+               <lb facs="#facs_12_line_1688735756132_51" n="N002"/>d domus prima Jorg Lustlich
+               <lb facs="#facs_12_r5l3" n="N003"/>nunc Larentz <unclear>Obechnber</unclear> 
+               <lb facs="#facs_12_line_1688735756131_50" n="N004"/>ij ttl d
+               <lb facs="#facs_12_line_1688735805106_59" n="N005"/>d domus 2<hi style="vertical-align: superscript;">a</hi> Jorg Lustlich nunc  
+               <lb facs="#facs_12_r5l5" n="N006"/>Wolfganng Hohnawer perse 
+               <lb facs="#facs_12_line_1688735805104_58" n="N007"/>iiij ttl d 
+               <lb facs="#facs_12_line_1651065970544_359" n="N008"/>domus 3a Jorg Lustlich 
+               <lb facs="#facs_12_line_1651065987091_363" n="N009"/>d ibidem Relicta Thoman Weitzer artztin j ttl d 
+               <lb facs="#facs_12_r5l8" n="N010"/>Im Tewffengraben 
+               <lb facs="#facs_12_r5l10" n="N011"/>domus 2<hi style="vertical-align: superscript;">a</hi> Lorentz von Pulca verber 
+               <lb facs="#facs_12_line_1651066158854_376" n="N012"/>ibidem Peter Pindinger hawer hospes xxxij d 
+               <lb facs="#facs_12_line_1688735673722_36" n="N013"/>d domus Sigmunnd Rietennperger 
+               <lb facs="#facs_12_r5l13" n="N014"/>esstrachgiesser
+               <lb facs="#facs_12_line_1688735673719_35" n="N015"/>iiij s d 
+               <lb facs="#facs_12_r5l14" n="N016"/>domus 1<hi style="vertical-align: superscript;">a</hi> ad Sanctum Spiritum 
+               <lb facs="#facs_12_line_1651066365004_392" n="N017"/>d ibidem Hanns vom Hof schuster xxxij d 
+               <lb facs="#facs_12_line_1651067731852_397" n="N018"/>domus 2<hi style="vertical-align: superscript;">a</hi> ad Sanctum Spiritum 
+               <lb facs="#facs_12_line_1651067761218_401" n="N019"/>d ibidem Wolfganng Pirpaumer oler hospes iiij ttl d 
+               <lb facs="#facs_12_r5l19" n="N020"/>Exopposito
+               <lb facs="#facs_12_r5l20" n="N021"/>xiiij ttl vj s iiij d 
+            </ab>
+            <ab facs="#facs_12_TextRegion_1651067922095_420" type="">
+               <lb facs="#facs_12_line_1651068030542_443" n="N001"/>d domus Herr Hannsen Poschen xxxij d 
+               <lb facs="#facs_12_line_1651068117506_456" n="N002"/>ibidem Hanns Stubmfol 
+               <lb facs="#facs_12_line_1651069204496_463" n="N003"/>d domus ad Sanctum Lawrentzium j ttl d 
+               <lb facs="#facs_12_line_1651069328943_469" n="N004"/>d ibidem Anndre Magerhofer futrer hospes lx d 
+               <lb facs="#facs_12_line_1651069442612_477" n="N005"/>d ibidem Wolfganng Hewpperger ladner lx d 
+               <lb facs="#facs_12_line_1651069505548_486" n="N006"/>domus 2<hi style="vertical-align: superscript;">a</hi> Herr Hannsen Poschen 
+               <lb facs="#facs_12_line_1651069538979_490" n="N007"/>d ibidem Hanns Pawngartner hospes lx d 
+               <lb facs="#facs_12_line_1651069597343_495" n="N008"/>d ibidem Leonhart Prawn koltrager lx d 
+               <lb facs="#facs_12_line_1651068074585_451" n="N009"/>d ibidem Oswald Koch non cetera lx d 
+               <lb facs="#facs_12_line_1651069702718_504" n="N010"/>domus prima ad Sanctum Pangracium
+               <lb facs="#facs_12_line_1651069733790_509" n="N011"/>d ibidem Relicta Hainrichin ain naterin xxxij d 
+               <lb facs="#facs_12_line_1651069814471_514" n="N012"/>ibidem Gregor Hackhl schabhuter habet <hi>lx </hi>d 
+               <lb facs="#facs_12_line_1651069938397_526" n="N013"/>domus 2<hi style="vertical-align: superscript;">a</hi> ad Sanctum Pangracium 
+               <lb facs="#facs_12_line_1651069968072_530" n="N014"/>ibidem Herr Hanns Raintinger 
+               <lb facs="#facs_12_line_1651069996801_534" n="N015"/>domus der von Schotten 
+               <lb facs="#facs_12_line_1651070024097_538" n="N016"/>d ibidem Jorg Hockl schabhuter perse lx d 
+               <lb facs="#facs_12_line_1651070559293_546" n="N017"/>d domus Relicta Jorg Rorerin iij ttl d 
+               <lb facs="#facs_12_line_1651070989821_551" n="N018"/>ibidem Leonhart Meichsner gwanntler hospes 
+               <lb facs="#facs_12_line_1651071036818_555" n="N019"/>domus Pharrhof ad Sanctum Pangracium 
+               <lb facs="#facs_12_line_1651071073456_559" n="N020"/>d ibidem Anndre Stettner koltrager lx d 
+               <lb facs="#facs_12_line_1651071130863_564" n="N021"/>7 d ibidem Jorg Ersleiher kolltrager lx d 
+               <lb facs="#facs_12_r11l22" n="N022"/>v ttl vj s iiij d 
+               <lb facs="#facs_12_r15l1" n="N023"/>9
+            </ab>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <ab facs="#facs_13_TextRegion_1651071229579_577" type="">
+               <lb facs="#facs_13_line_1651071287285_602" n="N001"/>d ibidem Kuntz ain rosler xxxij d 
+               <lb facs="#facs_13_line_1651071336055_609" n="N002"/>d ibidem Jorg Zehenntner kursner xxxij d 
+               <lb facs="#facs_13_line_1651071508760_618" n="N003"/>nihil ibidem Hanns Sweher ausruffer xxxij d 
+               <lb facs="#facs_13_line_1651660111912_16" n="N004"/>domus 2<hi style="vertical-align: superscript;">a</hi> Relicta Wolfganng Frohlichin 
+               <lb facs="#facs_13_line_1651660175412_22" n="N005"/>nihil ibidem Michel Springinelee rosler Lx d
+               <lb facs="#facs_13_line_1651660270426_27" n="N006"/>d ibidem Stephan Puchler huter hospes j ttl d 
+               <lb facs="#facs_13_line_1651660327271_34" n="N007"/>d ibidem Hanns Weschawserin koltragerin Lx d
+               <lb facs="#facs_13_line_1651660460371_43" n="N008"/>9 d ibidem hanns Taudler non cetera iiij s d 
+               <lb facs="#facs_13_line_1651660695044_65" n="N009"/>+ ibidem Hanns Koltrager Lx d 
+               <lb facs="#facs_13_line_1651663616565_89" n="N010"/>+ ibidem Niclas ain puchtruckher vj s d 
+               <lb facs="#facs_13_line_1651663697310_94" n="N011"/>d domus <hi>ibidem</hi> Paul Aicher huter perse j ttl vij s
+               <lb facs="#facs_13_r1l24" n="N012"/>Undern Pongnern 
+               <lb facs="#facs_13_r1l25" n="N013"/>ist verkawft durch 
+               <lb facs="#facs_13_r1l26" n="N014"/>den Stadt Cammerer
+               <lb facs="#facs_13_line_1651663926053_101" n="N015"/>Domus Relicta Wolfganng Velserin pognerin j ttl d 
+               <lb facs="#facs_13_r1l28" n="N016"/>Jeronime Resling 
+               <lb facs="#facs_13_line_1651664088406_107" n="N017"/>d ibidem Mertt Grymer kursner vj s d
+               <lb facs="#facs_13_r1l31" n="N018"/>ibidem Erhart Demer kursner habet 
+               <lb facs="#facs_13_r1l32" n="N019"/>domus una pars Niclas Hopher huter
+               <lb facs="#facs_13_r1l33" n="N020"/>7 d ibidem Jorg Reinnolt Reysner non cetera lx d 
+               <lb facs="#facs_13_r1l34" n="N021"/>vij lxvj d 
+            </ab>
+            <ab facs="#facs_13_TextRegion_1651665181226_135" type="">
+               <lb facs="#facs_13_line_1651665226179_145" n="N001"/>+ ibidem Stephan Awer hawer non cetera Lx d 
+               <lb facs="#facs_13_line_1651665531073_198" n="N002"/>d ibidem Relicta Hanns Ringkhlschmidin xxxij d
+               <lb facs="#facs_13_r9l3" n="N003"/>naterin
+               <lb facs="#facs_13_line_1651665668396_209" n="N004"/>12 d domus Altra pars Relicta Hanns Pinterin iij ttl d 
+               <lb facs="#facs_13_line_1651665762263_217" n="N005"/><unclear>per hainreich suessrer </unclear>
+               <lb facs="#facs_13_line_1651665933500_224" n="N006"/>9 d ibidem Niclas Egrer rosler lx d 
+               <lb facs="#facs_13_line_1651665998135_229" n="N007"/>d domus Hanns Rorer pogner iij ttl d 
+               <lb facs="#facs_13_line_1651666101464_234" n="N008"/>d ibidem Jacob Rab gwanntler hospes iij s d 
+               <lb facs="#facs_13_line_1651666174147_243" n="N009"/>domus Hanns Kleeplat cramer 
+               <lb facs="#facs_13_line_1651666207037_248" n="N010"/>d ibidem Wolfganng Lanntsch ladner Lx d 
+               <lb facs="#facs_13_line_1651666323249_255" n="N011"/>d ibidem Hainrich Stahl  pogner xxxij d 
+               <lb facs="#facs_13_line_1651666372799_264" n="N012"/>d ibidem Wilpold Riederin gwantlerin Lx d 
+               <lb facs="#facs_13_line_1651666441728_269" n="N013"/>d ibidem Hanns Frey cramer Lx d 
+               <lb facs="#facs_13_r9l13" n="N014"/>d domus Jorg Maltzer pogner perse j ttl d 
+               <lb facs="#facs_13_r9l14" n="N015"/>d domus Paul Diemer messrer perse j ttl vj s 
+               <lb facs="#facs_13_r9l15" n="N016"/>d domus Terria Cuntz pinterin iij ttl d 
+               <lb facs="#facs_13_line_1651666698363_282" n="N017"/>d domus prima Kuntz Wolf perse j ttl d 
+               <lb facs="#facs_13_r9l18" n="N018"/>domus 2<hi style="vertical-align: superscript;">a</hi> Kuntz Wolf 
+               <lb facs="#facs_13_r9l19" n="N019"/>7 d domus relicta Peter Holtzaphlin
+               <lb facs="#facs_13_r9l20" n="N020"/>d ib Hanns Mostfogl pogner hospes j ttl iiij s 
+               <lb facs="#facs_13_r9l21" n="N021"/>d domus Hanns Wintersteiger messrer perse j ttl vj s 
+               <lb facs="#facs_13_r9l22" n="N022"/>8d domus Gabriel Langenmanntl pogner perse j ttl d 
+               <lb facs="#facs_13_r9l23" n="N023"/>d domus Wolfganng Odnburger messrer perse j ttl iiijs 
+               <lb facs="#facs_13_r9l24" n="N024"/>xviij ttl iij s d 
+            </ab>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
+            <ab facs="#facs_14_TextRegion_1651667319760_314" type="">
+               <lb facs="#facs_14_line_1651667423190_349" n="N001"/>d domus Pangretz Oderin messrerin perse j ttl d 
+               <lb facs="#facs_14_line_1651667641198_356" n="N002"/>d domus Hanns Krans swertfeger perse j ttl d 
+               <lb facs="#facs_14_r2l5" n="N003"/>Pewrerthof 
+               <lb facs="#facs_14_line_1651667742321_366" n="N004"/>ibidem Maister Leonhart Phlasstrer hospes 
+               <lb facs="#facs_14_line_1651667840295_370" n="N005"/>d ibidem Peter Liechtnnburger pheischiffter iiij s d 
+               <lb facs="#facs_14_line_1651668044944_375" n="N006"/>d domus Jorg Raid perse x s d 
+               <lb facs="#facs_14_line_1651668082653_380" n="N007"/>d domus Wolfganng Taninger ringklschmid perse j ttl d 
+               <lb facs="#facs_14_line_1651668165659_385" n="N008"/>d domus Thoman Suttner messrer perse ij ttl d 
+               <lb facs="#facs_14_line_1651668217497_390" n="N009"/>Ex<hi style="vertical-align: superscript;">to</hi> Pewrerthor 
+               <lb facs="#facs_14_line_1651668332272_399" n="N010"/>d domus Relicta Erhart Pabmbergerin ij ttl d 
+               <lb facs="#facs_14_line_1651668400086_404" n="N011"/>+ ibidem Jobst Frey swertfeger xxxij d 
+               <lb facs="#facs_14_r2l21" n="N012"/>d domus Anndre Ublpacher iiij ttl d 
+               <lb facs="#facs_14_line_1651668567737_412" n="N013"/>d ibidem Cristoff Jobst schuester Lx 
+               <lb facs="#facs_14_r2l24" n="N014"/>d domus Hanns Liechtnburger pheilschiffter v ttl d 
+               <lb facs="#facs_14_line_1651669722024_432" n="N015"/>1 dedit per <unclear>Camd</unclear> domus Wolfgang Rigl perse v ttl d 
+               <lb facs="#facs_14_r2l27" n="N016"/>ibidem Wolfganng Strawss kn mt  gegnschreiber
+               <lb facs="#facs_14_line_1651669962572_441" n="N017"/>ibidem maister Michel Puchssennmeister
+               <lb facs="#facs_14_line_1651670115816_449" n="N018"/>ibidem Anthoninn ain naterin 
+               <lb facs="#facs_14_line_1651670502199_453" n="N019"/>ib Florian Thorr Ain schreiber 
+               <lb facs="#facs_14_r2l34" n="N020"/>xxij ttl vij s ij d 
+            </ab>
+            <ab facs="#facs_14_r11" type="">
+               <lb facs="#facs_14_r11l1" n="N001"/>Domus kunigclicher mt Hubhaws 
+               <lb facs="#facs_14_r11l2" n="N002"/>ibidem Herr Hanns Mader kuniglicher mt vitzthumb 
+               <lb facs="#facs_14_r11l3" n="N003"/>ib Veit Regl khollmaister 
+               <lb facs="#facs_14_line_1651672131611_502" n="N004"/>ibidem Hanns Oder gegennschreiber 
+               <lb facs="#facs_14_line_1651672198638_508" n="N005"/>dedit ??? domus relicta Andre Vederin xv ttl d
+               <lb facs="#facs_14_line_1651672295184_515" n="N006"/>defit ??? ibidem Maister Stephan Howner hos x ttl d
+               <lb facs="#facs_14_line_1651672401609_528" n="N007"/>+ ibidem Hanns frannberger Ladner Lx j ttl d 
+               <lb facs="#facs_14_line_1651672449821_534" n="N008"/>nil ibidem Michel Stilmacherin messrerin xxxij d 
+               <lb facs="#facs_14_line_1651672488002_538" n="N009"/>d ibidem michel peter paternostrer xxxij d 
+               <lb facs="#facs_14_line_1651672551449_543" n="N010"/>+ ibidem relicta Barbara ain Ladnerin Lx d 
+               <lb facs="#facs_14_line_1651672592600_548" n="N011"/>d domus prima Bertlme Schalawtzer perse x ttl d
+               <lb facs="#facs_14_line_1651672682329_560" n="N012"/>d domus Gabriel Anngrer Oler perse xij ttl d 
+               <lb facs="#facs_14_line_1651672773564_571" n="N013"/>d domus 2<hi style="vertical-align: superscript;">a</hi> Larentz pawr greissler perse xiiij ttl d 
+               <lb facs="#facs_14_r11l30" n="N014"/>domus 2 a Bertlme Schalawtzer 
+               <lb facs="#facs_14_r11l31" n="N015"/>ibidem Wolfganng partzner greissler hz 
+               <lb facs="#facs_14_r11l32" n="N016"/><hi>domus Babniol Anngrer Oler perse </hi>
+               <lb facs="#facs_14_r11l33" n="N017"/><hi>domus 2a Larentz Pawr greissler perse </hi>
+               <lb facs="#facs_14_r11l34" n="N018"/>d domus 2a Bertlme Schalawtzer <unclear>st ranger</unclear> xij ttl d 
+               <lb facs="#facs_14_r11l35" n="N019"/>d ibidem Wolfganng Mangold Oler hos j ttl d 
+               <lb facs="#facs_14_line_1651673216342_596" n="N020"/>d ibidem MaisterJacob Wundartzt iiij s d 
+               <lb facs="#facs_14_r11l38" n="N021"/>d ibidem Beorig gmach greissler vj s d
+               <lb facs="#facs_14_r11l39" n="N022"/>d ibidem Wolfganng Klampher iij s d
+               <lb facs="#facs_14_line_1651673375799_609" n="N023"/>d ibidem relicta <unclear>Braslin funranerin</unclear> 
+               <lb facs="#facs_14_r11l42" n="N024"/>lxxxvij ttl vij s iiij d 
+            </ab>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+            <ab facs="#facs_15_TextRegion_1651673611501_653" type="">
+               <lb facs="#facs_15_line_1651673649724_658" n="N001"/>nil ibidem Hanns Schadendersser Von sprech. j ttl d 
+               <lb facs="#facs_15_line_1651673721348_663" n="N002"/>domus Zicherosl Bertlme Schalawtzer 
+               <lb facs="#facs_15_line_1651740653018_25" n="N003"/>d ibidem Michel Hager greissler hos ij ttl d 
+               <lb facs="#facs_15_line_1651740716956_32" n="N004"/>domus 2<hi style="vertical-align: superscript;">a</hi> Hanns prunner Oler
+               <lb facs="#facs_15_r4l9" n="N005"/>nunc Hanns Schockh
+               <lb facs="#facs_15_r4l10" n="N006"/>d ibidem Wolfganng ain wundtartzt no rl iiij s d 
+               <lb facs="#facs_15_line_1651740851117_45" n="N007"/>Ex<hi style="vertical-align: superscript;">to</hi> auf S peters srerthoff
+               <lb facs="#facs_15_r4l14" n="N008"/>Domus prima gachaimer 
+               <lb facs="#facs_15_line_1651741162700_54" n="N009"/>nil ibidem relicta Erhart Stadlerin nunc valtin hos Lx d 
+               <lb facs="#facs_15_line_1651741464061_61" n="N010"/>d ibidem Peter Vollnstain glaser Lx d 
+               <lb facs="#facs_15_r4l21" n="N011"/>domus 2<hi style="vertical-align: superscript;">a</hi> gachaimer Erben
+               <lb facs="#facs_15_line_1651741590952_69" n="N012"/>d ibidem Hanns posst greissler hos ij ttl d 
+               <lb facs="#facs_15_line_1651741633399_74" n="N013"/>nil ibidem Anndre ain Altpirsserin Lx d 
+               <lb facs="#facs_15_line_1651741686935_79" n="N014"/>domus 3<hi style="vertical-align: superscript;">a</hi> Bachainrer Erben j ttl d 
+               <lb facs="#facs_15_line_1651741757866_91" n="N015"/>d ibidem Niclas <unclear>Unbog</unclear> drechsler iiij s d 
+               <lb facs="#facs_15_line_1651741855975_99" n="N016"/>d domus prima Veit Hebmkhrieg Leimrat perse x ttl d
+               <lb facs="#facs_15_line_1651742184568_111" n="N018"/>ibidem Thoman Eysner hawer Lx d
+               <lb facs="#facs_15_line_1651742215836_117" n="N019"/>ibidem Hanns fuchs Ausruffer Lx d 
+               <lb facs="#facs_15_r4l38" n="N020"/>domus herr Larenzt Haiden 
+               <lb facs="#facs_15_line_1651742268641_122" n="N021"/>d ibidem Hanns Haindorffer hawer Lxxx d 
+               <lb facs="#facs_15_line_1651742343241_132" n="N022"/>d ibidem Anndre Schurmprant Lxxx d
+               <lb facs="#facs_15_line_1651742388226_137" n="N023"/>d domus 2<hi style="vertical-align: superscript;">a</hi> Hanns prunner Oler xv ttl 
+               <lb facs="#facs_15_r4l45" n="N024"/>nunc Hanns Scharckh perse 
+               <lb facs="#facs_15_r4l46" n="N025"/>xxxiij ttl Lx d 
+            </ab>
+            <ab facs="#facs_15_TextRegion_1651742705045_186" type="">
+               <lb facs="#facs_15_line_1651742757844_194" n="N001"/>d Domus Leonhart Emenckl Erben iiij ttl d 
+               <lb facs="#facs_15_line_1651742849753_201" n="N002"/>d ibidem Maert Hofman slosser hos Lx d 
+               <lb facs="#facs_15_line_1651742903847_206" n="N003"/>d ibidem Ott Krachsperger Humrairer vj s d 
+               <lb facs="#facs_15_line_1651742985383_212" n="N004"/>d ibidem Ludwig Furst Kursner xxxij d 
+               <lb facs="#facs_15_line_1651743044567_219" n="N005"/>d ibidem <unclear>und</unclear> Ain slagerin Lx d
+               <lb facs="#facs_15_line_1651743089377_224" n="N006"/>domus Dotor Brici von Zili vj s d 
+               <lb facs="#facs_15_r8l2" n="N007"/><unclear>Zweigesch</unclear>
+               <lb facs="#facs_15_r8l3" n="N008"/><unclear>vest </unclear>
+               <lb facs="#facs_15_line_1651743154201_230" n="N009"/>ibidem Jorg Vormoster Strichmacher hos vj s d 
+               <lb facs="#facs_15_r9l19" n="N010"/>d Domus 3<hi style="vertical-align: superscript;">a</hi> Anndre pranntsteter perse xv ttl d 
+               <lb facs="#facs_15_r9l20" n="N011"/>Domus 3<hi style="vertical-align: superscript;">a</hi> Stephan Een 
+               <lb facs="#facs_15_line_1651743489004_246" n="N012"/>d ibidem Mathes Silbererkh slosser Lx d 
+               <lb facs="#facs_15_line_1651743570358_253" n="N013"/>+ ibidem Vabian Hawbmschmid nagler Lx d 
+               <lb facs="#facs_15_line_1651743633947_264" n="N014"/>d ibidem Fritz pramrer slosser iij s d 
+               <lb facs="#facs_15_line_1651743685305_271" n="N015"/>d ibidem Wolfganng Dawmb slosser Lx d 
+               <lb facs="#facs_15_line_1651743734271_278" n="N016"/>d ibidem Pantoleon werder slosser iij s d 
+               <lb facs="#facs_15_line_1651743790370_285" n="N017"/>d ibidem Bertlme Kosner Zingiesser iij s d 
+               <lb facs="#facs_15_line_1651743839641_290" n="N018"/>d ibidem Hanns pawser Goldschmid iiij s d 
+               <lb facs="#facs_15_line_1651743905695_295" n="N019"/>d ibidem Wilhalns mitermayr vaszieher Lx d 
+               <lb facs="#facs_15_r9l39" n="N020"/>Estuarium am Rosmarcht 
+               <lb facs="#facs_15_r9l40" n="N021"/>d Ibidem Cristof warbacher pader hos j ttl iiij s 
+               <lb facs="#facs_15_line_1651744113682_307" n="N022"/>d domus una pars Bertlme Ottinger iij ttl d
+               <lb facs="#facs_15_r9l43" n="N023"/>xxviiij ttl ij d 
+            </ab>
+            <ab facs="#facs_15_r11" type="">
+               <lb facs="#facs_15_r11l1" n="N001"/>
+            </ab>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
+            <ab facs="#facs_16_TextRegion_1651744363434_335" type="">
+               <lb facs="#facs_16_line_1651744441971_348" n="N001"/>d domus Altra pars hanns Annttl Appodecker Erben j ttl d 
+               <lb facs="#facs_16_line_1651744501951_356" n="N002"/>d ibidem Cristof Scharrer goldschmid vj s d 
+               <lb facs="#facs_16_line_1651744552525_361" n="N003"/>nil ibidem relicta Georig Unpildin cramerin xxxij d 
+               <lb facs="#facs_16_line_1652269332881_18" n="N004"/>d domus Lsla Vatser Zingiesser perse iiij ttl s 
+               <lb facs="#facs_16_line_1652269431489_28" n="N005"/>d domus Hanns Stahl wuntartzt perse j ttl iiij s d 
+               <lb facs="#facs_16_line_1652269491293_33" n="N006"/>d domus prima Michel Meylinger perse vij ttl d 
+               <lb facs="#facs_16_line_1652269556343_39" n="N007"/>domus 2<hi style="vertical-align: superscript;">a</hi> Michel Meylinger Eysner
+               <lb facs="#facs_16_line_1652269602297_45" n="N008"/>d ibidem Hanns Smid Nadler no rl Lx d 
+               <lb facs="#facs_16_line_1652269635861_49" n="N009"/>d ibidem Hanns Saloman greissler iij s d 
+               <lb facs="#facs_16_line_1652269674766_53" n="N010"/>1 d domus Sigmund Thewffentaler slosser perse v s d 
+               <lb facs="#facs_16_line_1652269851054_59" n="N011"/>d domus Valenthin wenckling slosserin iiij s d 
+               <lb facs="#facs_16_line_1652270050336_65" n="N012"/>d domus Sigmund Vischer slosser perse j ttl d 
+               <lb facs="#facs_16_line_1652270102549_71" n="N013"/>domus Hainrich Vorster 
+               <lb facs="#facs_16_line_1652270125422_75" n="N014"/>ibidem Anthoni Nagl Urmacher 
+               <lb facs="#facs_16_r5l15" n="N015"/>Exopposito 
+               <lb facs="#facs_16_line_1652270279061_81" n="N016"/><unclear>11</unclear> d Domus Peter Kognerin lawttnslaherin vj s d 
+               <lb facs="#facs_16_line_1652270392035_90" n="N017"/>d domus Wolfganng kremrast slosser iiij s d 
+               <lb facs="#facs_16_r1l5" n="N018"/>dedit <unclear>vj zist </unclear>????
+               <lb facs="#facs_16_r1l6" n="N019"/><unclear>vedicino </unclear>
+               <lb facs="#facs_16_line_1652270506970_98" n="N020"/>domus relicta Hanns kutzingerin slosserin 
+               <lb facs="#facs_16_line_1652270759140_116" n="N021"/>domus Ulrich Hackhenstill <unclear>Schar</unclear>schmid vj s d 
+               <lb facs="#facs_16_line_1652270858446_120" n="N022"/>1 d ibidem Mathes Kragl Striglmacher xxxij d
+               <lb facs="#facs_16_line_1652270936317_125" n="N023"/>do Leonhart Kellner 
+               <lb facs="#facs_16_r5l22" n="N024"/>xviiij ttl vj s iiij d 
+            </ab>
+            <ab facs="#facs_16_TextRegion_1652271009628_137" type="">
+               <lb facs="#facs_16_line_1652271081174_143" n="N001"/>d ibidem Leonhart Hartl. hos. j ttl iiij s d 
+               <lb facs="#facs_16_r14l3" n="N002"/>verkauft <unclear>sein</unclear> haws 
+               <lb facs="#facs_16_r14l4" n="N003"/>per Hainrich anno 6<hi style="vertical-align: superscript;">to</hi>  
+               <lb facs="#facs_16_r15l4" n="N004"/>vhuch
+               <lb facs="#facs_16_line_1652271289391_160" n="N005"/>relicta Sigmund Scherrublin iij s d 
+               <lb facs="#facs_16_line_1652271346033_167" n="N006"/>ibidem Sigmund Strawst Slosser hos no rl Lx d 
+               <lb facs="#facs_16_line_1652271449578_172" n="N007"/>domus herr Lassla Sunthaim 
+               <lb facs="#facs_16_line_1652271491642_181" n="N008"/>d ibidem Sigmund Schaimleretner Ladner hos j ttl iiij sd 
+               <lb facs="#facs_16_line_1652271592521_185" n="N009"/>ibidem Wilhalm Mittermair Vaszieher 
+               <lb facs="#facs_16_line_1652271654756_189" n="N010"/>Thumprost hof 
+               <lb facs="#facs_16_line_1652271676442_193" n="N011"/>d ibidem Thoman Wisinger hos iij ttl d 
+               <lb facs="#facs_16_line_1652271737063_199" n="N012"/>d ibidem Michel witlgennser j ttl d 
+               <lb facs="#facs_16_line_1652271874217_205" n="N013"/>d ibidem Kuntz Mayr hawer iij s d 
+               <lb facs="#facs_16_line_1652271929424_210" n="N014"/>d ibidem Hanns Klerplat cramer v ttl d 
+               <lb facs="#facs_16_line_1652271969801_215" n="N015"/>d ibidem peter weblerin xxxij d 
+               <lb facs="#facs_16_line_1652272029933_221" n="N016"/>d domus Anndre Klerplat iiij s d 
+               <lb facs="#facs_16_line_1652272070768_226" n="N017"/>ibidem Ludwig freyberger cramer 
+               <lb facs="#facs_16_line_1652272096393_230" n="N018"/>d domus Hainrich Eckhenfelder greissler perse ij ttl d 
+               <lb facs="#facs_16_line_1652272153854_235" n="N019"/>d domus Veit <unclear>Kern</unclear> glaser perse i½  ttl d 
+               <lb facs="#facs_16_line_1652272403685_242" n="N020"/>ibidem Valenthin <hi>Weichsslpaum <unclear>der</unclear> greissler</hi> <unclear>priest</unclear>er j ttl d 
+               <lb facs="#facs_16_line_1652273394737_337" n="N021"/>d idem valentin Weixelpawm greissler 
+               <lb facs="#facs_16_line_1652273450046_347" n="N022"/>d ibidem b Augustin Hainbuch greissler vj s d
+               <lb facs="#facs_16_line_1652273585432_359" n="N023"/>do 2<hi style="vertical-align: superscript;">a </hi>Anndre Vederin 
+               <lb facs="#facs_16_line_1652273632931_367" n="N024"/>d ibidem Kuntz Keichainer greissler x s d 
+               <lb facs="#facs_16_line_1652273685137_371" n="N025"/>do prima Augustin Hold Appoderkler 
+               <lb facs="#facs_16_line_1652273751471_375" n="N026"/>a domus 2<hi style="vertical-align: superscript;">a</hi>valentin j priester ½ j ttl d
+               <lb facs="#facs_16_r15l58" n="N027"/>xx ttl vij s ij d 
+            </ab>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
+            <ab facs="#facs_17_TextRegion_1652276403325_432" type="">
+               <lb facs="#facs_17_line_1652276449091_437" n="N001"/>d ibidem Johannes Simpliris hos iij ttl d 
+               <lb facs="#facs_17_line_1652276513533_444" n="N002"/>domus Zuhewsl Augustin hold 
+               <lb facs="#facs_17_line_1652276567984_448" n="N003"/>d ibidem Leonhart Leiwtschemperger hawer Lx d 
+               <lb facs="#facs_17_line_1652276617982_453" n="N004"/>domus Jorg pewschldorffer hawer 
+               <lb facs="#facs_17_line_1652276677603_457" n="N005"/>d ibidem Anndre purckhart greissler hos iiij s d
+               <lb facs="#facs_17_line_1652276785546_462" n="N006"/>d domus Cristof gunppinger greissler j ttl d 
+               <lb facs="#facs_17_line_1652276821485_467" n="N007"/>domus Kuchl cunitatl 
+               <lb facs="#facs_17_line_1652276864661_471" n="N008"/>domus 4a Anndre Vederin 
+               <lb facs="#facs_17_line_1652276903565_475" n="N009"/>ibidem + Peter Lindnerin Kasstecherin Lx d
+               <lb facs="#facs_17_line_1652276979684_479" n="N010"/>domus Zuchewsl Bertlme Schalawtzer 
+               <lb facs="#facs_17_line_1652277019557_483" n="N011"/>d ibidem Wolfganng Partzner greissler hos Lx d 
+               <lb facs="#facs_17_line_1652277059097_487" n="N012"/>d domus Sigmund Auran futtrer perse v½  ttl d 
+               <lb facs="#facs_17_line_1652277148201_491" n="N013"/>domus herr Hannser pandl 
+               <lb facs="#facs_17_line_1652277191091_497" n="N014"/>ibidem Jorg Stockher <unclear>Srartknurst</unclear> xxxij d 
+               <lb facs="#facs_17_line_1652278437755_501" n="N015"/>domus Wolfganng Kochwerin
+               <lb facs="#facs_17_line_1652278480917_510" n="N016"/>1 d ibidem Peter Kagrer Schuster hos vj sd 
+               <lb facs="#facs_17_line_1652278507665_514" n="N017"/>ibidem Paul Kosch mesnerknecht 
+               <lb facs="#facs_17_line_1652278559355_524" n="N018"/>d domus relicta Michel puchlerin Olerin vj ttl d
+               <lb facs="#facs_17_line_1652278602291_528" n="N019"/>ibidem Hanns Rosenkrantz Oler 
+               <lb facs="#facs_17_line_1652278655417_542" n="N020"/>d ibidem Caspar Hanhappl sperer Lx d
+               <lb facs="#facs_17_r2l22" n="N021"/>Ex<hi style="vertical-align: superscript;">to</hi> Protpennckh 
+               <lb facs="#facs_17_r2l23" n="N022"/>xvij ttl iij s ij d 
+            </ab>
+            <ab facs="#facs_17_TextRegion_1652278787597_549" type="">
+               <lb facs="#facs_17_r7l1" n="N001"/>Domus hospitalis 
+               <lb facs="#facs_17_line_1652278859917_566" n="N002"/>d ibidem Michel Waldner hos v ttl d 
+               <lb facs="#facs_17_line_1652278901828_571" n="N003"/>d ibidem Thoman prinkhner schuster Lx d 
+               <lb facs="#facs_17_line_1652278940113_576" n="N004"/>d ibidem relicta Stimmrerin Lx d 
+               <lb facs="#facs_17_r7l8" n="N005"/>+ ibidem Moritz Eer Lewtgeb Lx d 
+               <lb facs="#facs_17_line_1652279126190_591" n="N006"/>domus herr Hainrich comin iiij ttl d 
+               <lb facs="#facs_17_r7l11" n="N007"/>+ ibidem Anthain comin hos 
+               <lb facs="#facs_17_line_1652279183087_598" n="N008"/>1 d ibidem Jacob Kossler slosser xxxij d 
+               <lb facs="#facs_17_line_1652279231431_603" n="N009"/>12 dt ibidem fridrich Munich Barbirer no rl Lx d 
+               <lb facs="#facs_17_line_1652279325786_608" n="N010"/>d ibidem Cristof Koch xxxij d 
+               <lb facs="#facs_17_line_1652279393052_624" n="N011"/>d domus Stephan Hafer Messrer perse iij ttl d
+               <lb facs="#facs_17_line_1652279441223_630" n="N012"/>d ibidem Hanns Hofer pawr Lx d 
+               <lb facs="#facs_17_line_1652279488452_636" n="N013"/>9 d ibidem Leonhart pawr Lx d 
+               <lb facs="#facs_17_line_1652279547971_643" n="N014"/><unclear>5</unclear> d ibidem Hanns Schneeberger Lewtgeb Lx d 
+               <lb facs="#facs_17_line_1652279681634_647" n="N015"/>d ibidem Wolfganng Tawder massrer Lx d 
+               <lb facs="#facs_17_r7l23" n="N016"/>domus Jacob pramrerin 
+               <lb facs="#facs_17_line_1652279748942_653" n="N017"/>9 d ibidem Peter Vleischwartz Kursner hos j ttl d 
+               <lb facs="#facs_17_line_1652279806576_658" n="N018"/>d ibidem Jorg Egrer parer Lx d 
+               <lb facs="#facs_17_line_1652279850696_663" n="N019"/>ibidem Stephan Haiden <unclear>wchter</unclear> 
+               <lb facs="#facs_17_r5l7" n="N020"/><unclear continued="true">vr Kepuch per reb fo  </unclear>
+               <lb facs="#facs_17_r5l8" n="N021"/><unclear continued="true">140 </unclear>
+               <lb facs="#facs_17_line_1652279933006_668" n="N022"/>ibidem relicta Hanns Khaschawerin iiij ttl d 
+               <lb facs="#facs_17_line_1652279970381_672" n="N023"/>1 d ibidem Fridrich Toll plattner iij s d 
+               <lb facs="#facs_17_r7l31" n="N024"/>
+            </ab>
+            <ab facs="#facs_17_r9" type="">
+               <lb facs="#facs_17_r9l1" n="N001"/>
+            </ab>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
+            <ab facs="#facs_18_TextRegion_1652280237132_705" type="">
+               <lb facs="#facs_18_line_1652280321094_741" n="N001"/>ibidem Caspar Vingkhin 
+               <lb facs="#facs_18_line_1652280327914_745" n="N002"/>d ibidem Jorg Ain goldschmid iij s d 
+               <lb facs="#facs_18_line_1652280404325_755" n="N003"/>nihil ibidem Connrat lawtenmacher iij s d 
+               <lb facs="#facs_18_line_1652280479562_762" n="N004"/>ibidem Georig Kosrspannrer 
+               <lb facs="#facs_18_line_1652281173682_773" n="N005"/>711 domus Una pars ciunitatl 
+               <lb facs="#facs_18_line_1652281209522_777" n="N006"/>1 d ibidem maister michel platner hos iiij ttl d 
+               <lb facs="#facs_18_line_1652281248868_782" n="N007"/>d ibidem mert karl slosser iij s d 
+               <lb facs="#facs_18_line_1652281298055_787" n="N008"/>d ibidem Hairnrich ainn Hawbnstrickher Lx d 
+               <lb facs="#facs_18_line_1652281352807_792" n="N009"/>12 d 711 domus Altra pars Veit gatninger iij ttl d 
+               <lb facs="#facs_18_r2l19" n="N010"/>macher 
+               <lb facs="#facs_18_line_1652281422055_799" n="N011"/>d ibidem maister Peter Puchssen<hi>maister</hi> hos iij s d 
+               <lb facs="#facs_18_line_1652345565043_12" n="N012"/>11 d ibidem Jrsickh Ain furman <hi>lx</hi> iij s d 
+               <lb facs="#facs_18_line_1652345678484_17" n="N013"/>d ibidemHanns Lanng furman iij s d 
+               <lb facs="#facs_18_line_1652345734871_23" n="N014"/>d ibidem Urban Schickh furer iij s d 
+               <lb facs="#facs_18_line_1652345821539_35" n="N015"/>d domus Jorg gunber Schuster perse ij ttl iiij s d 
+               <lb facs="#facs_18_line_1652345943170_39" n="N016"/>ibidem Leonhart gennsrnckher Schuster hz 
+               <lb facs="#facs_18_line_1652346199196_43" n="N017"/>d domus relicta Hanns kheserin perse iiij ttl d 
+               <lb facs="#facs_18_line_1652346258435_48" n="N018"/>nihil ibidem relicta Hanns keglin goldsmidin iij s d 
+               <lb facs="#facs_18_line_1652346324794_53" n="N019"/>d ibidem Hanns Hamer platner iij s d 
+               <lb facs="#facs_18_r2l33" n="N020"/>ibidem Jorg Kebssinger von Osen 
+               <lb facs="#facs_18_r1l9" n="N021"/>1 dedit per summar scheffen 
+               <lb facs="#facs_18_r1l10" n="N022"/>3 ttl d 
+               <lb facs="#facs_18_line_1652346432694_60" n="N023"/>domus Hanns Anngrer perse v ttl d 
+               <lb facs="#facs_18_line_1652346472453_64" n="N024"/>domus sannd <unclear>umharl</unclear>
+               <lb facs="#facs_18_line_1652346531858_69" n="N025"/>d ibidem Jorg Kreidnweis goldsmid iij s d
+               <lb facs="#facs_18_r2l38" n="N026"/>xxij ttl v s 
+            </ab>
+            <ab facs="#facs_18_TextRegion_1652346721697_81" type="">
+               <lb facs="#facs_18_r14l1" n="N001"/>domus <unclear>truja</unclear> ad sactum <unclear>nucharlem</unclear> 
+               <lb facs="#facs_18_line_1652346933309_106" n="N002"/>ibidem + Hanns Mairr sleiffer no rl iij s d 
+               <lb facs="#facs_18_line_1652346974040_111" n="N003"/>4<hi style="vertical-align: superscript;">a</hi> ad sanctum <unclear>nucharlem</unclear> 
+               <lb facs="#facs_18_line_1652347062889_115" n="N004"/>d ibidem Wolfganng Krenibser Cramer hos vj s d 
+               <lb facs="#facs_18_line_1652347157858_121" n="N005"/>domus 5<hi style="vertical-align: superscript;">a</hi> ad sanctum <unclear>v nuchalem</unclear> 
+               <lb facs="#facs_18_line_1652347217809_126" n="N006"/>d ibidem Anndre graser gusser hos xj s d 
+               <lb facs="#facs_18_line_1652347269344_132" n="N007"/>domus des von Pademdorf <unclear>nur Regis</unclear> 
+               <lb facs="#facs_18_line_1652347330516_136" n="N008"/>ibidem Hanns Ungelter hos 
+               <lb facs="#facs_18_line_1652347351755_140" n="N009"/>ibidem nihil Hanns Scheihephlug Zimerman no rl xxxij d 
+               <lb facs="#facs_18_r14l16" n="N010"/>Preidnnstrase 
+               <lb facs="#facs_18_r14l17" n="N011"/><hi><unclear>herren Kupnechten Keihabnegr</unclear></hi> 
+               <lb facs="#facs_18_line_1652347650246_158" n="N012"/>Domus 
+               <lb facs="#facs_18_line_1652347587045_147" n="N013"/><hi>ibidem</hi> <unclear>dortor</unclear> wech hos
+               <lb facs="#facs_18_line_1652347749991_174" n="N014"/>ibidem maister peter prornrater 
+               <lb facs="#facs_18_line_1652347781779_178" n="N015"/>ibidem herr Jorg Vermoser 
+               <lb facs="#facs_18_line_1652347830431_182" n="N016"/>domus grauen von Zorn 
+               <lb facs="#facs_18_line_1652347863033_186" n="N017"/>ibidem Jorg Mader hos 
+               <lb facs="#facs_18_line_1652347882785_190" n="N018"/>d ibidem Cristof rorer furer iij s d
+               <lb facs="#facs_18_line_1652347931509_196" n="N019"/>d domus Hanns Kunnigwiser muhrer ij ttl iiij s d 
+               <lb facs="#facs_18_line_1652348031253_201" n="N020"/>ibidem Vildshofer no rl lx d 
+               <lb facs="#facs_18_line_1652348073687_206" n="N021"/>d domus wernhardin Koch furwarer perse ij ttl iiij s d 
+               <lb facs="#facs_18_r14l31" n="N022"/>Ex<hi style="vertical-align: superscript;">to </hi>Astendendo et equerso 
+               <lb facs="#facs_18_line_1652348198621_213" n="N023"/>domus herr <unclear>Benyschkon</unclear> Eberstorf 
+               <lb facs="#facs_18_r14l34" n="N024"/>viij ttl iij s ij d 
+            </ab>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
+            <ab facs="#facs_19_TextRegion_1652348706796_274" type="">
+               <lb facs="#facs_19_line_1652348721196_279" n="N001"/>ibidem + Paul gasslperger hos iij s d 
+               <lb facs="#facs_19_line_1652348754080_286" n="N002"/>domus des von Aspach 
+               <lb facs="#facs_19_line_1652348774720_290" n="N003"/>1 d ibidem Hanns Reysinger satler hos vj s d 
+               <lb facs="#facs_19_r1l5" n="N004"/><unclear>hier Im Buch</unclear> 
+               <lb facs="#facs_19_r1l6" n="N005"/><unclear>menst ud fit</unclear> 
+               <lb facs="#facs_19_r1l7" n="N006"/>nachgelass
+               <lb facs="#facs_19_line_1652348841278_298" n="N007"/>domus Oswald Knawr Stat Koch perse iiij ttl d 
+               <lb facs="#facs_19_line_1652349016003_304" n="N008"/>d domus una pars Ulrich Stadlmair perse x s d 
+               <lb facs="#facs_19_line_1652349293072_324" n="N009"/>8 d domus Altra pars d freyelstaminetz x s d 
+               <lb facs="#facs_19_line_1652349353408_329" n="N010"/>ibidem relicta Hanns protsitzerin xxxij d 
+               <lb facs="#facs_19_line_1652349393952_333" n="N011"/>nihil domus Zuhewsl <comment comment="tanrin?"><unclear>corin</unclear></comment>
+               <lb facs="#facs_19_line_1652349447544_337" n="N012"/>dedit 30 d ibidem relicta Hanns Schneiderin hos lx d 
+               <lb facs="#facs_19_line_1652349496200_344" n="N013"/>domus Hansnen Kopplern Erben 
+               <lb facs="#facs_19_r1l12" n="N014"/>9 est in das 
+               <lb facs="#facs_19_r1l13" n="N015"/>vestpuch <unclear>lwins</unclear>
+               <lb facs="#facs_19_line_1652349611005_349" n="N016"/>ibidem  dorfor Jorg Schratl hos 
+               <lb facs="#facs_19_r4l11" n="N017"/>xxij ttl d 
+               <lb facs="#facs_19_line_1652349739529_361" n="N018"/>9 dedit ibidem Leonhart Zimerman xxxij d 
+               <lb facs="#facs_19_line_1652349852605_366" n="N019"/>do Hanns Maninger perse 
+               <lb facs="#facs_19_line_1652349912539_370" n="N020"/>d per <unclear>sumer</unclear>
+               <lb facs="#facs_19_r1l14" n="N021"/><unclear>ttl hansler</unclear>
+               <lb facs="#facs_19_line_1652350053258_387" n="N022"/>ibidem Dorfor Manng xj ttl d 
+               <lb facs="#facs_19_r3l16" n="N023"/>Rotstras 
+               <lb facs="#facs_19_line_1652350118931_392" n="N024"/>Domus Hanns Konstorffer Erben iiij s d 
+               <lb facs="#facs_19_line_1652350171155_397" n="N025"/>d ibidem Michel wintter no rl lx d 
+               <lb facs="#facs_19_r1l16" n="N026"/>per <unclear>Sungud anan</unclear>
+               <lb facs="#facs_19_line_1652350208346_402" n="N027"/>d domus Tiewolt Jagnperger j ttl d 
+               <lb facs="#facs_19_r3l21" n="N028"/>xlij ttl vij s iiij d 
+            </ab>
+            <ab facs="#facs_19_r6" type="">
+               <lb facs="#facs_19_line_1652350388527_420" n="N001"/>2 d ibidem Hanns Wittenoder hos lx d 
+               <lb facs="#facs_19_line_1652350436821_425" n="N002"/>do der Khunigsperger 
+               <lb facs="#facs_19_line_1652350463418_429" n="N003"/>ibidem Georig Straffer Zimerman no rl xxxij d 
+               <lb facs="#facs_19_r6l8" n="N004"/>Exopposito 
+               <lb facs="#facs_19_line_1652350517518_434" n="N005"/>Domus der Eytzinger 
+               <lb facs="#facs_19_line_1652350533782_438" n="N006"/>+ ibidem Michel lasentalerin Stainmetzin lx d
+               <lb facs="#facs_19_line_1652350648696_445" n="N007"/>domus prima des von Toppl 
+               <lb facs="#facs_19_line_1652350669402_449" n="N008"/>+ ibidem Wolfganng Elmfawer Ladner hos iij s d 
+               <lb facs="#facs_19_line_1652350741098_454" n="N009"/>domus h 2<hi style="vertical-align: superscript;">a</hi> des von Toppl 
+               <lb facs="#facs_19_line_1652350773278_458" n="N010"/>d ibidem Sigmunnd Naibrickh hos no rl iij s d 
+               <lb facs="#facs_19_line_1652351034058_464" n="N011"/>do 3<hi style="vertical-align: superscript;">a</hi> des von Toppl 
+               <lb facs="#facs_19_line_1652351056329_468" n="N012"/>nihil ibidem LeonhartKlemb hos iij s d 
+               <lb facs="#facs_19_line_1652351099944_473" n="N013"/>domus des von Scheffenberg 
+               <lb facs="#facs_19_line_1652351128270_480" n="N014"/>+ ibidem Girschickh gastgob hos iij s d 
+               <lb facs="#facs_19_line_1652351212133_485" n="N015"/>Iterum am Grabenn 
+               <lb facs="#facs_19_r6l38" n="N016"/>Domus Sigmund Cunrat <unclear>nur</unclear> 
+               <lb facs="#facs_19_r6l39" n="N017"/>Bernhart flannder 
+               <lb facs="#facs_19_line_1652351282196_491" n="N018"/>d ibidem Hanns Nattl <unclear>Stidennater</unclear> j ttl d 
+               <lb facs="#facs_19_line_1652351362963_496" n="N019"/>ibidem relicta Caspar Aspeckhin lx d 
+               <lb facs="#facs_19_line_1652351401506_501" n="N020"/>iij ttl iij s ij d 
+            </ab>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
+            <ab facs="#facs_20_TextRegion_1654090027197_127" type="">
+               <lb facs="#facs_20_line_1652874307879_25" n="N001"/>ibidem Jorg Ain satler Lx d 
+               <lb facs="#facs_20_r1l2" n="N002"/>8 dedit per <unclear>fristen</unclear> 
+               <lb facs="#facs_20_r1l3" n="N003"/><unclear>vlo m??trz</unclear>
+               <lb facs="#facs_20_line_1652874344590_31" n="N004"/>domus Bernhardin Zuaimer Erben x s d
+               <lb facs="#facs_20_line_1652874631134_49" n="N005"/>d ibidem Wentzl Mantich goldschmid hos x s d 
+               <lb facs="#facs_20_line_1652874727260_55" n="N006"/>d domus Hanns Valckh perse vj ttl d 
+               <lb facs="#facs_20_line_1652874846829_60" n="N007"/>d domus Mathes Ausserlirin nunc 
+               <lb facs="#facs_20_line_1654089176330_41" n="N008"/>d Larentz pitter ij ttl d 
+               <lb facs="#facs_20_line_1654089270096_55" n="N009"/>10 dedit per <unclear>puedigen</unclear> 2 ttl d 
+               <lb facs="#facs_20_line_1654089400266_76" n="N010"/><unclear>da</unclear> 
+               <lb facs="#facs_20_r1l9" n="N011"/>10 dedit per Staberin 4 ttl
+               <lb facs="#facs_20_line_1654089237399_50" n="N012"/>Doctor Bertlme Staber perse <hi>x</hi> vj ttl d 
+               <lb facs="#facs_20_line_1654089449772_85" n="N013"/>domus Wolfganng Rieder nur 
+               <lb facs="#facs_20_line_1654089470555_89" n="N014"/>10 d Wolfganng Traw xij s d 
+               <lb facs="#facs_20_line_1654089598587_97" n="N015"/>ibidem Larentz walther flochwerin 
+               <lb facs="#facs_20_line_1654089665982_101" n="N016"/>domus der Eytzinger 
+               <lb facs="#facs_20_line_1654089697750_107" n="N017"/>domus herr wolfganng hainerl kn mt <unclear>secretar</unclear>
+               <lb facs="#facs_20_line_1654089832973_111" n="N018"/>domus graf hanns von Wernberg 
+               <lb facs="#facs_20_line_1654089859828_115" n="N019"/>ibidem herr Wilhalm Tantsch kn mt <unclear>Serigurt</unclear>
+               <lb facs="#facs_20_r3l26" n="N020"/>Clausturm zw Augustinern 
+               <lb facs="#facs_20_r3l27" n="N021"/>Exopposito 
+               <lb facs="#facs_20_line_1654090034156_133" n="N022"/>Domus Herr Jorg Neideckher 
+               <lb facs="#facs_20_line_1654090056899_137" n="N023"/>ibidem Hanns Eysenhut 
+               <lb facs="#facs_20_r3l30" n="N024"/>Clausturm zw Sankt dorothe 
+               <lb facs="#facs_20_r3l31" n="N025"/>xviij ttl lx d 
+            </ab>
+            <ab facs="#facs_20_TextRegion_1654090165546_145" type="">
+               <lb facs="#facs_20_r5l1" n="N001"/>Domus Osterreichische kantzelley 
+               <lb facs="#facs_20_line_1654090316144_170" n="N002"/>domus herr merten Teuchsler 
+               <lb facs="#facs_20_line_1654090415726_177" n="N003"/>11 d ibidem Jorg Zehutner hospes xxxij d 
+               <lb facs="#facs_20_line_1654090453173_181" n="N004"/>d domus relicta Philippin Stainmetzrin x s d 
+               <lb facs="#facs_20_line_1654090542683_186" n="N005"/>d domus augustin hold apoteckher per se vj ttl iiij s d 
+               <lb facs="#facs_20_line_1654090692833_191" n="N006"/>ibidem Wolfganng Zullinger Hawer hz 
+               <lb facs="#facs_20_line_1654090720348_195" n="N007"/>+ ibidem relicta doctor Jorg Schoblingin iiij s d 
+               <lb facs="#facs_20_line_1654090765801_201" n="N008"/>ibidem Hanns Klerperger slayrer lx d 
+               <lb facs="#facs_20_line_1654090811365_208" n="N009"/>ibidem Michel rordeckl Schreiber 
+               <lb facs="#facs_20_line_1654090850894_212" n="N010"/>Estuarium am Sweinmarckt 
+               <lb facs="#facs_20_line_1654091250039_216" n="N011"/>nihil ibidem Stephan mayr pader hospes iij s d 
+               <lb facs="#facs_20_r5l32" n="N012"/>Exopposito 
+               <lb facs="#facs_20_r5l33" n="N013"/>Domus des von Schannberg 
+               <lb facs="#facs_20_line_1654091342224_224" n="N014"/>+ ibidem Bernhart Schbennckh federleiter hospes lx d
+               <lb facs="#facs_20_line_1654091424714_229" n="N015"/>ibidem Wolfganng ain hawer no rl xxxij  d 
+               <lb facs="#facs_20_line_1654091454103_234" n="N016"/>ibidem n <unclear>Schewsengeyrn</unclear> 
+               <lb facs="#facs_20_line_1654091501680_238" n="N017"/>domus hernn Lassla prager 
+               <lb facs="#facs_20_r5l43" n="N018"/>+ nur Maister Mathes Kolner x s d 
+               <lb facs="#facs_20_r5l44" n="N019"/>domus Herrn Mathesen <unclear>Bischonen</unclear> zu 
+               <lb facs="#facs_20_r5l45" n="N020"/><unclear>Eigklaw</unclear>
+               <lb facs="#facs_20_r5l46" n="N021"/>x ttl v s iiij d 
+            </ab>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
+            <ab facs="#facs_21_TextRegion_1654092022012_289" type="">
+               <lb facs="#facs_21_line_1654092156779_301" n="N001"/>d ibidem Steffan Walgnnit Schuster iij s d 
+               <lb facs="#facs_21_line_1654092207907_306" n="N002"/>d ibidem Jorg Lackhner <unclear>Sneid</unclear>lx d 
+               <lb facs="#facs_21_line_1654091949614_284" n="N003"/>d domus Michel <unclear>Strwer</unclear> perse xj ttl d 
+               <lb facs="#facs_21_line_1654092045380_294" n="N004"/>d domus Una pars Stephan pan v ttl d 
+               <lb facs="#facs_21_line_1654092260420_312" n="N005"/>d domus Altra pars wilhalm Sighart perse xij s d 
+               <lb facs="#facs_21_line_1654092332209_321" n="N006"/>d ibidem Hanns Urihl Zingiesser iij s d 
+               <lb facs="#facs_21_line_1654092683561_336" n="N007"/>d ibidem Ulrich kuckh apoteckher ij ttl d 
+               <lb facs="#facs_21_line_1654093262844_374" n="N008"/>9 dedit ibidem Sigmunnd Mutestgleich Sailer iij s d 
+               <lb facs="#facs_21_line_1654091748911_260" n="N009"/>ibidem Stephan Schannawer hospes <hi>vij s d</hi> 
+               <lb facs="#facs_21_line_1654091802634_264" n="N010"/>domus herrn Sigmundn Scharaitpeckhn 
+               <lb facs="#facs_21_line_1654091882351_274" n="N011"/>d ibidem Michel Rosch hospes vj s d 
+               <lb facs="#facs_21_r3l11" n="N012"/>Halm Kairsner perse 
+               <lb facs="#facs_21_line_1654092413221_325" n="N013"/>domus Jorg Ebersperger <unclear>Nunr</unclear> hutte 
+               <lb facs="#facs_21_r3l26" n="N014"/>Rosengassl 
+               <lb facs="#facs_21_r3l27" n="N015"/>Domus Herrn Hannsen Matschacher 
+               <lb facs="#facs_21_line_1654092801877_343" n="N016"/>d ibidem Sigmunnd pawer hospes vj s d 
+               <lb facs="#facs_21_line_1654092843824_348" n="N017"/>domus herr Sigmunnd Potenprunner 
+               <lb facs="#facs_21_line_1654093050805_353" n="N018"/>domus ibidem Wolfganng Maychaser furer xxxij d 
+               <lb facs="#facs_21_line_1654093111141_358" n="N019"/>domus herr hanns hafkhircher 
+               <lb facs="#facs_21_line_1654093171709_366" n="N020"/>ibidem hanns posstbot 
+               <lb facs="#facs_21_line_1654093207777_370" n="N021"/>domus prima doctor fuchsmagen 
+               <lb facs="#facs_21_line_1654093322322_381" n="N022"/>domus 2<hi style="vertical-align: superscript;">a</hi> doctor fuchsmagn
+               <lb facs="#facs_21_r3l45" n="N023"/>xxij ttl vij s ij d 
+            </ab>
+            <ab facs="#facs_21_TextRegion_1654093384701_391" type="">
+               <lb facs="#facs_21_line_1654094582524_517" n="N001"/>domus 2a Sigmunnd pernsus perse xvj ttl d 
+               <lb facs="#facs_21_line_1654094637983_521" n="N002"/>d ibidem relicta hanns hawferin kramerin 
+               <lb facs="#facs_21_line_1654093447355_398" n="N003"/>+ ibidem Paul Igler wagnnknecht hospes lx d 
+               <lb facs="#facs_21_line_1654093512536_405" n="N004"/>d domus Thoman Koph sailer ij ttl iiij s d 
+               <lb facs="#facs_21_line_1654093601767_420" n="N005"/>d ibidem Jorg Wurckhler hawer xxxij d 
+               <lb facs="#facs_21_line_1654093650591_424" n="N006"/>dedit per <unclear>fugener</unclear> domus Michel freyswalt perse v ttl iiij s d 
+               <lb facs="#facs_21_line_1654093742047_433" n="N007"/>domus herr Niclasen von puchaw 
+               <lb facs="#facs_21_line_1654093771401_437" n="N008"/>nihil ibidem Mert Weithecher furman hospes iiij s d 
+               <lb facs="#facs_21_line_1654093817956_441" n="N009"/>d domus Hanns Schatzer greissler perse ij ttl iiij s d 
+               <lb facs="#facs_21_line_1654093880951_453" n="N010"/>domus 2<hi style="vertical-align: superscript;">a</hi> herr Cristof Oberhainrer 
+               <lb facs="#facs_21_line_1654093919982_457" n="N011"/>+ ibidem Niclas Newpawr hospes no rl iiij s d 
+               <lb facs="#facs_21_line_1654093978631_464" n="N012"/>+ ibidem Cristof pangkher hawer xxxij d 
+               <lb facs="#facs_21_line_1654094019001_469" n="N013"/><comment comment="2a\u0020Cristof\u0020Oberhainer\u0020ist\u0020drei\u0020Zeilen\u0020höher\u0020schon\u0020einmal\u0020aufgeführt\u0020&gt;\u0020Fehler\u0020in\u0020Reihenfolge\u0020oder\u0020Nummerierung?">+ domus 2a herr Cristof Oberhainner v ttl d </comment>
+               <lb facs="#facs_21_line_1654094150394_476" n="N014"/>nihil ibidem Leopold frischmit Snitzer xxxij d 
+               <lb facs="#facs_21_line_1654094215626_481" n="N015"/>ibidem Caspar <unclear>Mernnshammer kaltmawtner</unclear>
+               <lb facs="#facs_21_line_1654094303418_485" n="N016"/>9 d ibidem Jorg <unclear>Hunrairer</unclear> Schneider lx d 
+               <lb facs="#facs_21_line_1654094462549_495" n="N017"/>domus prima Sigmunnd Pernfus 
+               <lb facs="#facs_21_line_1654094488451_501" n="N018"/>d ibidem Ludwig Ain Appodeckher hospes x s d 
+               <lb facs="#facs_21_line_1654094572822_512" n="N019"/>10 dedit vij ttl d 
+               <lb facs="#facs_21_r8l29" n="N020"/>vnd viiij ttl d 
+               <lb facs="#facs_21_line_1654094703094_528" n="N021"/><unclear>abtadyn</unclear> per <unclear>natschrecht</unclear>
+               <lb facs="#facs_21_line_1654094842811_534" n="N022"/>do 2<hi style="vertical-align: superscript;">a</hi> <unclear>kufnsserin</unclear> Erben  
+               <lb facs="#facs_21_r8l31" n="N023"/>deb 9 <unclear>pars</unclear>
+               <lb facs="#facs_21_line_1654094966958_540" n="N024"/>1d ibidem Michel Maler <comment comment="Schrift\u0020wie\u0020Summe\u0020"><unclear>trnl</unclear></comment>
+               <lb facs="#facs_21_line_1654095056662_547" n="N025"/>d ibidem Leonhart Kunther Schuster iiij s d 
+               <lb facs="#facs_21_r10l5" n="N026"/>Exopposito 
+               <lb facs="#facs_21_r10l23" n="N027"/>xxxvij ttl xxxvj d 
+            </ab>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
+            <ab facs="#facs_22_TextRegion_1655299425468_216" type="">
+               <lb facs="#facs_22_line_1655299494492_224" n="N001"/>+ ibidem wolfganng gross pewtler lx d 
+               <lb facs="#facs_22_line_1655299300790_201" n="N002"/>+ ibidem Triwolt Schedl schuster hospes vj s d 
+               <lb facs="#facs_22_line_1655299370166_206" n="N003"/>nihil ibidem Jorg pranntner kursner xxxij d 
+               <lb facs="#facs_22_line_1655299412586_211" n="N004"/>10 domus Sebastian happl schusster perse xij s d 
+               <lb facs="#facs_22_line_1655299550059_232" n="N005"/>dedit iij fl rh 
+               <lb facs="#facs_22_line_1655299650063_245" n="N006"/>domus Stephan panhalm der Elter perse xj ttl d 
+               <lb facs="#facs_22_line_1655299122056_181" n="N007"/>d ibidem Anndre Sneidnhoser Zimerman ij ttld 
+               <lb facs="#facs_22_line_1655299572791_237" n="N008"/>dedit viij fl rh 
+               <lb facs="#facs_22_line_1655300231480_256" n="N009"/>d domus Thoman Leidenfrost peckh perse vj ttl lx d 
+               <lb facs="#facs_22_line_1655300428148_274" n="N010"/>d hanns Stral Tischler perse j ttl d 
+               <lb facs="#facs_22_line_1655300482947_283" n="N011"/>d domus michel Schutzpier schuster perse vj s d 
+               <lb facs="#facs_22_line_1655300621843_309" n="N012"/>d domus prima Jorg Poltinger perse ij ttl iiij s d 
+               <lb facs="#facs_22_line_1655300676612_313" n="N013"/>+ ibidem Stephan Stainmetz lx d 
+               <lb facs="#facs_22_line_1655300711613_318" n="N014"/>+ ibidem relicta hannsin ain slayrerin xxxij d 
+               <lb facs="#facs_22_r4l1" n="N015"/>Ferner Stras
+               <lb facs="#facs_22_r4l2" n="N016"/>domus Oswald garser kunsner 
+               <lb facs="#facs_22_line_1655299227548_197" n="N017"/>domus 2a kufnsserin
+               <lb facs="#facs_22_r4l17" n="N018"/>domus Studenten haws 
+               <lb facs="#facs_22_r4l19" n="N019"/>ibidem hanns Stollner 
+               <lb facs="#facs_22_r4l20" n="N020"/>domus Walthasar Englman nur 
+               <lb facs="#facs_22_line_1655300556776_297" n="N021"/>domus n Neideckher kantzler perse 
+               <lb facs="#facs_22_r4l28" n="N022"/>xxvj ttl iiij s d 
+            </ab>
+            <ab facs="#facs_22_TextRegion_1655302649717_440" type="">
+               <lb facs="#facs_22_line_1655302670666_446" n="N001"/>8 d Ladnerin xxxij d 
+               <lb facs="#facs_22_line_1655303247655_479" n="N002"/>d ibidm Paul Silber Koch hospes ij ttl d 
+               <lb facs="#facs_22_line_1655301561086_408" n="N003"/>d ibidem Achatz meysl Tischler hospes iij s d 
+               <lb facs="#facs_22_line_1655301656590_423" n="N004"/>d domus Wolfganng Mayr Oler perse ij ttl iiij d 
+               <lb facs="#facs_22_line_1655300912045_342" n="N005"/>10 dedit lx d ibidem + Latzarin ain Taundlerin iij s d 
+               <lb facs="#facs_22_line_1655301202977_358" n="N006"/>8 d domus Wolfganng diem perse v ttl d 
+               <lb facs="#facs_22_line_1655301237963_362" n="N007"/>nihil ibidem Jorg koph Sailer xxxij d 
+               <lb facs="#facs_22_line_1655301275992_366" n="N008"/>+ ibidem Paul Wurmperger xxxij d 
+               <lb facs="#facs_22_line_1655300963239_349" n="N009"/>domus 2a Jorg Poltinger 
+               <lb facs="#facs_22_line_1655300985140_353" n="N010"/>+ ibidem hanns Weinwurmb kursner hospes j ttl d 
+               <lb facs="#facs_22_line_1655301302920_370" n="N011"/>1 d domus Veit holdt Tischler perse xiiij s d 
+               <lb facs="#facs_22_line_1655301353381_375" n="N012"/>d domus relicta Anndre ladnerin x s d 
+               <lb facs="#facs_22_line_1655301399700_380" n="N013"/>d ibidem hanns stefinger Tischler hospes iij s d 
+               <lb facs="#facs_22_line_1655301471122_394" n="N014"/>domus hanns Rawch Tischler vj s d 
+               <lb facs="#facs_22_line_1655301528234_400" n="N015"/>domus 1a hospitalis 
+               <lb facs="#facs_22_line_1655302529814_427" n="N016"/>ibidem relicta wolfganng sponselderin 
+               <lb facs="#facs_22_r13l18" n="N017"/>domus <unclear>???</unclear>
+               <lb facs="#facs_22_line_1655302984975_469" n="N018"/>+ ibidem Benedict Kronperger Oler hospes iij s d 
+               <lb facs="#facs_22_r13l20" n="N019"/>domus 2a ad <unclear>???</unclear>
+               <lb facs="#facs_22_line_1655303295574_484" n="N020"/>9 d ibidem michel Lackhner Wagner hospes xij s d 
+               <lb facs="#facs_22_r13l23" n="N021"/>Newmarckt 
+               <lb facs="#facs_22_r13l24" n="N022"/>Domus Civitatis melgrub 
+               <lb facs="#facs_22_r13l25" n="N023"/>xvj ttl vij s vj d 
+            </ab>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
+            <ab facs="#facs_23_TextRegion_1655304802610_573" type="">
+               <lb facs="#facs_23_line_1655304879253_580" n="N001"/>d domus 2a hanns Rockhner perse vij ttl d 
+               <lb facs="#facs_23_line_1655304209600_535" n="N002"/>+ ibidem michel Vischkhewffl no rl xxxij d 
+               <lb facs="#facs_23_line_1655305061863_599" n="N003"/>8 d domus michel wild kursner nur 
+               <lb facs="#facs_23_line_1655303755216_512" n="N004"/>12 d ibidem Oswald Zahenperger hospes j ttl d 
+               <lb facs="#facs_23_line_1655304038794_524" n="N005"/>9 dedit ibidem hanns frasch kursner hospes iiij s d 
+               <lb facs="#facs_23_line_1655304093835_530" n="N006"/>d ibidem Stephan fewsl Tischler lx d 
+               <lb facs="#facs_23_line_1655304593816_548" n="N007"/>d ibidem Wolfganng krenn kuntner hospes iiij s d 
+               <lb facs="#facs_23_line_1655304648636_553" n="N008"/>d domus Jorg Steyrer Vaszieher perse ij ttl d 
+               <lb facs="#facs_23_line_1655304688854_557" n="N009"/>d domus Valenthin gotsprat Wagner perse x s d 
+               <lb facs="#facs_23_line_1655304791769_568" n="N010"/>9 dedit ibidem Thoman Veit Melmesser hospes iiij s d 
+               <lb facs="#facs_23_line_1655304940816_589" n="N011"/>d domus Niclas Puchperger Wagner perse ij ttl iiij s d 
+               <lb facs="#facs_23_line_1655304993893_594" n="N012"/>d domus Anndre Vechter Sayler perse xiiij s d 
+               <lb facs="#facs_23_line_1655305090101_603" n="N013"/>Jorg mutesgleich Sayler x s d 
+               <lb facs="#facs_23_line_1655303791719_516" n="N014"/>domus 2a imitatis melgenb
+               <lb facs="#facs_23_line_1655303996449_520" n="N015"/>domus Leonhart Enenckl kinder 
+               <lb facs="#facs_23_line_1655304508128_540" n="N016"/>ibidem Philipp Sayrer habet 
+               <lb facs="#facs_23_line_1655304568542_544" n="N017"/>domus 2a Spital kellner 
+               <lb facs="#facs_23_line_1655304754992_564" n="N018"/>domus 1a hanns Rockhner 
+               <lb facs="#facs_23_line_1655304922869_585" n="N019"/>Exop<hi style="vertical-align: superscript;">to</hi>
+               <lb facs="#facs_23_r4l37" n="N020"/>xviij ttl v s ij d 
+            </ab>
+            <ab facs="#facs_23_TextRegion_1655305183492_612" type="">
+               <lb facs="#facs_23_line_1655305269394_625" n="N001"/>11 d ibidem Gothart Sigendorffer khunter iij s d 
+               <lb facs="#facs_23_line_1655369058797_20" n="N002"/>11 d ibidem Colman Vorsthofer Wagner lx d 
+               <lb facs="#facs_23_line_1655369937150_74" n="N003"/>d domus Wofganng hofman Smid perse ij ttl iiij s d 
+               <lb facs="#facs_23_line_1655370052094_80" n="N004"/>d domus herr Anndre Osterhafer perse j ttl d 
+               <lb facs="#facs_23_line_1655305209814_620" n="N005"/>+ domus Thoman hunckher kunter Erben xiiij s d 
+               <lb facs="#facs_23_line_1655305311941_630" n="N006"/>nihil ibidem Schockhlin ain Reisnerin xxxij d 
+               <lb facs="#facs_23_line_1655368974031_12" n="N007"/>domus relicta Peter hoferin nur <unclear continued="true">Murtdesgleichn </unclear>
+               <lb facs="#facs_23_r8l19" n="N008"/>Exopposition 
+               <lb facs="#facs_23_line_1655369118089_28" n="N009"/>10 dedit domus prima Paul weimter Wagner perse x s d  
+               <lb facs="#facs_23_line_1655369174041_35" n="N010"/>10 d ibidem Mathes Ain Kunter lx d 
+               <lb facs="#facs_23_line_1655369608703_43" n="N011"/>domus 2a Paul Weimter Wagner 
+               <lb facs="#facs_23_line_1655369648325_47" n="N012"/>d ibidem Thoman Hasensprunng Sailer hospes iij s d 
+               <lb facs="#facs_23_line_1655369760676_55" n="N013"/>d domus Wolfganng Hackher Smid perse x s d 
+               <lb facs="#facs_23_line_1655369800596_59" n="N014"/>domus relicta fritz Siberin vj s d 
+               <lb facs="#facs_23_r8l49" n="N015"/>12 d
+               <lb facs="#facs_23_line_1655369847776_66" n="N016"/>ibidem maister Hanns Ain glaser 
+               <lb facs="#facs_23_line_1655369876507_70" n="N017"/>d ibidem Wolfganng Syber Ir Sun xxxij d 
+               <lb facs="#facs_23_line_1655370113044_85" n="N018"/>9 dedit b ibidem Ulrich Ernhuber melmesser xxxij d 
+               <lb facs="#facs_23_line_1655370200305_90" n="N019"/>11 d a domus Wolfganng Vuger Wagner perse vj s d 
+               <lb facs="#facs_23_line_1655370249871_95" n="N020"/>d domus relicta Niclas Munichreiterin perse iiij ttl d 
+               <lb facs="#facs_23_r8l69" n="N021"/>x iiij ttl vij s vj d 
+            </ab>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
+            <ab facs="#facs_24_TextRegion_1655370452758_124" type="">
+               <lb facs="#facs_24_line_1655371635811_213" n="N001"/>d ibidem Anndre halbwachs wagner hospes iij s d 
+               <lb facs="#facs_24_line_1655370686099_151" n="N002"/>d domus altra pars Jorg Steyrer kunter perse iij s d 
+               <lb facs="#facs_24_line_1655370732355_159" n="N003"/>d domus una pars Wolfganng pacher tischler perse xi½ s d  
+               <lb facs="#facs_24_line_1655371354782_174" n="N004"/>d domus altra pars Walthasar Osterhafer Smid vj ttl d 
+               <lb facs="#facs_24_line_1655371458058_192" n="N005"/>ibidem relicta <hi>???</hi>
+               <lb facs="#facs_24_line_1655371511868_201" n="N006"/>+ ibidem relicta mert furmanin lx d 
+               <lb facs="#facs_24_line_1655370483516_128" n="N007"/>12 d ibidem Wolfganng Vorschofer Wagner iiij s d 
+               <lb facs="#facs_24_line_1655370521379_132" n="N008"/>domus Cristof vuger Stewrknecht perse 
+               <lb facs="#facs_24_line_1655370600799_138" n="N009"/>ibidem Hanns Althofer Erben 
+               <lb facs="#facs_24_line_1655370622290_142" n="N010"/>d domus una pars Peter Rainingerin iiij s d 
+               <lb facs="#facs_24_r1l18" n="N011"/><unclear>Basmug </unclear>
+               <lb facs="#facs_24_line_1655371253683_169" n="N012"/>d ibidem Gregorer pildung Ansdenckher j ttl d 
+               <lb facs="#facs_24_line_1655371486199_197" n="N013"/>domus Waltasar Osterhafer Smid perse 
+               <lb facs="#facs_24_line_1655371573454_208" n="N014"/>o? ist frey domus herrn hannsen pranntl vj s d 
+               <lb facs="#facs_24_r1l37" n="N015"/>Exoposito 
+               <lb facs="#facs_24_r1l38" n="N016"/>domus herrn Ulrich weispriacher 
+               <lb facs="#facs_24_line_1655371753406_224" n="N017"/>+ ibidem relicta Paul Trollin iiij s d 
+               <lb facs="#facs_24_line_1655371786827_229" n="N018"/>d domus Jacob merns perse xj ttl d 
+               <lb facs="#facs_24_line_1655371827462_234" n="N019"/>d domus relicta wolfgang Rulantin perse xvj ttl d 
+               <lb facs="#facs_24_r1l47" n="N020"/><hi>relicta Hanns Holtnerin</hi>
+               <lb facs="#facs_24_line_1655371917648_243" n="N021"/>d domus mert kettnner <comment comment="ausgeschrieben,\u0020nicht\u0020mit\u0020Kürzungszeichen\u0020">per se</comment> xiiij s d 
+               <lb facs="#facs_24_line_1655372330155_248" n="N022"/><unclear>ll </unclear>ttl iiij s d 
+            </ab>
+            <ab facs="#facs_24_r10" type="">
+               <lb facs="#facs_24_line_1655372397449_266" n="N001"/>d domus relicta kolman krichsteterin ij ttl d 
+               <lb facs="#facs_24_r10l4" n="N002"/>Iterum kernerstras 
+               <lb facs="#facs_24_line_1655372559892_284" n="N003"/>d domus gilig kornpeckh ???
+               <lb facs="#facs_24_line_1655372633863_289" n="N004"/>Cristof keltendarffer oler iiij ttl d 
+               <lb facs="#facs_24_r10l9" n="N005"/>domus wolfgang Valtermain nur <hi>vj s d</hi> 
+               <lb facs="#facs_24_line_1655372784710_303" n="N006"/>d Erhart pambshaberin vj s d 
+               <lb facs="#facs_24_line_1655372833854_308" n="N007"/>d ibidem Caspar pambshaber kursner iiij s d 
+               <lb facs="#facs_24_r10l16" n="N008"/>Ir Sun 
+               <lb facs="#facs_24_line_1655372896213_316" n="N009"/>d ibidem Niclas hutseckh Rosler xxxij d 
+               <lb facs="#facs_24_line_1655372949995_323" n="N010"/>d domus relicta wolfgang Stranerin j ttl d 
+               <lb facs="#facs_24_line_1655373002596_328" n="N011"/>nihil ibidem michel Tunckl Zindgeselle no rl xxxij d 
+               <lb facs="#facs_24_line_1655373067138_336" n="N012"/>Claustrum zw Clarn 
+               <lb facs="#facs_24_line_1655373338293_340" n="N013"/>domus Niclas messenrabin nur 
+               <lb facs="#facs_24_r10l35" n="N014"/>Stephan olachinderit 
+               <lb facs="#facs_24_line_1655373405196_345" n="N015"/>8 d ibidem Wolfgang hammatter peckh iiij s d 
+               <lb facs="#facs_24_r10l39" n="N016"/>viiij ttl iiij d 
+            </ab>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
+            <ab facs="#facs_25_TextRegion_1655806703610_46" type="">
+               <lb facs="#facs_25_line_1655732834539_32" n="N001"/>+ ibidem relicta niclas mestennrabin lx d 
+               <lb facs="#facs_25_line_1655732910872_39" n="N002"/>d domus Michel flugl schuster j ttl d 
+               <lb facs="#facs_25_line_1655733169011_44" n="N003"/>d domus hanns Schucler kn mt Zuschroter ii½  ttl d 
+               <lb facs="#facs_25_line_1655733733394_51" n="N004"/>1 d ibidem Cristof Lanngpawer furer hospes iiij s d 
+               <lb facs="#facs_25_r2l5" n="N005"/>ibidem 
+               <lb facs="#facs_25_line_1655806114509_15" n="N006"/>ibidem Jorg <unclear>???? ain ???</unclear> xxxij d 
+               <lb facs="#facs_25_line_1655806184037_19" n="N007"/>ibidem maister Augustin menigasst hz 
+               <lb facs="#facs_25_line_1655806268634_25" n="N008"/>domus relicta Sigmund waitzhoferin 
+               <lb facs="#facs_25_line_1655806327461_30" n="N009"/>d ibidem Leonhart Anngermair furer hospes iiijs d 
+               <lb facs="#facs_25_line_1655806378532_35" n="N010"/>x ibidem mert spanin Ladnerin xxxij d 
+               <lb facs="#facs_25_line_1655806409033_39" n="N011"/>d ibidem hanns Ruppach Tischler no rl xxxij d 
+               <lb facs="#facs_25_line_1655806775421_55" n="N012"/>x domus hanns Stulpacher iiij s d 
+               <lb facs="#facs_25_line_1655806800731_59" n="N013"/>ibidem Ulrich ain malergeselle 
+               <lb facs="#facs_25_line_1655806819527_63" n="N014"/>ibidem Barbara frawn 
+               <lb facs="#facs_25_line_1655806853842_71" n="N015"/>domus ? hanns Zwetler fasner 
+               <lb facs="#facs_25_line_1655806900929_75" n="N016"/>10 d ibidem Jorg ain furman non cetera xxxij d 
+               <lb facs="#facs_25_line_1655805942581_8" n="N017"/>d Ulrich perckhainerin xxxij d 
+               <lb facs="#facs_25_r3l12" n="N018"/>Vor Widmer Thor 
+               <lb facs="#facs_25_line_1655806734134_50" n="N019"/>Domus nihil Jorg Weingartner hawer hospes Lx d 
+               <lb facs="#facs_25_r3l19" n="N020"/>vj ttl xj d 
+            </ab>
+            <ab facs="#facs_25_TextRegion_1655807048076_102" type="">
+               <lb facs="#facs_25_line_1655811401715_126" n="N001"/>d ibidem michel Schreiber pader hospes j ttl d 
+               <lb facs="#facs_25_line_1655807217798_117" n="N002"/>d domus Ulrich Egnburgerin v ttl d 
+               <lb facs="#facs_25_line_1655811714813_139" n="N003"/>+ domus Philipp Schalech Hafner Erben iiij s d 
+               <lb facs="#facs_25_line_1655811800720_144" n="N004"/>nihil ibidem Bernhart Ain hawer hospes xxxij d 
+               <lb facs="#facs_25_line_1655811832191_148" n="N005"/>+ ibidem n wurfflmacher xxxij d
+               <lb facs="#facs_25_line_1655811866606_152" n="N006"/>d domus Jorg <unclear>gugkhuyener</unclear> perse iij s d 
+               <lb facs="#facs_25_line_1655811953299_159" n="N007"/>d f hanns <unclear>aister</unclear> domus herrn Merten fucher perse vj s d 
+               <lb facs="#facs_25_line_1655812391210_172" n="N008"/>d domus relicta michel harderin nur ij ttl d 
+               <lb facs="#facs_25_line_1655812491576_179" n="N009"/>d domus Jorg <unclear>minmer</unclear> hawer perse vj sd 
+               <lb facs="#facs_25_line_1655807026783_92" n="N010"/>domus Peter Puchssermaister nur 
+               <lb facs="#facs_25_r10l2" n="N011"/>Anndre Schunpfer 
+               <lb facs="#facs_25_line_1655807105646_108" n="N012"/>domus herrn hannsen hawser 
+               <lb facs="#facs_25_line_1655807133670_112" n="N013"/>ibidem Sebastian Hamer <unclear>heffnerer</unclear> lx d 
+               <lb facs="#facs_25_r10l8" n="N014"/>Estuarium Ulrich Engburger
+               <lb facs="#facs_25_line_1655811533548_133" n="N015"/>d domus hanns Runeiderben Ladner perse vij ttl d 
+               <lb facs="#facs_25_r10l14" n="N016"/>Preidnstras
+               <lb facs="#facs_25_line_1655812290065_165" n="N017"/>d domus Erhart dieterspurger hafner perse iiij s d 
+               <lb facs="#facs_25_r10l31" n="N018"/>hanns Lanndeckher 
+               <lb facs="#facs_25_r10l33" n="N019"/>xxviij ttl iij s iiij d 
+            </ab>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
+            <ab facs="#facs_26_TextRegion_1655812742502_217" type="">
+               <lb facs="#facs_26_line_1655813955562_268" n="N001"/>d domus Thoman kermer peckh nur vj s d 
+               <lb facs="#facs_26_line_1655812732116_212" n="N002"/>d domus Leonhart Zimerman Ladner perse j ttl d 
+               <lb facs="#facs_26_line_1655812829561_225" n="N003"/>8 d domus 2a Ulrich der Zwetler hafner Erben vj s d 
+               <lb facs="#facs_26_line_1655813600288_240" n="N004"/>11 d domus Wolfganng Colman Ratmaister lx d 
+               <lb facs="#facs_26_line_1655813639331_244" n="N005"/>+ domus relicta philipp klampherin lx d 
+               <lb facs="#facs_26_line_1655813671773_248" n="N006"/>+ ibidem hanns hartperger hawer xxxij d 
+               <lb facs="#facs_26_line_1655813742690_254" n="N007"/>d ibidem hanns Leitner <unclear>pir</unclear> Leitgeb vj s d 
+               <lb facs="#facs_26_line_1655813871464_259" n="N008"/>d ibidem Heronimus Zeisl vj s d 
+               <lb facs="#facs_26_line_1655813921142_264" n="N009"/>10 domus d Erhart Ofenstainer hawer iij s d 
+               <lb facs="#facs_26_line_1655814017239_273" n="N010"/>d domus marx grainer nur iiij s d 
+               <lb facs="#facs_26_line_1655814295110_293" n="N011"/>d domus Jacob haderl pinter perse lx d 
+               <lb facs="#facs_26_line_1655814332051_297" n="N012"/>d domus relicta Lucas Wunderin furmanin iij sd 
+               <lb facs="#facs_26_line_1655814601224_309" n="N013"/>+ domus Ulrich Raseamerin perse vj s d 
+               <lb facs="#facs_26_line_1655814728224_320" n="N014"/>Waitz hawer vj s d 
+               <lb facs="#facs_26_line_1655813553594_233" n="N015"/>+ ibidem Wernhart hawer hafner hospes lx d 
+               <lb facs="#facs_26_r2l16" n="N016"/>Pierhaws 
+               <lb facs="#facs_26_r2l28" n="N017"/>Wolfganng Lindnwer 
+               <lb facs="#facs_26_r2l32" n="N018"/>Jorg Kariph hawer perse
+               <lb facs="#facs_26_line_1655814212608_283" n="N019"/>d domus Toman puchler nur 
+               <lb facs="#facs_26_line_1655814247088_288" n="N020"/>Sigmund Habmwatter iiij s d 
+               <lb facs="#facs_26_line_1655814582999_305" n="N021"/>Exo<hi style="vertical-align: superscript;">to</hi>
+               <lb facs="#facs_26_line_1655814671436_313" n="N022"/>d domus Caspar Verder nur hanna 
+               <lb facs="#facs_26_r2l52" n="N023"/>viij ttl iij s ij d 
+            </ab>
+            <ab facs="#facs_26_TextRegion_1655814811566_328" type="">
+               <lb facs="#facs_26_line_1655814898684_348" n="N001"/>d domus Ulrich Brabst hawer perse vj s d 
+               <lb facs="#facs_26_line_1655814936615_352" n="N002"/>12 d domus Wolfganng Schachtlin vj s d 
+               <lb facs="#facs_26_line_1656335933502_34" n="N003"/>domus 2a <unclear>Niculasch Sibnurher</unclear> hospes iiij s d 
+               <lb facs="#facs_26_line_1656336547528_48" n="N004"/>nihil ibidem Hain Ladner hospes xxxij d 
+               <lb facs="#facs_26_line_1656336590331_54" n="N005"/>d domus Hanns grat hawer perse vj s d 
+               <lb facs="#facs_26_line_1655814834007_338" n="N006"/>d domus Wolfganng Welser hawer vj s d 
+               <lb facs="#facs_26_r6l8" n="N007"/>hunrairerin 
+               <lb facs="#facs_26_line_1655817104068_368" n="N008"/>d domus Leonhart magerl perse ij ttl d 
+               <lb facs="#facs_26_line_1655817582996_394" n="N009"/>domus Sigmund Stegferlder 
+               <lb facs="#facs_26_line_1655817634717_398" n="N010"/>d domus hanns Newpawer Lezellter iii½ ttl d 
+               <lb facs="#facs_26_line_1655888872193_410" n="N011"/>domus  hospitalis alts pichaws 
+               <lb facs="#facs_26_line_1655888913571_417" n="N012"/>nihil ibidem Waolfganng Nawhofer furer hospes xxxij d 
+               <lb facs="#facs_26_line_1655888952401_421" n="N013"/>d domus hanns <unclear>Eischen</unclear> cramer iij s d 
+               <lb facs="#facs_26_line_1656335479702_12" n="N014"/>11 dedit per 
+               <lb facs="#facs_26_line_1656335479700_11" n="N015"/>domus <unclear>???</unclear> Wolfgang Aichinger hawer perse iiij s d 
+               <lb facs="#facs_26_r6l30" n="N016"/>domus ??? Mauster Laste vo 2 s ??? j ttl d 
+               <lb facs="#facs_26_r6l31" n="N017"/>12 dedit iiij s d  
+               <lb facs="#facs_26_line_1656335815268_27" n="N018"/>1 d ibidem Peter Unpild Lezellter hos lx d 
+               <lb facs="#facs_26_r6l35" n="N019"/>d
+               <lb facs="#facs_26_r6l36" n="N020"/>Frawnfleckh 
+               <lb facs="#facs_26_line_1656336441234_38" n="N021"/>ibidem Niculasch ain Vleischhacker kuerht hospes 
+               <lb facs="#facs_26_line_1656336496274_42" n="N022"/>domus hanns franngkh nunc hospitalis
+               <lb facs="#facs_26_r6l46" n="N023"/>hueterstras 
+               <lb facs="#facs_26_line_1656336612583_60" n="N024"/>x ttl vij s iiij d 
+            </ab>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
+            <ab facs="#facs_27_TextRegion_1656337051124_76" type="">
+               <lb facs="#facs_27_line_1656337844377_161" n="N001"/>nihil ibidem Wolfgang Osterreicher hospes xxxij d 
+               <lb facs="#facs_27_line_1656337878038_165" n="N002"/>nihil ibidem Jorg Wagndrussl hawer xxxij d 
+               <lb facs="#facs_27_line_1656337586270_124" n="N003"/>d ibidem Hanns Slaher melmesser iij s d 
+               <lb facs="#facs_27_line_1656337234333_86" n="N004"/>8 d domus relicta Michel Awerin Ladnerin iiij s d 
+               <lb facs="#facs_27_line_1656337272431_90" n="N005"/>d domus Hanns Koder hawer perse j ttl d 
+               <lb facs="#facs_27_line_1656337405914_103" n="N006"/>1 d ibidem <hi>Mert </hi>Hans swartz hawer hospes xxxij d 
+               <lb facs="#facs_27_line_1656337160265_81" n="N007"/>10 d domus relicta Jorg Tallingerin iiij s d 
+               <lb facs="#facs_27_line_1656337305525_95" n="N008"/>ibidem Leonhart Englmaier Sawslager 
+               <lb facs="#facs_27_line_1656337354064_99" n="N009"/>domus 2a Hanns Newpawer lezellter 
+               <lb facs="#facs_27_line_1656337471743_111" n="N010"/>d domus Wilhalm Eckart hawer perse iij s d 
+               <lb facs="#facs_27_line_1656337558633_120" n="N011"/>domus Hanns Strasser Tandler 
+               <lb facs="#facs_27_line_1656337630349_132" n="N012"/>d ibidem Hanns Kanch hawer xxxij d 
+               <lb facs="#facs_27_line_1656337667207_137" n="N013"/>domus Mathes Hawpperger 
+               <lb facs="#facs_27_line_1656337689549_141" n="N014"/>d ibidem Sigmund Raltermair hawer perse iiij s d 
+               <lb facs="#facs_27_line_1656337761535_146" n="N015"/>d domus Veit Strieckh hawer perse xxxij d 
+               <lb facs="#facs_27_line_1656337818976_157" n="N016"/>domus Wolfgang zawner 
+               <lb facs="#facs_27_line_1656337921123_171" n="N017"/>domus Cristof und Stewr kurst 
+               <lb facs="#facs_27_line_1656337528715_116" n="N018"/>Exo<hi style="vertical-align: superscript;">to</hi>
+               <lb facs="#facs_27_r5l20" n="N019"/>iij ttl vij s x d 
+            </ab>
+            <ab facs="#facs_27_TextRegion_1656338081492_190" type="">
+               <lb facs="#facs_27_line_1656497092673_8" n="N001"/>d domus Joral Korbach peckh perse j ttl d 
+               <lb facs="#facs_27_line_1656338213174_211" n="N002"/>michel ain maler <unclear>obijtt</unclear>
+               <lb facs="#facs_27_line_1656497385828_18" n="N003"/>1 d domus Thoman Man hawer perse iiij s d 
+               <lb facs="#facs_27_line_1656498030903_37" n="N004"/>d domus Urban puchler perse lx d 
+               <lb facs="#facs_27_line_1656338107817_195" n="N005"/>ibidem Sixt Sailer hawer 
+               <lb facs="#facs_27_line_1656338126815_199" n="N006"/>ibidem Wolfganng Sighart 
+               <lb facs="#facs_27_line_1656338142669_203" n="N007"/>8 d domus Niclas Haimlich hawer perse xxxij d 
+               <lb facs="#facs_27_line_1656338178729_207" n="N008"/>domus Anthain slusslfelder nur 
+               <lb facs="#facs_27_line_1656338340798_215" n="N009"/>+ domus Hanns Waitz <unclear>nunc</unclear>
+               <lb facs="#facs_27_line_1656338419569_223" n="N010"/>nihil ibidem Wolfganng Spendling hawer hospes xxxij d 
+               <lb facs="#facs_27_line_1656497338892_12" n="N011"/>d domus Thoman puchler hawer perse lx d 
+               <lb facs="#facs_27_line_1656497440723_25" n="N012"/>d domus Jorg Oder hawer perse iij s d 
+               <lb facs="#facs_27_line_1656497960665_30" n="N013"/>d domus Hanns Kaltermair hawer perse iiij s d 
+               <lb facs="#facs_27_line_1656498069710_42" n="N014"/>+ ibidem Sigmund Weiskircher lx d 
+               <lb facs="#facs_27_line_1656498161649_51" n="N015"/>domus Sigmund Weiskircher 
+               <lb facs="#facs_27_line_1656498246227_61" n="N016"/>d 
+               <lb facs="#facs_27_line_1656498282409_70" n="N017"/>d domus Mert Weisinger hawer perse iiij s d 
+               <lb facs="#facs_27_line_1656338390631_219" n="N018"/>michel Eysenhaimer hawer iij s d 
+               <lb facs="#facs_27_r13l9" n="N019"/><unclear>Stabgesl</unclear>
+               <lb facs="#facs_27_line_1656498117868_46" n="N020"/>d domus Relicta Wolfganng Asperlaibin lx d 
+               <lb facs="#facs_27_r13l19" n="N021"/>Hanns Slesinger 
+               <lb facs="#facs_27_r13l21" n="N022"/>iiij ttl vj s iiij d 
+               <lb facs="#facs_27_r15l1" n="N023"/>24
+               <lb facs="#facs_27_line_1656498217819_57" n="N024"/>lx d 
+            </ab>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
+            <ab facs="#facs_28_TextRegion_1656498493060_86" type="">
+               <lb facs="#facs_28_line_1656498830948_115" n="N001"/>d domus 
+               <lb facs="#facs_28_line_1656498955188_138" n="N002"/>d domus Ambrasty Tenckh hawer perse j ttl d 
+               <lb facs="#facs_28_line_1656499036424_147" n="N003"/>iij s d 
+               <lb facs="#facs_28_line_1656499076589_153" n="N004"/>12 d domus Hanns Frangkhnstainer lx d 
+               <lb facs="#facs_28_line_1656499109976_157" n="N005"/>d domus Wolfgang Khanradl hawer perse lx d 
+               <lb facs="#facs_28_line_1656498578437_95" n="N006"/>d domus Leonhart Ennglmair lx d 
+               <lb facs="#facs_28_line_1656498721747_109" n="N007"/>d domus Thoman puchler hawer j ttl lx d 
+               <lb facs="#facs_28_line_1656498864705_125" n="N008"/>iij s d 
+               <lb facs="#facs_28_line_1656498530717_90" n="N009"/>+ domus Pangretz Masperder hawer lx d 
+               <lb facs="#facs_28_line_1656498608718_100" n="N010"/><hi>domus Niculasch Siberburder</hi> 
+               <lb facs="#facs_28_line_1656498658893_104" n="N011"/>8 d domus ibidem Hanns Mawrer hospes no rl xxxij d 
+               <lb facs="#facs_28_r2l10" n="N012"/>der Lamng perse 
+               <lb facs="#facs_28_r2l11" n="N013"/>Leonhart Osterreicher nur 
+               <lb facs="#facs_28_r2l13" n="N014"/>Michel Dietmair hawer 
+               <lb facs="#facs_28_line_1656498897726_130" n="N015"/>Iterum Frawnfleckh 
+               <lb facs="#facs_28_line_1656498921751_134" n="N016"/>domus herrn Jorgen Fuchssen varat 
+               <lb facs="#facs_28_line_1656499004858_143" n="N017"/>domus Anndre Friesler nur 
+               <lb facs="#facs_28_r2l21" n="N018"/>d Jorg Liebl 
+               <lb facs="#facs_28_r2l26" n="N019"/>Iterum vor Widmerthor 
+               <lb facs="#facs_28_r2l27" n="N020"/>iiij ttl xxxij d 
+            </ab>
+            <ab facs="#facs_28_TextRegion_1656499220179_169" type="">
+               <lb facs="#facs_28_line_1656499426263_198" n="N001"/>d domus Caspar Halb phaff j ttl iiij s d 
+               <lb facs="#facs_28_r6l1" n="N002"/>Domus pera Toman Schachner 
+               <lb facs="#facs_28_line_1656499277245_177" n="N003"/>ibidem Hanns Foschendorffer Ladner iij s d 
+               <lb facs="#facs_28_line_1656499315013_181" n="N004"/>domus der von Stubmberg 
+               <lb facs="#facs_28_line_1656499336198_185" n="N005"/>nihil x ibidem Wolfganng Haiden pinter hospes iiij s d 
+               <lb facs="#facs_28_line_1656499379094_190" n="N006"/>ibidem Jorah mair koch 
+               <lb facs="#facs_28_line_1656499396723_194" n="N007"/>ibidem Caspar Zippsser lx d 
+               <lb facs="#facs_28_line_1656499471223_203" n="N008"/>d domus Pangretz Lewtgeb hawer perse ij ttl d 
+               <lb facs="#facs_28_line_1656499643692_208" n="N009"/>ibidem Hanns Messnig Schaberin 
+               <lb facs="#facs_28_line_1656499677804_212" n="N010"/>domus 2a Thoman Schaberin varat 
+               <lb facs="#facs_28_line_1656499696688_216" n="N011"/>domus Hanns Tuchler 
+               <lb facs="#facs_28_line_1656499712711_220" n="N012"/>d ibidem Michel Puchler hawer lx d 
+               <lb facs="#facs_28_line_1656499738670_224" n="N013"/>ibidem Veit ain hawer xxxij d 
+               <lb facs="#facs_28_line_1656499760726_228" n="N014"/>d ibidem Relicta Philipp Frolichin xxxij d 
+               <lb facs="#facs_28_line_1656499808105_237" n="N015"/>d 
+               <lb facs="#facs_28_line_1656499808104_236" n="N016"/>domus Philipp frolichin nur 
+               <lb facs="#facs_28_r6l42" n="N017"/>Ulrich gernng hawer 
+               <lb facs="#facs_28_line_1656499943730_246" n="N018"/>d ibidem Jorg Strawbinger hawer perse lx d 
+               <lb facs="#facs_28_line_1656499973244_250" n="N019"/>9 dedit Alex Lanngenmanntl perse iiij s d 
+               <lb facs="#facs_28_r6l48" n="N020"/>Katerkucken 
+               <lb facs="#facs_28_line_1656500016575_255" n="N021"/>d domus Niclas Zechmaister hawer perse iij s d 
+               <lb facs="#facs_28_r6l50" n="N022"/>vij ttl iiij d 
+               <lb facs="#facs_28_r8l7" n="N023"/>vj s d 
+            </ab>
+            <ab facs="#facs_28_r9" type="">
+               <lb facs="#facs_28_r9l1" n="N001"/>25 
+            </ab>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
+            <ab facs="#facs_29_TextRegion_1656500158495_284" type="">
+               <lb facs="#facs_29_line_1656500296864_306" n="N001"/>nihil ibidem Sebastian Simbser hospes xxxij d 
+               <lb facs="#facs_29_line_1656500369474_315" n="N002"/>nihil domus Wolfganng phandl Richter perse xxxij d 
+               <lb facs="#facs_29_line_1656500403784_319" n="N003"/>8 d domus Jorg Stainer hawer perse iij s d 
+               <lb facs="#facs_29_line_1656500678409_357" n="N004"/>d 
+               <lb facs="#facs_29_line_1656500875168_373" n="N005"/>d domus Leonhart Gluck hawer perse iiij s d 
+               <lb facs="#facs_29_line_1656500982155_391" n="N006"/>d domus Steffan Eferdinger hawer perse iij s d 
+               <lb facs="#facs_29_line_1656500234345_293" n="N007"/>d domus Valenthin Kren hawer perse iiij s d 
+               <lb facs="#facs_29_line_1656500335941_310" n="N008"/>d domus Hanns Kaindl hawer iiij s d 
+               <lb facs="#facs_29_line_1656500434258_323" n="N009"/>d domus Michel Keckh hawer perse iiij s d 
+               <lb facs="#facs_29_line_1656500471389_328" n="N010"/>d domus Hanns Kayser hawer perse j ttl d 
+               <lb facs="#facs_29_line_1656500503055_333" n="N011"/>d dibidem Mert Steyrer Von Hartperg hawer iiij s d 
+               <lb facs="#facs_29_line_1656500568371_342" n="N012"/>ibidem Steffan pulckhawer hawer xxxij d 
+               <lb facs="#facs_29_line_1656500600517_346" n="N013"/>d domus Cristof Lewbl vj s d 
+               <lb facs="#facs_29_line_1656500631387_351" n="N014"/>domus Relicta Nainrich Strawbingerin iij s d 
+               <lb facs="#facs_29_line_1656500735711_368" n="N015"/>11 d domus Michel Pawr hawer perse iiij s d 
+               <lb facs="#facs_29_line_1656500919637_378" n="N016"/>d domus Leonhart Klawr hawer perse iij s d 
+               <lb facs="#facs_29_line_1656500183339_288" n="N017"/>d domus Relicta Maert Swartzin iij s d 
+               <lb facs="#facs_29_line_1656500273056_302" n="N018"/>domus Cristof Crat Cramer 
+               <lb facs="#facs_29_line_1656500547597_338" n="N019"/>domus Wolfgang Kratzer 
+               <lb facs="#facs_29_line_1656500699753_364" n="N020"/>ibidem Gilig Srawbinger Ir Sun 
+               <lb facs="#facs_29_line_1656500964699_387" n="N021"/>Exo<hi style="vertical-align: superscript;">to</hi>
+               <lb facs="#facs_29_r3l41" n="N022"/>vij ttl vj d 
+            </ab>
+            <ab facs="#facs_29_TextRegion_1656501153183_429" type="">
+               <lb facs="#facs_29_line_1656501217201_437" n="N001"/>iij s d 
+               <lb facs="#facs_29_line_1656501390718_476" n="N002"/>11 d domus Jorg Wamer <unclear>???</unclear> iij s d 
+               <lb facs="#facs_29_r20l1" n="N003"/>
+               <lb facs="#facs_29_line_1656501307744_464" n="N004"/>d ibidem Mert Mayrhofer iij s d 
+               <lb facs="#facs_29_line_1656501347372_470" n="N005"/>d domus Stephan Ladner hawer perse iij s d 
+               <lb facs="#facs_29_line_1656501753800_512" n="N006"/>iij s d 
+               <lb facs="#facs_29_line_1656501738296_505" n="N007"/>d 
+               <lb facs="#facs_29_line_1656501928229_535" n="N008"/>d domus Michel Haiden hawer perse iij s d 
+               <lb facs="#facs_29_line_1656501791893_517" n="N009"/>ibidem Leonhart Magerl xxxij d 
+               <lb facs="#facs_29_line_1656501956384_539" n="N010"/>d domus Siluester Steyrer hawer perse iij s d 
+               <lb facs="#facs_29_line_1656502014265_545" n="N011"/>d domus Leonhart Aigner hawer perse iiij s d 
+               <lb facs="#facs_29_line_1656502450536_569" n="N012"/>d domus Vabian Landsman hawer perse x s d 
+               <lb facs="#facs_29_line_1656502338656_564" n="N013"/>d domus Hainrich Kolhaimer hawer perse iij s d 
+               <lb facs="#facs_29_line_1656501609786_482" n="N014"/>d domus Relicta Jorg Kratwollin nur iiij s d 
+               <lb facs="#facs_29_line_1656501824234_522" n="N015"/>d domus Toman pannagl hawer perse iiij s d 
+               <lb facs="#facs_29_line_1656501876006_528" n="N016"/>d domus Mert Steyrer hawer perse iij s d 
+               <lb facs="#facs_29_line_1656502161439_552" n="N017"/>d domus Niclas Smoll hawer perse xij s d 
+               <lb facs="#facs_29_line_1656502282859_559" n="N018"/>d domus Thoman Pegl hawer perse vj s d 
+               <lb facs="#facs_29_line_1656501191414_433" n="N019"/>domus Ludwig Pachhaimer 
+               <lb facs="#facs_29_line_1656501284468_460" n="N020"/>d ibidem Adam Zawn hawer  
+               <lb facs="#facs_29_r12l6" n="N021"/>Hanns Degerhart perse 
+               <lb facs="#facs_29_r12l8" n="N022"/>Augustin Staimer 
+               <lb facs="#facs_29_line_1656501664521_489" n="N023"/>domus Wolffgang gundl nur 
+               <lb facs="#facs_29_r12l10" n="N024"/>Wolfgang pellendorffer 
+               <lb facs="#facs_29_r12l20" n="N025"/>Iterum Laimbrueb 
+               <lb facs="#facs_29_r12l25" n="N026"/>viij ttl iiij s ij d 
+            </ab>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
+            <ab facs="#facs_30_TextRegion_1656503021897_587" type="">
+               <lb facs="#facs_30_line_1656503028803_591" n="N001"/>d domus Leonhart Keckh hawer perse ij ttl lx d 
+               <lb facs="#facs_30_line_1656503070454_596" n="N002"/>d domus Sigmund Lamppltaler hawer perse iij s d 
+               <lb facs="#facs_30_line_1656505094484_600" n="N003"/>dedit 32d ibidem Steffan Ain mirllner lx d 
+               <lb facs="#facs_30_line_1656505230685_605" n="N004"/>d domus Peter Huber hawer perse lx d
+               <lb facs="#facs_30_line_1656505290438_609" n="N005"/>1 d domus 
+               <lb facs="#facs_30_line_1656505815344_632" n="N006"/>d domus Valenthin Kranking hawer perse iiij s d 
+               <lb facs="#facs_30_line_1656505970585_645" n="N007"/>d domus Hainrich Smid hawer perse vj s d 
+               <lb facs="#facs_30_r2l14" n="N008"/>Anndre mayrhoflin nur 
+               <lb facs="#facs_30_line_1656505323423_614" n="N009"/>xij s d 
+               <lb facs="#facs_30_r2l18" n="N010"/>Andre Vischer hawer 
+               <lb facs="#facs_30_line_1656505352418_619" n="N011"/>ibidem Hanns Purckhuerht hawer xxxij d 
+               <lb facs="#facs_30_r2l24" n="N012"/>Ulrich 
+               <lb facs="#facs_30_line_1656505437574_627" n="N013"/>d domus Michel <unclear>Weimeurmb</unclear> hawer perse vj s d 
+               <lb facs="#facs_30_r2l29" n="N014"/>Ulrichin 
+               <lb facs="#facs_30_line_1656506008022_649" n="N015"/>d domus Jorg Steger hawer perse 
+               <lb facs="#facs_30_line_1656506048388_654" n="N016"/>vj s d 
+               <lb facs="#facs_30_r2l43" n="N017"/>nur Hanns Waldschafer 
+               <lb facs="#facs_30_line_1656506097161_659" n="N018"/>d domus Relicta Michel Rosch hawerin iij s d 
+               <lb facs="#facs_30_line_1656506160610_664" n="N019"/>d domus Paul Metzner hawer perse iij s d 
+               <lb facs="#facs_30_r2l53" n="N020"/>domus herr Jorg Hayer 
+               <lb facs="#facs_30_line_1656506293703_675" n="N021"/>ibidem Leonhart Welser hawer xxxij d 
+               <lb facs="#facs_30_line_1656506329645_679" n="N022"/>d domus Relicta Philipp Franng Khusneterin lx d 
+               <lb facs="#facs_30_line_1656506438178_684" n="N023"/>d domus Gabriel Zettenphering lx d 
+               <lb facs="#facs_30_r2l65" n="N024"/>Schuster varat 
+               <lb facs="#facs_30_r2l66" n="N025"/>Claustrum zw sand Tiboldt 
+               <lb facs="#facs_30_line_1656506643152_692" n="N026"/>9 domus d Cristof Huber Himrairer Varat iiij s d 
+               <lb facs="#facs_30_r2l69" n="N027"/>viiij ttl iij s iiij d 
+            </ab>
+            <ab facs="#facs_30_TextRegion_1656507980829_773" type="">
+               <lb facs="#facs_30_line_1656508053424_782" n="N001"/>d ibidem <unclear>Orchat Stancr</unclear> hawerin lxxxij d 
+               <lb facs="#facs_30_line_1656506751256_710" n="N002"/>8 domus Mert <unclear>Sternen</unclear> hawer perse iij s d 
+               <lb facs="#facs_30_line_1656507325887_719" n="N003"/>14 d domus Hanns Styer hawer varat iij s d 
+               <lb facs="#facs_30_r10l4" n="N004"/>lx d 
+               <lb facs="#facs_30_line_1656507843058_762" n="N005"/>d 
+               <lb facs="#facs_30_line_1656508984981_834" n="N006"/>d domus Michel Lewtewlt hawer perse vj s d 
+               <lb facs="#facs_30_line_1656508608082_816" n="N007"/>d domus Cristof Nuspeckh hawer perse vj s d 
+               <lb facs="#facs_30_line_1656508840823_820" n="N008"/>d domus Wolfganng Huber hawer iij s d 
+               <lb facs="#facs_30_line_1656508236291_786" n="N009"/>d domus Paul Huml Korbler perse lx d 
+               <lb facs="#facs_30_line_1656508321401_790" n="N010"/>d domus Jorg Hinnger hawer iiij s d 
+               <lb facs="#facs_30_line_1656508371912_795" n="N011"/>d domus Paul Snind hawer perse iij s d 
+               <lb facs="#facs_30_line_1656508458552_807" n="N012"/>nihil ibidem Leonhart Hebmstrert Zieglknecht lx d 
+               <lb facs="#facs_30_line_1656509114060_839" n="N013"/>domus  Hanns Stettner hawer Erben iij s d 
+               <lb facs="#facs_30_line_1656507520018_740" n="N014"/>domus x Jord Oder hawer perse iij s d 
+               <lb facs="#facs_30_line_1656507548768_745" n="N015"/>11 dedit domus Erhart Schusfoch hawer perse iij s d 
+               <lb facs="#facs_30_r9l4" n="N016"/>iiij s d 
+               <lb facs="#facs_30_line_1656508525136_811" n="N017"/>d domus Leonhart Spach Zieglknecht lx d 
+               <lb facs="#facs_30_line_1656508874759_825" n="N018"/>nihil ibidem Jacob Schatt hospes iij s d 
+               <lb facs="#facs_30_line_1656507364206_728" n="N019"/>domus Veit Laistschneid nunc
+               <lb facs="#facs_30_r8l4" n="N020"/>Philipp Mathoser
+               <lb facs="#facs_30_line_1656507604042_750" n="N021"/><unclear>per fr iln ??????</unclear>
+               <lb facs="#facs_30_line_1656507743081_755" n="N022"/>domus Relicta Erhart Sneiderin nunc 
+               <lb facs="#facs_30_r8l9" n="N023"/>Hans Staimz perse 
+               <lb facs="#facs_30_line_1656507990987_778" n="N024"/>domus Sigmund Schannleitner 
+               <lb facs="#facs_30_line_1656508414608_803" n="N025"/>domus Joachim Schattl Zieglstadl 
+               <lb facs="#facs_30_line_1656508956903_830" n="N026"/>domus Ulrich Gernng hawer varat 
+               <lb facs="#facs_30_r8l26" n="N027"/>vj ttl vj s xxij d 
+               <lb facs="#facs_30_r6l3" n="N028"/>per karata wein 
+               <lb facs="#facs_30_r6l5" n="N029"/>d 
+            </ab>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
+            <ab facs="#facs_31_TextRegion_1656509287831_863" type="">
+               <lb facs="#facs_31_line_1656509313478_867" n="N001"/>nihil ibidem Paul Kuppinger hawer xxxij d 
+               <lb facs="#facs_31_line_1657107285744_28" n="N002"/>d ibidem Peter Wispeckh hospes j ttl d 
+               <lb facs="#facs_31_line_1656509434027_877" n="N003"/>d domus Hanns Fuchs hawer perse ii½ ttl d 
+               <lb facs="#facs_31_line_1656509516050_882" n="N004"/>d domus 2a CristofSamt firerin perse vj s d 
+               <lb facs="#facs_31_line_1656509573702_887" n="N005"/>d domus Peter Feyrabent hafner perse vj s d 
+               <lb facs="#facs_31_line_1657106708806_7" n="N006"/>d domus Ulrich minnichofer perse iiij ttl iiij s d 
+               <lb facs="#facs_31_line_1657107163528_17" n="N007"/>d domus Leonhart Aichinger hawer vj s d 
+               <lb facs="#facs_31_line_1657107242145_23" n="N008"/>d domus Wolfgang Maylon ain peckh iij s d 
+               <lb facs="#facs_31_line_1657107316411_32" n="N009"/>d domus Veit Small hawer perse iij s d 
+               <lb facs="#facs_31_line_1657107353399_37" n="N010"/>d domus Anndre Grobinger hawer perse x s d 
+               <lb facs="#facs_31_line_1657107392023_42" n="N011"/>d domus Wolfgang Kafmader hawer perse x s d 
+               <lb facs="#facs_31_line_1657107451044_48" n="N012"/>d domus Wolfganng Sunnleitner hawer perse iij s d 
+               <lb facs="#facs_31_line_1657107522530_60" n="N013"/>+ domus Stephan grimnawer pranstat lx d 
+               <lb facs="#facs_31_line_1657107582836_64" n="N014"/>d domus Relicta Wolfgang Trappin varat iij s d 
+               <lb facs="#facs_31_line_1657107619324_69" n="N015"/>11d domus Hanns glins hawer perse iiij s d 
+               <lb facs="#facs_31_line_1656509368920_873" n="N016"/>domus pera Cristof Samt furer varat 
+               <lb facs="#facs_31_r4l24" n="N017"/>Ofenluken 
+               <lb facs="#facs_31_line_1657107656730_74" n="N018"/>domus Andre Weispacher greissler stadl 
+               <lb facs="#facs_31_line_1657107686829_78" n="N019"/>domus Sigmund Kunrat stadl 
+               <lb facs="#facs_31_r4l37" n="N020"/>xv ttl xxxij d 
+            </ab>
+            <ab facs="#facs_31_TextRegion_1657107754869_91" type="">
+               <lb facs="#facs_31_r11l1" n="N001"/>
+               <lb facs="#facs_31_line_1657107798751_99" n="N002"/>d domus Toman Masawer hawer perse iiij s d 
+               <lb facs="#facs_31_line_1657107843720_104" n="N003"/>d domus Peter List hawer perse xxxij d 
+               <lb facs="#facs_31_line_1657107979232_129" n="N004"/>+ domus relicta Cristan pawerinin iij s d 
+               <lb facs="#facs_31_line_1657108142973_144" n="N005"/>d domus Mert Hawpperger hawer perse iiij s d 
+               <lb facs="#facs_31_line_1657108185280_149" n="N006"/>+ ibidem Peter Weiniger Ladner Lx d 
+               <lb facs="#facs_31_line_1657108230622_154" n="N007"/>d Jorg Schraltrittin xij s d 
+               <lb facs="#facs_31_line_1657108364326_167" n="N008"/>+ ibidem Hanns <unclear>Zscherro</unclear> ladner iij sd 
+               <lb facs="#facs_31_line_1657107768598_95" n="N009"/>domus Hanns Huder Stadl 
+               <lb facs="#facs_31_line_1657107876001_112" n="N010"/>Exo<hi style="vertical-align: superscript;">to</hi> 
+               <lb facs="#facs_31_line_1657107890280_116" n="N011"/>domus pera Hanns Suss
+               <lb facs="#facs_31_line_1657107922276_120" n="N012"/>domus 2a Hanns Suss 
+               <lb facs="#facs_31_line_1657107938904_124" n="N013"/>nihil ibidem Niclas frannclh hawer hospes xxxij d 
+               <lb facs="#facs_31_line_1657108030496_133" n="N014"/>d domus Hanns freydenstainer hawer perse vj s d 
+               <lb facs="#facs_31_line_1657108072919_138" n="N015"/>12 dedit domus Ulrich Arbeiter hawer iij s d 
+               <lb facs="#facs_31_r9l26" n="N016"/>Iterum Lanntrueb 
+               <lb facs="#facs_31_r9l29" n="N017"/>domus Wolfgang Spilberger nur 
+               <lb facs="#facs_31_line_1657108276478_162" n="N018"/>11 d domus Gilig kronstoffer Zimerman perse iiij s d 
+               <lb facs="#facs_31_r9l34" n="N019"/>v ttl iij s iiij d 
+            </ab>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
+            <ab facs="#facs_32_TextRegion_1657108554613_203" type="">
+               <lb facs="#facs_32_line_1657108892454_242" n="N001"/>11 d domus Kuntz Kelhainer Stainmetz perse vj s d 
+               <lb facs="#facs_32_line_1657108660502_212" n="N002"/>+ ibidem Leonhart Slesinger Ain hawer xxxij d 
+               <lb facs="#facs_32_line_1657109100296_257" n="N003"/>d ibidem Jorg Hoftetter pinter hospes iij s d 
+               <lb facs="#facs_32_line_1657109293025_270" n="N004"/>nihil ibidem Hainrich Tantschner hawer xxxij d 
+               <lb facs="#facs_32_line_1657109140680_261" n="N005"/>d domus Wolfganng prunner hawer perse xij s d 
+               <lb facs="#facs_32_line_1657109170656_265" n="N006"/>d domus Wolfgang Spillerger hawer perse iij ttl d 
+               <lb facs="#facs_32_line_1657109356915_276" n="N007"/>d domus Mert Rietenperger hawer j ttl d 
+               <lb facs="#facs_32_line_1657109398384_281" n="N008"/>d domus Jorg Naimer prantweiner j ttl d 
+               <lb facs="#facs_32_line_1657108595700_207" n="N009"/>d domus Leonhart Landstainerin ii½ ttl d 
+               <lb facs="#facs_32_line_1657108750918_223" n="N010"/>xij s d 
+               <lb facs="#facs_32_line_1657108839888_237" n="N011"/>d domus Anndre Lawterpacher Smid perse xij s d 
+               <lb facs="#facs_32_line_1657109007939_247" n="N012"/>d domus Jorg Rat hawer perse iij ttl d 
+               <lb facs="#facs_32_line_1657109045362_252" n="N013"/>d domus Sannd Michels ladnerschafft j ttl d 
+               <lb facs="#facs_32_line_1657108694032_216" n="N014"/>domus Wolfgang Karl hawer 
+               <lb facs="#facs_32_line_1657108756572_227" n="N015"/>ibidem Hanns Ahainerin sein muter 
+               <lb facs="#facs_32_r6l25" n="N016"/>Krembergassn 
+               <lb facs="#facs_32_r6l28" n="N017"/>xvj ttl iij s iiij d 
+            </ab>
+            <ab facs="#facs_32_TextRegion_1657109616737_293" type="">
+               <lb facs="#facs_32_r13l1" n="N001"/>
+               <lb facs="#facs_32_line_1657109636061_297" n="N002"/>d domus Michel Kheckh hawer perse iij s d 
+               <lb facs="#facs_32_line_1657109670414_301" n="N003"/>d domus Michel Glener hawer perse iiij s d 
+               <lb facs="#facs_32_line_1657109721928_309" n="N004"/>+ ibidem Georig Pernpeckh hawer xxxij d 
+               <lb facs="#facs_32_line_1657109775569_313" n="N005"/>nihil ibidem Michel Hewsler hawer hospes xxxij d 
+               <lb facs="#facs_32_line_1657109805519_317" n="N006"/>d domus Hanns Talhaimer hawer perse iij s d 
+               <lb facs="#facs_32_line_1657109863262_326" n="N007"/>d ibidem Hanns Wintzer hawer hospes xxxij d 
+               <lb facs="#facs_32_line_1657109898293_330" n="N008"/>1d domus Relicta Hanns Kettnerin hawerin iiij s d 
+               <lb facs="#facs_32_line_1657109940026_335" n="N009"/>1d domus Wolfganng Huttinger hawer iiij s d 
+               <lb facs="#facs_32_line_1657110028142_344" n="N010"/>d domus Michel pentzl nur iij s d 
+               <lb facs="#facs_32_line_1657110069067_349" n="N011"/>+ domus Relicta Christoffin Von munichen lx d 
+               <lb facs="#facs_32_line_1657110126717_357" n="N012"/>nihil ibidem Christof Steberin Vaglerin xxxij d 
+               <lb facs="#facs_32_line_1657110175266_361" n="N013"/>d domus Hanns Frangkh hawer perse iij s d 
+               <lb facs="#facs_32_line_1657110231462_369" n="N014"/>1 d domus Caspar Maser hawer perse iij sd 
+               <lb facs="#facs_32_line_1657110262948_373" n="N015"/>11 d domus Wolfgang Saindl hawer perse iij s d 
+               <lb facs="#facs_32_line_1657109701778_305" n="N016"/>domus Hainrich Rigl
+               <lb facs="#facs_32_line_1657109834317_322" n="N017"/>domus Larentz pawr greissler 
+               <lb facs="#facs_32_line_1657109975420_339" n="N018"/>+ domus Bernhart hofstperger varat iij s d 
+               <lb facs="#facs_32_r11l41" n="N019"/>Toman Kirchperger hawer 
+               <lb facs="#facs_32_line_1657110206109_365" n="N020"/>Exo<hi style="vertical-align: superscript;">to</hi>
+               <lb facs="#facs_32_r11l60" n="N021"/>iiij ttl vij s viij d 
+            </ab>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
+            <ab facs="#facs_33_TextRegion_1657110668689_391" type="">
+               <lb facs="#facs_33_line_1657110774139_405" n="N001"/>10 d domus Hanns Paltz hawer perse xxxij d 
+               <lb facs="#facs_33_line_1657110804379_409" n="N002"/>d domus Steffan Ebnstainerer hawer perse vj sd 
+               <lb facs="#facs_33_line_1657110689886_395" n="N003"/>+ domus Wentzl Hafner hawer perse iij s d 
+               <lb facs="#facs_33_line_1657110733500_400" n="N004"/>9d domus Jorg Prawn hawer perse iij s d 
+               <lb facs="#facs_33_line_1657110835676_413" n="N005"/>d domus Ulrich pachl hawer perse iiij s d 
+               <lb facs="#facs_33_line_1657110896446_419" n="N006"/>domus Leonhart Lanndstainer iiij s d 
+               <lb facs="#facs_33_line_1657110949824_427" n="N007"/>nur Paul Heygl ½ ttl d 
+               <lb facs="#facs_33_line_1657110993590_431" n="N008"/>d domus Paul funfl hawer perse j ttl d 
+               <lb facs="#facs_33_r3l2" n="N009"/>9 d 
+               <lb facs="#facs_33_line_1657111086415_441" n="N010"/>+ domus Relicta Niclas planckhnstainerin iiij s d 
+               <lb facs="#facs_33_r3l4" n="N011"/>Iterum 
+               <lb facs="#facs_33_r3l5" n="N012"/>Lambgrch 
+               <lb facs="#facs_33_line_1657111393359_462" n="N013"/>d ibidem Leonhart Sibnhainer Ladner xij s d 
+               <lb facs="#facs_33_line_1657111450058_468" n="N014"/>11d domus Christof Manninger hawer perse iij s d 
+               <lb facs="#facs_33_line_1657111538770_477" n="N015"/>11d domus Ulrich Hofer peckhen Erben iij ttl d 
+               <lb facs="#facs_33_line_1657111630486_486" n="N016"/>10 d domus Hainerman Punckhner peckh perse ii½  ttl d 
+               <lb facs="#facs_33_line_1657111033198_436" n="N017"/>d domus Wolfganng Aichinger hawer perse vj s d 
+               <lb facs="#facs_33_line_1657111167884_446" n="N018"/>ibidem Jorg Plangkhnstainer Saunbstrickher 
+               <lb facs="#facs_33_line_1657111267871_450" n="N019"/>d domus Hanns fraiendinst pinter iiij s d 
+               <lb facs="#facs_33_line_1657111339554_455" n="N020"/>d domus ???? iiij s d 
+               <lb facs="#facs_33_line_1657111496846_472" n="N021"/>d domus Leonhart Moser hawer perse x s d 
+               <lb facs="#facs_33_line_1657111576999_481" n="N022"/>d ibidem Hanns pueckhawser peckh hospes iiij s d 
+               <lb facs="#facs_33_r4l66" n="N023"/>xv ttl ij d 
+            </ab>
+            <ab facs="#facs_33_TextRegion_1657112378126_568" type="">
+               <lb facs="#facs_33_line_1657112391604_572" n="N001"/>+ ibidem marx gramer hawer perse xxxij <hi>iij <unclear>s</unclear></hi> d 
+               <lb facs="#facs_33_line_1657112077654_537" n="N002"/>+ ibidem Hanns Kinepantl Smid xxxij d 
+               <lb facs="#facs_33_line_1657111900747_516" n="N003"/>d domus Thoman pranntweinerin nur 
+               <lb facs="#facs_33_line_1657112038320_533" n="N004"/>d domus Gilig Steidl hawer perse iiij s d 
+               <lb facs="#facs_33_line_1657112174704_547" n="N005"/>d domus Larentz Tschurer hawer perse lx d 
+               <lb facs="#facs_33_line_1657112248484_551" n="N006"/>d domus Relicta Hanns petzin iij s d 
+               <lb facs="#facs_33_line_1657112279240_555" n="N007"/>11d domus Anndre Lofler Klampher j ttl d 
+               <lb facs="#facs_33_line_1657112314907_559" n="N008"/>1d domus Christof franngkh hawer perse iij s d 
+               <lb facs="#facs_33_line_1657112559858_576" n="N009"/>11 d domus Relicta Georig kutnerin iij s d 
+               <lb facs="#facs_33_line_1657113710744_585" n="N010"/>12 dedit domus Hanns perger hawer perse iij s d 
+               <lb facs="#facs_33_line_1657111990882_528" n="N011"/>d domus Thoman gunskhinrcher hawer perse vj s d 
+               <lb facs="#facs_33_line_1657112117629_541" n="N012"/>d domus Mert Steyrer pranntweiner perse xxi½  ttl d 
+               <lb facs="#facs_33_line_1657112590039_580" n="N013"/>d domus Mert Weissl hawer perse j ttl d 
+               <lb facs="#facs_33_r13l1" n="N014"/>30
+               <lb facs="#facs_33_line_1657111852123_511" n="N015"/>d domus Relicta Anndre Stainhawssin iiij s d 
+               <lb facs="#facs_33_line_1657111924266_520" n="N016"/>vj s d 
+               <lb facs="#facs_33_line_1657113787681_601" n="N017"/>x domus der Aitzlich varat xxxij d 
+               <lb facs="#facs_33_r11l1" n="N018"/>Newlucken 
+               <lb facs="#facs_33_r11l4" n="N019"/>Hainrich Wundechch
+               <lb facs="#facs_33_line_1657113741480_589" n="N020"/><hi>Nemluck</hi> Exo<hi style="vertical-align: superscript;">to</hi>
+               <lb facs="#facs_33_r11l20" n="N021"/>x ttl xxxvj d 
+            </ab>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
+            <ab facs="#facs_34_TextRegion_1657114133290_631" type="">
+               <lb facs="#facs_34_line_1657114154952_635" n="N001"/>10 d domus Erhart Kling hawer perse xxxij d 
+               <lb facs="#facs_34_line_1657118625226_669" n="N002"/>9 dedit 
+               <lb facs="#facs_34_line_1657114289204_652" n="N003"/>d domus Hanns Nadlstumpf hawer perse iij s d 
+               <lb facs="#facs_34_line_1657118657013_675" n="N004"/>iij s d 
+               <lb facs="#facs_34_line_1657118805089_684" n="N005"/>1 d domus Hanns Katl hawer perse iij s d 
+               <lb facs="#facs_34_line_1657118909118_691" n="N006"/>+ domus Jorg Rind ??? ??? media landa iij s d 
+               <lb facs="#facs_34_line_1657120193204_699" n="N007"/>d ibidem phyleph Mulperger iij s d 
+               <lb facs="#facs_34_line_1657120250301_704" n="N008"/>nihil ibidem Steffan Hutzinger xxxij d
+               <lb facs="#facs_34_r1l1" n="N009"/>1 d 
+               <lb facs="#facs_34_line_1657120417667_721" n="N010"/>d domus Erasen Franckh perse x s d 
+               <lb facs="#facs_34_r4l4" n="N011"/>Jorah Pawther nunc 
+               <lb facs="#facs_34_line_1657114258183_647" n="N012"/>d domus Christof Schedl 
+               <lb facs="#facs_34_r4l6" n="N013"/>lx d 
+               <lb facs="#facs_34_line_1657118577271_665" n="N014"/>domus Mathes Obernpergen nur 
+               <lb facs="#facs_34_r4l16" n="N015"/>Jorg Pranntl hawer 
+               <lb facs="#facs_34_line_1657118764196_680" n="N016"/>domus Relicta Thoman Gerstlin 
+               <lb facs="#facs_34_r4l28" n="N017"/><hi>ibidem Philip mulperger ain hawer hz </hi>
+               <lb facs="#facs_34_r4l29" n="N018"/>domus Hanns putscherin nur 
+               <lb facs="#facs_34_r4l30" n="N019"/>iij s d 
+               <lb facs="#facs_34_r4l31" n="N020"/>Wolfganng peckhin 
+               <lb facs="#facs_34_r4l35" n="N021"/>ij ttl v s iiij d 
+            </ab>
+            <ab facs="#facs_34_TextRegion_1657120515559_733" type="">
+               <lb facs="#facs_34_line_1657120843078_760" n="N001"/>19 d ibidem Leonhart Tachinger schuster iij s d 
+               <lb facs="#facs_34_line_1657120578093_747" n="N002"/>d domus Steffan Lambeckh hawer perse iiij s d 
+               <lb facs="#facs_34_line_1657120654936_754" n="N003"/>Domus Relicta Mathes Venngstin schusterin x s d 
+               <lb facs="#facs_34_line_1657121117628_781" n="N004"/>+ ibidem Ulrich purgl Ladner iiij s d 
+               <lb facs="#facs_34_line_1657121216300_790" n="N005"/>nihil ibidem Mert Hunrairer lx d 
+               <lb facs="#facs_34_line_1657121262168_795" n="N006"/>d domus doctor Hanns Angrer iiij s d 
+               <lb facs="#facs_34_line_1657121327916_800" n="N007"/>d domus Jorah Windischin j ttl d 
+               <lb facs="#facs_34_line_1657120946442_770" n="N008"/>d domus Wolfgang Osterreicher ladner perse x s d 
+               <lb facs="#facs_34_line_1657121161127_785" n="N009"/>d ibidem Oswald Kunrat hospes lx d 
+               <lb facs="#facs_34_r8l1" n="N010"/>domus Hanns Pabinger perse 
+               <lb facs="#facs_34_r8l3" n="N011"/>Iterum Laimgrueb 
+               <lb facs="#facs_34_line_1657120898360_765" n="N012"/>domus pera Hanns Keserin nunc 
+               <lb facs="#facs_34_r8l10" n="N013"/>Andre Mawrbacher peckh perse 
+               <lb facs="#facs_34_line_1657121002250_776" n="N014"/>domus Hanns Hawssterin nur 
+               <lb facs="#facs_34_r8l15" n="N015"/>Jorg Reytzinger huter 
+               <lb facs="#facs_34_r8l21" n="N016"/>Prunlucken 
+               <lb facs="#facs_34_r8l25" n="N017"/>v ttl vij s d 
+            </ab>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
+            <ab facs="#facs_35_TextRegion_1647431586999_27" type="">
+               <lb facs="#facs_35_line_1647431600317_33" n="N001"/>nihil ibidem Sigmund Ain hawer non cetera xxxij d 
+               <lb facs="#facs_35_r1l3" n="N002"/>domus Jungkhfraw gathrey nunc 
+               <lb facs="#facs_35_line_1647431790685_60" n="N003"/>12 d Wolfganng Kranntzl pinterin lx d 
+               <lb facs="#facs_35_line_1647431823392_66" n="N004"/>d domus Augustin Strasser prantweinerin x s d 
+               <lb facs="#facs_35_line_1657121500306_818" n="N005"/>+ domus herr Mert Srumesser zu hof iiij s d 
+               <lb facs="#facs_35_line_1647431897978_81" n="N006"/>nihil ibidem Ulrich Losperger hawer hospes no rl xxxij d 
+               <lb facs="#facs_35_line_1647431991253_102" n="N007"/>d domus Jorg Kirbssinger hawer perse iiij s d 
+               <lb facs="#facs_35_line_1647432263763_116" n="N008"/>d domus Niclas Labndach koch perse iij s d 
+               <lb facs="#facs_35_line_1647432312216_124" n="N009"/>+ domus Relicta n <unclear>Stinrerin</unclear> Varat xxxij d 
+               <lb facs="#facs_35_line_1647432358270_132" n="N010"/>d domus Paul Wunderlich hawer perse xxxij d 
+               <lb facs="#facs_35_r3l14" n="N011"/>xxxij d 
+               <lb facs="#facs_35_line_1647432625595_157" n="N012"/>per ??? domus??? Jorg Kichmair slayrer perse iij s d 
+               <lb facs="#facs_35_r1l15" n="N013"/>Fundlucken 
+               <lb facs="#facs_35_line_1657121696526_826" n="N014"/>Ex<hi style="vertical-align: superscript;">to</hi>
+               <lb facs="#facs_35_r1l21" n="N015"/>domus Thoman Wisinger 
+               <lb facs="#facs_35_r1l22" n="N016"/>nihil ibidem Jacob Koch hawer hospes 
+               <lb facs="#facs_35_r1l23" n="N017"/>Iterum prunlucken
+               <lb facs="#facs_35_line_1657121860564_837" n="N018"/>1 d 
+               <lb facs="#facs_35_r1l25" n="N019"/>iij ttl vij ß x d
+            </ab>
+            <ab facs="#facs_35_TextRegion_1647515862886_20" type="">
+               <lb facs="#facs_35_r14l1" n="N001"/>32
+               <lb facs="#facs_35_line_1657182490894_852" n="N002"/>d domus Hanns Gagerstorffer nur lx d 
+               <lb facs="#facs_35_line_1647515917241_36" n="N003"/>nihil ibidem Taman Osterreicher kursner no rl xxxij d 
+               <lb facs="#facs_35_line_1647515982603_50" n="N004"/>d ibidem Hanns Newmullner hofpinter iiij s d 
+               <lb facs="#facs_35_r11l1" n="N005"/>Domus des von Hochnwerg <unclear>varat</unclear>
+               <lb facs="#facs_35_line_1647432997580_190" n="N006"/>domus pera et 2a Christof Oberhaimer varat 
+               <lb facs="#facs_35_line_1647515843981_10" n="N007"/>+ domus Hainrich Ranger Kunigclicher lx d 
+               <lb facs="#facs_35_r11l8" n="N008"/>Mayestar Vals Khuer 
+               <lb facs="#facs_35_r11l12" n="N009"/>Hanns pawngartner 
+               <lb facs="#facs_35_line_1647515930465_40" n="N010"/>d domus Kuntz Schiller hawer perse vj s d 
+               <lb facs="#facs_35_line_1647515971342_46" n="N011"/>domus Herren Jorgen von Rorborf 
+               <lb facs="#facs_35_line_1647515998703_56" n="N012"/>ibidem maister Caspar ain puchssenmaister 
+               <lb facs="#facs_35_line_1647432846282_181" n="N013"/>domus Jorg Rubhutlin nur 
+               <lb facs="#facs_35_r11l26" n="N014"/>Anndre <unclear>gnaser</unclear>
+               <lb facs="#facs_35_line_1647432762891_175" n="N015"/>do des von Aspach 
+               <lb facs="#facs_35_r11l29" n="N016"/>nihil ibidem Anndre Kolnpeckh kursner hospes xxxij d 
+               <lb facs="#facs_35_line_1647516103302_67" n="N017"/>+ ibidem Thoman <comment comment="vllt.\u0020Erben\u0020kh?\u0020"><unclear>Erberkh</unclear></comment> lx d 
+               <lb facs="#facs_35_r11l32" n="N018"/>d ibidem Sigmund Lewdolfinger hospes iiij s d 
+               <lb facs="#facs_35_r11l33" n="N019"/>d ibidem Jorg <unclear>Esain</unclear> pinter hospes vj <hi>iiij</hi> s d 
+               <lb facs="#facs_35_r11l34" n="N020"/>ibidem Melchior Kolbmberger hospes 
+               <lb facs="#facs_35_r11l35" n="N021"/>iij ttl lx iiij d
+            </ab>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
+            <ab facs="#facs_36_TextRegion_1657183194504_893" type="">
+               <lb facs="#facs_36_line_1657183221050_897" n="N001"/>+ Domus Hanns Camer hafner Erben iij s d 
+               <lb facs="#facs_36_r2l2" n="N002"/>ibidem Wolfganng Kamer hafner hospes 
+               <lb facs="#facs_36_r2l3" n="N003"/>domus Wentzl pangkher varat 
+               <lb facs="#facs_36_r2l4" n="N004"/>ibidem Jahannes Niderhaimer mawter 
+               <lb facs="#facs_36_r2l5" n="N005"/>hinus iih s d 
+               <lb facs="#facs_36_r2l6" n="N006"/>xj ? xxxvij ttl 5 s xxviij d 
+            </ab>
+            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-11T16:02:09.260+01:00</Created>
+        <LastChange>2022-03-02T13:35:10.841+01:00</LastChange>
+        <TranskribusMetadata docId="831090" pageId="30875155" pageNr="38" tsid="76694322" status="IN_PROGRESS" userId="25514" imgUrl="https://files.transkribus.eu/Get?id=UYBXTKZYUOHMOPOLZUZIDMJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TTHRKVYEWZCGBGHTOOSAHXXY" imageId="24289901"/>
+    </Metadata>
+    <Page imageFilename="0038_WSTLA_Steueramt_B4_002_00038.jpg" imageWidth="3500" imageHeight="2472"/>
+</PcGts>

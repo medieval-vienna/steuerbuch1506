@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-11T16:02:08.502+01:00</Created>
+        <LastChange>2022-03-02T13:33:45.547+01:00</LastChange>
+        <TranskribusMetadata docId="831090" pageId="30875078" pageNr="3" tsid="76694147" status="IN_PROGRESS" userId="25514" imgUrl="https://files.transkribus.eu/Get?id=DTGVQVFAQWWCKSUNGCKHNWXD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZHAWUTKBDVSXGPTDYQRUGJVD" imageId="24289830"/>
+    </Metadata>
+    <Page imageFilename="0003_WSTLA_Steueramt_B4_002_00003.jpg" imageWidth="3500" imageHeight="2402">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692198649173" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2066,1961 2066,2102 2636,2102 2636,1961"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2066,2022 2092,2022 2119,2022 2145,2022 2172,2022 2198,2022 2225,2021 2252,2020 2278,2019 2305,2018 2331,2018 2358,2016 2384,2016 2411,2015 2438,2015 2438,1961 2411,1961 2384,1962 2358,1962 2331,1964 2305,1964 2278,1965 2252,1966 2225,1967 2198,1968 2172,1968 2145,1968 2119,1968 2092,1968 2066,1968"/>
+                <Baseline points="2066,2004 2092,2004 2119,2004 2145,2004 2172,2004 2198,2004 2225,2003 2252,2002 2278,2001 2305,2000 2331,2000 2358,1998 2384,1998 2411,1997 2438,1997"/>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2315,2102 2341,2099 2368,2096 2395,2092 2422,2090 2448,2088 2475,2086 2502,2085 2529,2084 2555,2082 2582,2081 2609,2079 2636,2078 2636,2024 2609,2025 2582,2027 2555,2028 2529,2030 2502,2031 2475,2032 2448,2034 2422,2036 2395,2038 2368,2042 2341,2045 2315,2048"/>
+                <Baseline points="2315,2084 2341,2081 2368,2078 2395,2074 2422,2072 2448,2070 2475,2068 2502,2067 2529,2066 2555,2064 2582,2063 2609,2061 2636,2060"/>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

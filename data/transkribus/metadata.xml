@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>831090</docId>
+    <title>1506</title>
+    <uploadTimestamp>1636642927401</uploadTimestamp>
+    <uploader>juli25@live.de</uploader>
+    <uploaderId>25514</uploaderId>
+    <nrOfPages>40</nrOfPages>
+    <pageId>30875074</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=QHOAWCOCOUDLVANJLUXCRLLH</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=QHOAWCOCOUDLVANJLUXCRLLH</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_831090</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>125337</colId>
+            <colName>Steuerbücher Wien</colName>
+            <description>created by juli25@live.de</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <isInMain>false</isInMain>
+</trpDocMetadata>

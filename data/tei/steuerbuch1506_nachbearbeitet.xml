@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">1506</title></titleStmt>
+         <seriesStmt><title>Steuerbücher Wien</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">1506</title><idno type="Transkribus">831090</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+
+            <ab facs="#facs_1_r1" type="">
+            </ab>
+
+            <ab facs="#facs_1_r2" type="">
+            </ab>
+
+            <ab facs="#facs_1_r3" type="">
+ /
+            </ab>
+
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+
+            <ab facs="#facs_2_r1" type="">
+ /
+            </ab>
+
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+
+            <ab facs="#facs_3_r1" type="">
+ /
+            </ab>
+
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+
+            <ab facs="#facs_4_r3" type="">
+2 /
+Anno domini Quingentesimo /
+Sexto /
+Das virtail Lingnorum /
+Incipiendo im Hofgeslein /
+Prima Zedula /
+domus prima Jorg Reysinger /
+nihil ibidem Colman Obeltshaimer hawer xxxij d /
+nihil do Jorg Roschawer perse lx d /
+d ibidem Hanns Grieskhircher lx d /
+iij ß ij d
+            </ab>
+
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+
+            <ab facs="#facs_5_TextRegion_1646913678441_100" type="">
+domus <unclear>Telt</unclear> Messrer pranntstat /
+d domus Connrat Zentprecher j ttl d /
+nunc Jorg Waldner glaser /
+d domus Relicta Anndre Grafenawerin huterin j ttl d /
+erbenn /
+d ibidem Anndre Hartperger huter hospes vj ß d /
+d domus Mert Wiser huter perse j ttl d /
+domus prima herr Mathes ain briester /
+d ibidem Michel Mulpeckh huter hospes iiij ß d /
+d domus Relicta Mathes Podachtlin perse iij ttl d /
+Exopposito /
+d domus Hanns Tuchler perse xij t d /
+d ibidem Jorg frydolf xj ß d /
+nihil /
+ibidem Hanns von Nurmberg lx d /
+ibidem Pangretz Pernstainer bot lx d /
+d ibidem Anndre Kantzgwanndtler iij ß d /
+d ibidem Relicta Mathes Kewslerin iij ß d /
+nihil /
+ibidem Hanns Ortenberger hawer xxxij d /
+ibidem Hanns Pranntl pat xxxij d /
+d ibidem Cuntz Wolfl lewtgeb non cetera xxxij d /
+xxj t v ß vj d
+            </ab>
+
+            <ab facs="#facs_5_TextRegion_1682607749486_149" type="">
++ ibidem Peter Pewger lewtgeb non cetera xxxij d /
+d ibidem Sigmund Springer non cetera xxxij d /
++ ibidem Hanns Wendlin xxxij d /
+nihil /
+ibidem Anndre Hubnerin xxxij d /
+ibidem Mert Aicherin xxxij d /
+ibidem Jorg Sigharterin xxxij d /
++ ibidem Peter Reitterin huterin xxxij d /
+ibidem Hanns Turer huter iiij ß d /
+domus civitatis gusschmid vacat /
+domus Relicta Wolfganng Zwickhlin verberin /
+ibidem Jorg Keckh Stewrkhnecht hospes /
+7 d ibidem Jacob Strenng verber xxxij d /
+d domus Jorg Peckhl verber perse iii½ ttl d /
+ibidem Hanns Potist prantweiner non cetera /
+d ibidem Diemut Haslin xxxij d /
+Exᵗº Ascendeno et <unclear>converso</unclear> /
+d domus Paul Pernawer huter perse iiij ß d /
+d domus Mathes Stainperger perse j ttl d /
++ ibidem Sebastian Weintrager xxxij d /
+vj t vj ß xx d
+            </ab>
+
+            <ab facs="#facs_5_r11" type="">
+8
+            </ab>
+
+            <ab facs="#facs_5_r15" type="">
+3
+            </ab>
+
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+
+            <ab facs="#facs_6_TextRegion_1647517977576_161" type="">
+d domus Larentz von Pulca verber perse iiij ttl d /
++ domus Caspar Heyninger perse j ttl d /
+d ibidem Relicta Jacob Teglichin kramerin lx d /
+dedit xiij <del>ttl</del> dedit xiij ttl domus 1<hi style="vertical-align: superscript;">a</hi> et 2ª Stephan Een perse. xxvj ttl d /
++ domus Bertlme Rigl perse ij ttl d /
+ibidem Relicta Mert Waldnerin habet /
+d domus Leonhart Vorster perse v ttl d /
+Judenplatz /
+d domus Relicta Hanns Hawtzenpergerin iiij ttl d /
+d ibidem Wolfganng Rewter huter hospes j ttl d /
+d domus Wolfganng Gmachl eysner perse v ttl d /
+d domus Wolfganng Frolich /
+nunc Anndre Freinberger /
+x ttl d /
+domus Stephan Welser cramer /
++ ibidem Mathes Pasler koch hospes lx d /
+domus 2ª Jorg Reysninger /
+ibidem Hanns Airtzinger peckh lx d /
+ibidem Hanns Pranner slayrer iij s d /
+d ibidem Bernhart Grill koch vj s d /
+ibidem Ulrich Pamporl nur /
++ Stephan Teicher wintzer xxxij d /
+lx ttl ij d
+            </ab>
+
+            <ab facs="#facs_6_TextRegion_1647522200671_389" type="">
+ibidem Ludwig Klingkhaimer ku mt ner diener /
+d domus 3ª Jorg Reysinger perse v ttl d /
+5 d ibidem Thoman Trogl zimerman non cetera xxxij d /
++ ibidem Hanns Velber peckh lx d /
+d ibidem Paul Valckh lawtenmacher xxxij d /
+domus 2ª Michel Schachnreiter /
+d ibidem Hanns Tullner huter hospes vj s d /
+d domus Michel Sturm huter perse xij s d /
+d domus Niclas Toll huter perse vj s d /
+ibidem Leonhart Zimerman ladner hz /
+d domus Hanns Strasser huter perse xij s d /
+d ibidem Hainrich Taundl wintzer non cetera lx d /
+ibidem Relicta Leonhart Phanstinglin vischerin habet /
+d domus Relicta Bertlme Huterin /
+nunc Lorentz Pawrnfeint xiiij s d /
+d ibidem Michel Holtzer Lx d /
+d ibidem Ludwig Weintrager xxxij d /
++ ibidem Relicta Hanns Mullennbergerin Naterin xxxij d /
+d do 2ª Wolfganng Puchler huter perse viij ttl d /
+do 2ª Wolfganng Puchler huter hospes /
+d ibidem Cristoff Fridwerger huter vj s d /
+d domus Paul Manndl huter Erben j ttl d /
+d ibidem Hanns Tenngkh huter hospes iiij ß d /
+xxxij ttl vj ß viij d
+            </ab>
+
+            <ab facs="#facs_6_r18" type="">
+4
+            </ab>
+
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+
+            <ab facs="#facs_7_r4" type="">
+ibidem Mert Ibsser vunderkheuffl non cetera lx d /
+domus Relicta Leonhart Rorerin /
+nunc Gilig Hoflich /
+ibidem Unnser frawn Auf der gstetten habet /
+d ibidem Cristof Pachsteltz hospes iij ttl d /
+d domus 2ª Wolfganng Rieber perse x ttl d /
+d domus Relicta Hanns Staindlin gurtlerin xij s d /
+ibidem Relicta Jorah Teglichin habet /
+domus una pars Anndre Pranntsteter /
+domus Altra pars Sigmund Stegfelder /
+d ibidem Hanns Primmer hospes iij s d /
+d ibidem Leonhart Gerner mawrer xxxij d /
++ ibidem Wolfganng Hebmstain non cetera xxxij d /
++ ibidem Hanns Sillpranntzeller non cetera xxxij d /
+d domus Anndre Puchler Harniger perse iij ttl d /
+<hi>Wolfganng galhamrer Erben</hi> xij s d /
+<hi>11 d domus nota hat das geldt wider<unclear> ainne</unclear></hi> /
+nihil ibidem Ulrich Kaimperger hospes lx d /
+ibidem Fridrich Pirsch habet /
+domus Sigmund Herrannttin /
+nunc Hanns Mastfogl vacat /
+Mert Windenn /
+pader Erben /
+vj ttl d /
+Estuarium /
+Zwn Rorn /
+xxvj ttl lxvj d
+            </ab>
+
+            <ab facs="#facs_7_TextRegion_1647946785005_428" type="">
+d ibidem Seferin pader hospes j ttl d /
+d ibidem Wolfganng Weiss lewtgeb lx d /
++ domus una pars Ruprecht Korbler Erben iij ttl d /
+d ibidem Mert Schaideckh Velferber hospes xxxij d /
++ ibidem Panngretz ain bat xxxij d /
+1d ibidem Relicta Michel Guthuerin hunrainerin lx d /
+d domus altra pars Jorg Stecher pewtler ij ttl iiij s d /
+d ibidem Wolfganng Kettner Airer iiij s d /
+ibidem Augustin Kirchperger pot /
+d ibidem Hanns ain koch non cetera xxxij d /
+d domus Achatz Mostorffer goldslaher pse iiij ttl d /
+dedit <hi><unclear>iiij <comment comment="Rheinische Gulden?">fl rh</comment> domus</unclear></hi> Wernhardin Trungkh vj ttl d /
+7d domus Jorg Jordan perse xxij ttl d /
+d domus Ulrich Permanin /
+nunc Mert Keckh iiij ttl d /
+d ibidem Stephan Schuhl haringer j ttl d /
+ibidem Larentz Pentzinger zimerman non cetera xxxij d /
+d ibidem Mert Ain lewtgeb lx d /
+domus Oswald Prantesserin nunc /
+Wunwolt Mayr /
+nihil ibidem Relicta Michel Pisthofin obsserin iiij s d /
+xlv ttl vj s viij
+            </ab>
+
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+
+            <ab facs="#facs_8_TextRegion_1660131089038_79" type="">
+domus prima Kuntz Pinterin /
+1d /
+ibidem Michel Pettennawer kursner hospes /
+j ttl iiij s d /
+d ibidem relicta Ludwig Puchsnmaister /
+in Ain Naterin lx d /
+d ibidem Kuntz Mayr nesstler xxxij d /
+d domus Fridrich Pirsch perse vij ttl d /
+d domus 2ª Michel Schachnreiter huter perse vij ttl d /
+d domus Gilig Ernst perse v ttl d /
+d ibidem Thoman Storlinger hawer xxxij d /
+d ibidem Hanns Gruntman maler hospes j ttl d /
+d domus Hanns Grossin nunc Hanns <comment comment="könnte auch Sturnen sein ">Sturmen</comment> perse v ttl d /
+domus relicta Jorah <unclear>Kochweinin</unclear> Erben v ttl d /
+d ibidem Jorg Stern hawer iij s d /
+d ibidem Hanns Vindl hospes j ttl iiij s d /
+Wildwercherstrass /
+ibidem Jorg Hanntlinger /
+domus Wolfganng Gmechl Eysner /
+ibidem Sigmund Hoffsteter Vorsprech habet /
+d domus relicta Jorg Strawbnigerin perse /
+ibidem Magdalena des Kochwein Tochter habet /
+domus relicta Jorg Gundackherin /
+xxxiij ttl iiij s iiij d
+            </ab>
+
+            <ab facs="#facs_8_TextRegion_1648043901517_150" type="">
+12 dedit per ? ib Bernhart /
+d do Relicta Achatz /
+d ib Jorg <unclear>Vleischmanndl</unclear> weintrager lx d /
+Weintrager ? <unclear>rl</unclear> /
+Hanns ain Zimerman no <unclear>rl</unclear> xxxij d /
+Jorg ? /
+d do Wolfganng Tuchler pse v ttl d /
+do ?a Hanns gunther <unclear>kursner</unclear> v ttl d /
+do ?a Hanns gunther <unclear>kursner</unclear> /
+d do Hanns <unclear>diethain</unclear> ? ? x s d /
+1 d ib Hanns agader kursner hos vj s d /
+d do Gregor weidmer kursner pse ij ttl d /
+d do Steffan puchler kastecher pse x s d /
+do 2a Wolfganng Vieder j ttl d /
+d ib Adam pagner goldschmid hos /
+Caspar M<unclear>ulldorfer</unclear> <unclear>Tuchscherer</unclear> /
+nur Wolfganng Egrer pse x sd /
+ib Relicta Hanns phissterin Tuchschererin ?z /
+do a pars Bertlmer Stahlschmid /
+Schuster pse viiij s d /
+d do ?a pars Alexannder Cramer xij s d /
+d do za pars Kuntz ? Tuchscher pse j ttl d /
+xxvj ttl vj s ij d /
+ib /
+ib /
+d do
+            </ab>
+
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
+
+            <ab facs="#facs_9_TextRegion_1648307013666_51" type="">
+Schilltergassl /
+d domus Marx Kirchsteter kursner perse j ttl d /
+10 d domus Veit Rudolfin kursnerin vij s d /
+d ibidem Erhart Domer kursner hospes lx d /
+ibidem Michel Krappinger schneider xxxij d /
+domus Relicta Kirchpergerin vorsprechin ij ttl d /
+Exᵗº Schiltergassl /
+d domus Sigmund Grunwalt perse ij ttl iiij s d /
+d domus 2ª Kuntz Pinterin xij s d /
+d ibidem Niclas Greiffin schusterin iij s d /
+d ibidem Hanns Benrech zyngiesser j ttl d /
+d ibidem Relicta Hanns Phissterin tuchschererin j ttl d /
+d domus Wolfganng Trew nunc ij ttl d /
+Hanns Vischer schneider perse /
+ibidem Sannd Sebastianns bruderschafft habet /
+d ibidem Wolfganng Osterreicher goldschmid perse vj ttl d /
+d ibidem Leonhart Tachawer schneider iiij s d /
+d domus Relicta Jheronimuss Vischerin iiij ttl d /
+xxiij ttl xxxij d
+            </ab>
+
+            <ab facs="#facs_9_TextRegion_1650461593486_173" type="">
+7 d ibidem Cristoff Koler tuchscherer iiij s d /
+d ibidem Stephann Lex schneider iiij s d /
+8 dedit per abzug seins /
+Ratsold 4 ttl d vj ttl sein in den <unclear>????</unclear> /
+Cristoff Steger perse x ttl d /
+9 d domus Oswalden Ernnst Erbn iiij ttl d /
+d ibidem Jorg Aslabing hospes j ttl d /
+ibidem Kunrat Goldshaider lx d /
+ibidem Wolfganng ain ungellter /
+ibidem prima des von Polhaim x ttl d /
+d ibidem Hainrich Rigl hospes iij ttl d /
+ibidem Peter kuniglicher mt casstner /
+domus 2ª des von Polhaim v ttl d /
+d ibidem Hanns Gratzer kasstecher lx d /
+d ibidem <del>Hanns</del> /
+Arnolt /
+Urfelder lewtgeb xxxij d /
+d ibidem Leonnhart Forg gurtler lx d /
+d ibidem Bernnhart Turrnperkg gurtler lx d /
+d domus Vincentz Immerlieb schuster perse ij ttl iiij s d /
+domus Anndre Pranntsteter /
+nunc Lorentz Pawr greissler /
+d ibidem <unclear>B? ?</unclear> zeckhlmacher hospes j ttl d /
++ ibidem Hanns Kasstner wundarzt iiij s d /
+d ibidem Hanns vom Lannd satler non cetera iij s d /
+nihil ibidem Hanns Lanndshuter hospes xxij d /
+d ibidem Leonhart Foreysen sleiffer xxxij d /
+xxxviiij ttl vj s vj d
+            </ab>
+
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
+
+            <ab facs="#facs_10_TextRegion_1650465167175_398" type="">
+domus zuhewsl des von Polhaim /
+d ibidem Stephan Pernoder burgerpeckh vj s d /
+domus prima Hanns Mannglhaimer Erbn /
+d ibidem Hanns Koch hunrairer iiij s d /
++ ibidem Anndre Weispacher xxxij d /
+d domus 2a Hanns Mannglhaimer Erbn iij ttl d /
+d ibidem Jorg Leitner schneider lx d /
+ibidem Wolfganng Holtzinger ladner lx d /
+d ibidem Hanns Geyr ungellter lx d /
+ibidem Bertlme Stettner organist non cetera /
+ibidem Johannes Gmainer Stat <unclear>R???entzer</unclear> /
+Expposito /
+domus Leopold Schmotawer viiij ttl d /
+<unclear>vest ??? zur ge /
+sch fon 8 foleo 142</unclear> /
+nunc Cristoff Steger /
+ibidem Larentz Dorffl hospes /
+d ibidem Sigmund Holtzhaimer oler iiij s d /
+d ibidem Hanns Franngkh sleiffer lx d /
+Exᵗº et econuerso /
+domus Dominorum de Mawrbach /
+ibidem Hanns Stulpacher /
+xiiij ttl vij s ij d
+            </ab>
+
+            <ab facs="#facs_10_TextRegion_1650467466558_545" type="">
+d ibidem Cristof Marrkl paternosterer xxxij d /
+ibidem Benedict Schuttenhelm vasziher xxxij d /
+d ibidem Peter Liebmperger gurtler xxxij d /
+ibidem Wolfgang Khellner kuniglicher mt zechuter /
+ibidem Jorg Mawrerin xxxij d /
+d ibidem Peter Ernhainer pewtler lx d /
+nihil ibidem <unclear>???</unclear> Hanns Khatzhaimer lewtgeb xxxij d /
+nihil ibidem Ulrich Perger hawer xxxij d /
+domus 1<hi style="vertical-align: superscript;">a</hi> Lanngenkheller nunc /
+ib Wolfgang Fuchsperger <del>hospes</del> perse viij ttl d /
+d /
+d ibidem Mathes Peltz pheylschiffter xxxij d /
+ibidem Hanns Gannserin lx d /
+d domus Michel Spannberger schuster perse xiiij s d /
+domus 2ª Lanngen khellner /
+d ibidem Cristoff Purckhart ladner iij s d /
+d ibidem Stephan Moser swertfeger lx d /
+domus 3ª Lanngenkeller /
+d ibidem Heinrich Layminger ladner iij s d /
+ibidem Wolfganng ain lewtgeb lx d /
+domus Relicta Anndre Vederin /
+d ibidem Sigmund Winttersteiger messrer iij s d /
+<comment comment="später hinzugefügt?/ andere Handschrift ">d ibidem Hanns Simd leiteg iiij s d</comment> /
+xij ttl vj s viiij d
+            </ab>
+
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+
+            <ab facs="#facs_11_r2" type="">
+d domus Ulrich Schrat zum Eysengattern iiij ttl d /
+d ibidem Jorg Olerin gurtlerin xxxij d /
+d ibidem Wolfganng Lehner cramer lx d /
+d ibidem Stephan Mayr Lewtgwb xxxij d /
++ ibidem Jorg Hunrairer lx d /
+d ibidem Berhardin Nartzenpeckh pogner lx d /
+d ibidem Bertlmee Klampher non cetera xxxij d /
+d ibidem Hanns Hirsfelder messrer lx d /
+domus 4ª Lanngen keller /
+d ibidem Oswald Guglhuber koltrager hospes xxxij d /
+Claustrum zwn Weisenbruedern /
+domus 1<hi style="vertical-align: superscript;">a</hi> Civitatis /
+d ib Ulrich Hafenpratl hospes xxxij d /
+domus 2ª Civitatis /
+d ibidem Hanns Fuchspuchler koltrager hospes xxxij d /
+domus 3ª Civitatis /
+d ibidem Ulrich Peyss Tanndler xxxij d /
+v ttl vij s xiiij d
+            </ab>
+
+            <ab facs="#facs_11_r6" type="">
+domus 4a Civitatis /
+d ibidem Hanns Zoller mawrer hospes xxxij d /
+domus 5a Civitatis /
++ ibidem Zacherias Kraws hospes v s d /
+domus 6a Civitatis /
+d ibidem Jorg Mettlhaimer kramer hospes non cetera iiij s d /
+Exᵗº Kasstn am Hof /
+domus Hanns Packhprannstat /
+d domus Relicta Jorg Huberin iiij ttl d /
+ibidem Relicta Cristof Pesinger Erbn Nunc Wolf ij ttl iiij s d /
+ganng Postunger /
+d domus Gilig Hoflich huter Erbn v ttl d /
+d domus Relicta Peter Taimgkhlin huterin ij ttl d /
+d ibidem Fridrich Mayr huter hospes vj s d /
+d ibidem Jorg Steyrer messrer xxxij d /
+d domus Veit Wagner huter perse j ttl iiij s d /
+domus Hanns Tallinger purschtnpinter Erben /
+nunc Heronime Kreirer huter perse x s d /
+d domus Jorg Reytzinger huter perse v ttl d /
+d domus Niclas Hapher huter perse v ttl d /
+<unclear>?</unclear> <unclear>viij ttl iij s iiij d </unclear>
+            </ab>
+
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+
+            <ab facs="#facs_12_TextRegion_1651065675001_332" type="">
+8 d domus Relicta Jorg Klerin iij ttl d /
+d domus prima Jorg Lustlich /
+nunc Larentz <unclear>Obechnber</unclear> /
+ij ttl d /
+d domus 2ª Jorg Lustlich nunc /
+Wolfganng Hohnawer perse /
+iiij ttl d /
+domus 3a Jorg Lustlich /
+d ibidem Relicta Thoman Weitzer artztin j ttl d /
+Im Tewffengraben /
+domus 2ª Lorentz von Pulca verber /
+ibidem Peter Pindinger hawer hospes xxxij d /
+d domus Sigmunnd Rietennperger /
+esstrachgiesser /
+iiij s d /
+domus 1<hi style="vertical-align: superscript;">a</hi> ad Sanctum Spiritum /
+d ibidem Hanns vom Hof schuster xxxij d /
+domus 2ª ad Sanctum Spiritum /
+d ibidem Wolfganng Pirpaumer oler hospes iiij ttl d /
+Exopposito /
+xiiij ttl vj s iiij d
+            </ab>
+
+            <ab facs="#facs_12_TextRegion_1651067922095_420" type="">
+d domus Herr Hannsen Poschen xxxij d /
+ibidem Hanns Stubmfol /
+d domus ad Sanctum Lawrentzium j ttl d /
+d ibidem Anndre Magerhofer futrer hospes lx d /
+d ibidem Wolfganng Hewpperger ladner lx d /
+domus 2ª Herr Hannsen Poschen /
+d ibidem Hanns Pawngartner hospes lx d /
+d ibidem Leonhart Prawn koltrager lx d /
+d ibidem Oswald Koch non cetera lx d /
+domus prima ad Sanctum Pangracium /
+d ibidem Relicta Hainrichin ain naterin xxxij d /
+ibidem Gregor Hackhl schabhuter habet <del>lx </del>d /
+domus 2ª ad Sanctum Pangracium /
+ibidem Herr Hanns Raintinger /
+domus der von Schotten /
+d ibidem Jorg Hockl schabhuter perse lx d /
+d domus Relicta Jorg Rorerin iij ttl d /
+ibidem Leonhart Meichsner gwanntler hospes /
+domus Pharrhof ad Sanctum Pangracium /
+d ibidem Anndre Stettner koltrager lx d /
+7 d ibidem Jorg Ersleiher kolltrager lx d /
+v ttl vj s iiij d /
+9
+            </ab>
+
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+
+            <ab facs="#facs_13_TextRegion_1651071229579_577" type="">
+d ibidem Kuntz ain rosler xxxij d /
+d ibidem Jorg Zehenntner kursner xxxij d /
+nihil ibidem Hanns Sweher ausruffer xxxij d /
+domus 2ª Relicta Wolfganng Frohlichin /
+nihil ibidem Michel Springinelee rosler Lx d /
+d ibidem Stephan Puchler huter hospes j ttl d /
+d ibidem Hanns Weschawserin koltragerin Lx d /
+9 d ibidem hanns Taudler non cetera iiij s d /
++ ibidem Hanns Koltrager Lx d /
++ ibidem Niclas ain puchtruckher vj s d /
+d domus <del>ibidem</del> Paul Aicher huter perse j ttl vij s /
+Undern Pongnern /
+ist verkawft durch /
+den Stadt Cammerer /
+Domus Relicta Wolfganng Velserin pognerin j ttl d /
+Jeronime Resling /
+d ibidem Mertt Grymer kursner vj s d /
+ibidem Erhart Demer kursner habet /
+domus una pars Niclas Hopher huter /
+7 d ibidem Jorg Reinnolt Reysner non cetera lx d /
+vij lxvj d
+            </ab>
+
+            <ab facs="#facs_13_TextRegion_1651665181226_135" type="">
++ ibidem Stephan Awer hawer non cetera Lx d /
+d ibidem Relicta Hanns Ringkhlschmidin xxxij d /
+naterin /
+12 d domus Altra pars Relicta Hanns Pinterin iij ttl d /
+<unclear>per hainreich suessrer </unclear> /
+9 d ibidem Niclas Egrer rosler lx d /
+d domus Hanns Rorer pogner iij ttl d /
+d ibidem Jacob Rab gwanntler hospes iij s d /
+domus Hanns Kleeplat cramer /
+d ibidem Wolfganng Lanntsch ladner Lx d /
+d ibidem Hainrich Stahl pogner xxxij d /
+d ibidem Wilpold Riederin gwantlerin Lx d /
+d ibidem Hanns Frey cramer Lx d /
+d domus Jorg Maltzer pogner perse j ttl d /
+d domus Paul Diemer messrer perse j ttl vj s /
+d domus Terria Cuntz pinterin iij ttl d /
+d domus prima Kuntz Wolf perse j ttl d /
+domus 2ª Kuntz Wolf /
+7 d domus relicta Peter Holtzaphlin /
+d ib Hanns Mostfogl pogner hospes j ttl iiij s /
+d domus Hanns Wintersteiger messrer perse j ttl vj s /
+8d domus Gabriel Langenmanntl pogner perse j ttl d /
+d domus Wolfganng Odnburger messrer perse j ttl iiijs /
+xviij ttl iij s d
+            </ab>
+
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
+
+            <ab facs="#facs_14_TextRegion_1651667319760_314" type="">
+d domus Pangretz Oderin messrerin perse j ttl d /
+d domus Hanns Krans swertfeger perse j ttl d /
+Pewrerthof /
+ibidem Maister Leonhart Phlasstrer hospes /
+d ibidem Peter Liechtnnburger pheischiffter iiij s d /
+d domus Jorg Raid perse x s d /
+d domus Wolfganng Taninger ringklschmid perse j ttl d /
+d domus Thoman Suttner messrer perse ij ttl d /
+Exᵗº Pewrerthor /
+d domus Relicta Erhart Pabmbergerin ij ttl d /
++ ibidem Jobst Frey swertfeger xxxij d /
+d domus Anndre Ublpacher iiij ttl d /
+d ibidem Cristoff Jobst schuester Lx /
+d domus Hanns Liechtnburger pheilschiffter v ttl d /
+1 dedit per <unclear>Camd</unclear> domus Wolfgang Rigl perse v ttl d /
+ibidem Wolfganng Strawss kn mt gegnschreiber /
+ibidem maister Michel Puchssennmeister /
+ibidem Anthoninn ain naterin /
+ib Florian Thorr Ain schreiber /
+xxij ttl vij s ij d
+            </ab>
+
+            <ab facs="#facs_14_r11" type="">
+Domus kunigclicher mt Hubhaws /
+ibidem Herr Hanns Mader kuniglicher mt vitzthumb /
+ib Veit Regl khollmaister /
+ibidem Hanns Oder gegennschreiber /
+dedit ??? domus relicta Andre Vederin xv ttl d /
+defit ??? ibidem Maister Stephan Howner hos x ttl d /
++ ibidem Hanns frannberger Ladner Lx j ttl d /
+nil ibidem Michel Stilmacherin messrerin xxxij d /
+d ibidem michel peter paternostrer xxxij d /
++ ibidem relicta Barbara ain Ladnerin Lx d /
+d domus prima Bertlme Schalawtzer perse x ttl d /
+d domus Gabriel Anngrer Oler perse xij ttl d /
+d domus 2ª Larentz pawr greissler perse xiiij ttl d /
+domus 2 a Bertlme Schalawtzer /
+ibidem Wolfganng partzner greissler hz /
+<hi>domus Babniol Anngrer Oler perse </hi> /
+<hi>domus 2a Larentz Pawr greissler perse </hi> /
+d domus 2a Bertlme Schalawtzer <unclear>st ranger</unclear> xij ttl d /
+d ibidem Wolfganng Mangold Oler hos j ttl d /
+d ibidem MaisterJacob Wundartzt iiij s d /
+d ibidem Beorig gmach greissler vj s d /
+d ibidem Wolfganng Klampher iij s d /
+d ibidem relicta <unclear>Braslin funranerin</unclear> /
+lxxxvij ttl vij s iiij d
+            </ab>
+
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+
+            <ab facs="#facs_15_TextRegion_1651673611501_653" type="">
+nil ibidem Hanns Schadendersser Von sprech. j ttl d /
+domus Zicherosl Bertlme Schalawtzer /
+d ibidem Michel Hager greissler hos ij ttl d /
+domus 2ª Hanns prunner Oler /
+nunc Hanns Schockh /
+d ibidem Wolfganng ain wundtartzt no rl iiij s d /
+Exᵗº auf S peters srerthoff /
+Domus prima gachaimer /
+nil ibidem relicta Erhart Stadlerin nunc valtin hos Lx d /
+d ibidem Peter Vollnstain glaser Lx d /
+domus 2ª gachaimer Erben /
+d ibidem Hanns posst greissler hos ij ttl d /
+nil ibidem Anndre ain Altpirsserin Lx d /
+domus 3ª Bachainrer Erben j ttl d /
+d ibidem Niclas <unclear>Unbog</unclear> drechsler iiij s d /
+d domus prima Veit Hebmkhrieg Leimrat perse x ttl d /
+ibidem Thoman Eysner hawer Lx d /
+ibidem Hanns fuchs Ausruffer Lx d /
+domus herr Larenzt Haiden /
+d ibidem Hanns Haindorffer hawer Lxxx d /
+d ibidem Anndre Schurmprant Lxxx d /
+d domus 2ª Hanns prunner Oler xv ttl /
+nunc Hanns Scharckh perse /
+xxxiij ttl Lx d
+            </ab>
+
+            <ab facs="#facs_15_TextRegion_1651742705045_186" type="">
+d Domus Leonhart Emenckl Erben iiij ttl d /
+d ibidem Maert Hofman slosser hos Lx d /
+d ibidem Ott Krachsperger Humrairer vj s d /
+d ibidem Ludwig Furst Kursner xxxij d /
+d ibidem <unclear>und</unclear> Ain slagerin Lx d /
+domus Dotor Brici von Zili vj s d /
+<unclear>Zweigesch</unclear> /
+<unclear>vest </unclear> /
+ibidem Jorg Vormoster Strichmacher hos vj s d /
+d Domus 3ª Anndre pranntsteter perse xv ttl d /
+Domus 3ª Stephan Een /
+d ibidem Mathes Silbererkh slosser Lx d /
++ ibidem Vabian Hawbmschmid nagler Lx d /
+d ibidem Fritz pramrer slosser iij s d /
+d ibidem Wolfganng Dawmb slosser Lx d /
+d ibidem Pantoleon werder slosser iij s d /
+d ibidem Bertlme Kosner Zingiesser iij s d /
+d ibidem Hanns pawser Goldschmid iiij s d /
+d ibidem Wilhalns mitermayr vaszieher Lx d /
+Estuarium am Rosmarcht /
+d Ibidem Cristof warbacher pader hos j ttl iiij s /
+d domus una pars Bertlme Ottinger iij ttl d /
+xxviiij ttl ij d
+            </ab>
+
+            <ab facs="#facs_15_r11" type="">
+            </ab>
+
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
+
+            <ab facs="#facs_16_TextRegion_1651744363434_335" type="">
+d domus Altra pars hanns Annttl Appodecker Erben j ttl d /
+d ibidem Cristof Scharrer goldschmid vj s d /
+nil ibidem relicta Georig Unpildin cramerin xxxij d /
+d domus Lsla Vatser Zingiesser perse iiij ttl s /
+d domus Hanns Stahl wuntartzt perse j ttl iiij s d /
+d domus prima Michel Meylinger perse vij ttl d /
+domus 2ª Michel Meylinger Eysner /
+d ibidem Hanns Smid Nadler no rl Lx d /
+d ibidem Hanns Saloman greissler iij s d /
+1 d domus Sigmund Thewffentaler slosser perse v s d /
+d domus Valenthin wenckling slosserin iiij s d /
+d domus Sigmund Vischer slosser perse j ttl d /
+domus Hainrich Vorster /
+ibidem Anthoni Nagl Urmacher /
+Exopposito /
+<unclear>11</unclear> d Domus Peter Kognerin lawttnslaherin vj s d /
+d domus Wolfganng kremrast slosser iiij s d /
+dedit <unclear>vj zist </unclear>???? /
+<unclear>vedicino </unclear> /
+domus relicta Hanns kutzingerin slosserin /
+domus Ulrich Hackhenstill <unclear>Schar</unclear>schmid vj s d /
+1 d ibidem Mathes Kragl Striglmacher xxxij d /
+do Leonhart Kellner /
+xviiij ttl vj s iiij d
+            </ab>
+
+            <ab facs="#facs_16_TextRegion_1652271009628_137" type="">
+d ibidem Leonhart Hartl. hos. j ttl iiij s d /
+verkauft <unclear>sein</unclear> haws /
+per Hainrich anno 6ᵗº /
+vhuch /
+relicta Sigmund Scherrublin iij s d /
+ibidem Sigmund Strawst Slosser hos no rl Lx d /
+domus herr Lassla Sunthaim /
+d ibidem Sigmund Schaimleretner Ladner hos j ttl iiij sd /
+ibidem Wilhalm Mittermair Vaszieher /
+Thumprost hof /
+d ibidem Thoman Wisinger hos iij ttl d /
+d ibidem Michel witlgennser j ttl d /
+d ibidem Kuntz Mayr hawer iij s d /
+d ibidem Hanns Klerplat cramer v ttl d /
+d ibidem peter weblerin xxxij d /
+d domus Anndre Klerplat iiij s d /
+ibidem Ludwig freyberger cramer /
+d domus Hainrich Eckhenfelder greissler perse ij ttl d /
+d domus Veit <unclear>Kern</unclear> glaser perse i½ ttl d /
+ibidem Valenthin <hi>Weichsslpaum <unclear>der</unclear> greissler</hi> <unclear>priest</unclear>er j ttl d /
+d idem valentin Weixelpawm greissler /
+d ibidem b Augustin Hainbuch greissler vj s d /
+do 2<hi style="vertical-align: superscript;">a </hi>Anndre Vederin /
+d ibidem Kuntz Keichainer greissler x s d /
+do prima Augustin Hold Appoderkler /
+a domus 2ªvalentin j priester ½ j ttl d /
+xx ttl vij s ij d
+            </ab>
+
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
+
+            <ab facs="#facs_17_TextRegion_1652276403325_432" type="">
+d ibidem Johannes Simpliris hos iij ttl d /
+domus Zuhewsl Augustin hold /
+d ibidem Leonhart Leiwtschemperger hawer Lx d /
+domus Jorg pewschldorffer hawer /
+d ibidem Anndre purckhart greissler hos iiij s d /
+d domus Cristof gunppinger greissler j ttl d /
+domus Kuchl cunitatl /
+domus 4a Anndre Vederin /
+ibidem + Peter Lindnerin Kasstecherin Lx d /
+domus Zuchewsl Bertlme Schalawtzer /
+d ibidem Wolfganng Partzner greissler hos Lx d /
+d domus Sigmund Auran futtrer perse v½ ttl d /
+domus herr Hannser pandl /
+ibidem Jorg Stockher <unclear>Srartknurst</unclear> xxxij d /
+domus Wolfganng Kochwerin /
+1 d ibidem Peter Kagrer Schuster hos vj sd /
+ibidem Paul Kosch mesnerknecht /
+d domus relicta Michel puchlerin Olerin vj ttl d /
+ibidem Hanns Rosenkrantz Oler /
+d ibidem Caspar Hanhappl sperer Lx d /
+Exᵗº Protpennckh /
+xvij ttl iij s ij d
+            </ab>
+
+            <ab facs="#facs_17_TextRegion_1652278787597_549" type="">
+Domus hospitalis /
+d ibidem Michel Waldner hos v ttl d /
+d ibidem Thoman prinkhner schuster Lx d /
+d ibidem relicta Stimmrerin Lx d /
++ ibidem Moritz Eer Lewtgeb Lx d /
+domus herr Hainrich comin iiij ttl d /
++ ibidem Anthain comin hos /
+1 d ibidem Jacob Kossler slosser xxxij d /
+12 dt ibidem fridrich Munich Barbirer no rl Lx d /
+d ibidem Cristof Koch xxxij d /
+d domus Stephan Hafer Messrer perse iij ttl d /
+d ibidem Hanns Hofer pawr Lx d /
+9 d ibidem Leonhart pawr Lx d /
+<unclear>5</unclear> d ibidem Hanns Schneeberger Lewtgeb Lx d /
+d ibidem Wolfganng Tawder massrer Lx d /
+domus Jacob pramrerin /
+9 d ibidem Peter Vleischwartz Kursner hos j ttl d /
+d ibidem Jorg Egrer parer Lx d /
+ibidem Stephan Haiden <unclear>wchter</unclear> /
+<unclear>vr Kepuch per reb fo /
+140 </unclear> /
+ibidem relicta Hanns Khaschawerin iiij ttl d /
+1 d ibidem Fridrich Toll plattner iij s d /
+            </ab>
+
+            <ab facs="#facs_17_r9" type="">
+            </ab>
+
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
+
+            <ab facs="#facs_18_TextRegion_1652280237132_705" type="">
+ibidem Caspar Vingkhin /
+d ibidem Jorg Ain goldschmid iij s d /
+nihil ibidem Connrat lawtenmacher iij s d /
+ibidem Georig Kosrspannrer /
+711 domus Una pars ciunitatl /
+1 d ibidem maister michel platner hos iiij ttl d /
+d ibidem mert karl slosser iij s d /
+d ibidem Hairnrich ainn Hawbnstrickher Lx d /
+12 d 711 domus Altra pars Veit gatninger iij ttl d /
+macher /
+d ibidem maister Peter Puchssen<hi>maister</hi> hos iij s d /
+11 d ibidem Jrsickh Ain furman <del>lx</del> iij s d /
+d ibidemHanns Lanng furman iij s d /
+d ibidem Urban Schickh furer iij s d /
+d domus Jorg gunber Schuster perse ij ttl iiij s d /
+ibidem Leonhart gennsrnckher Schuster hz /
+d domus relicta Hanns kheserin perse iiij ttl d /
+nihil ibidem relicta Hanns keglin goldsmidin iij s d /
+d ibidem Hanns Hamer platner iij s d /
+ibidem Jorg Kebssinger von Osen /
+1 dedit per summar scheffen /
+3 ttl d /
+domus Hanns Anngrer perse v ttl d /
+domus sannd <unclear>umharl</unclear> /
+d ibidem Jorg Kreidnweis goldsmid iij s d /
+xxij ttl v s
+            </ab>
+
+            <ab facs="#facs_18_TextRegion_1652346721697_81" type="">
+domus <unclear>truja</unclear> ad sactum <unclear>nucharlem</unclear> /
+ibidem + Hanns Mairr sleiffer no rl iij s d /
+4ª ad sanctum <unclear>nucharlem</unclear> /
+d ibidem Wolfganng Krenibser Cramer hos vj s d /
+domus 5<hi style="vertical-align: superscript;">a</hi> ad sanctum <unclear>v nuchalem</unclear> /
+d ibidem Anndre graser gusser hos xj s d /
+domus des von Pademdorf <unclear>nur Regis</unclear> /
+ibidem Hanns Ungelter hos /
+ibidem nihil Hanns Scheihephlug Zimerman no rl xxxij d /
+Preidnnstrase /
+<hi><unclear>herren Kupnechten Keihabnegr</unclear></hi> /
+Domus /
+<hi>ibidem</hi> <unclear>dortor</unclear> wech hos /
+ibidem maister peter prornrater /
+ibidem herr Jorg Vermoser /
+domus grauen von Zorn /
+ibidem Jorg Mader hos /
+d ibidem Cristof rorer furer iij s d /
+d domus Hanns Kunnigwiser muhrer ij ttl iiij s d /
+ibidem Vildshofer no rl lx d /
+d domus wernhardin Koch furwarer perse ij ttl iiij s d /
+Exᵗº Astendendo et equerso /
+domus herr <unclear>Benyschkon</unclear> Eberstorf /
+viij ttl iij s ij d
+            </ab>
+
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
+
+            <ab facs="#facs_19_TextRegion_1652348706796_274" type="">
+ibidem + Paul gasslperger hos iij s d /
+domus des von Aspach /
+1 d ibidem Hanns Reysinger satler hos vj s d /
+<unclear>hier Im Buch</unclear> /
+<unclear>menst ud fit</unclear> /
+nachgelass /
+domus Oswald Knawr Stat Koch perse iiij ttl d /
+d domus una pars Ulrich Stadlmair perse x s d /
+8 d domus Altra pars d freyelstaminetz x s d /
+ibidem relicta Hanns protsitzerin xxxij d /
+nihil domus Zuhewsl <comment comment="tanrin?"><unclear>corin</unclear></comment> /
+dedit 30 d ibidem relicta Hanns Schneiderin hos lx d /
+domus Hansnen Kopplern Erben /
+9 est in das /
+vestpuch <unclear>lwins</unclear> /
+ibidem dorfor Jorg Schratl hos /
+xxij ttl d /
+9 dedit ibidem Leonhart Zimerman xxxij d /
+do Hanns Maninger perse /
+d per <unclear>sumer</unclear> /
+<unclear>ttl hansler</unclear> /
+ibidem Dorfor Manng xj ttl d /
+Rotstras /
+Domus Hanns Konstorffer Erben iiij s d /
+d ibidem Michel wintter no rl lx d /
+per <unclear>Sungud anan</unclear> /
+d domus Tiewolt Jagnperger j ttl d /
+xlij ttl vij s iiij d
+            </ab>
+
+            <ab facs="#facs_19_r6" type="">
+2 d ibidem Hanns Wittenoder hos lx d /
+do der Khunigsperger /
+ibidem Georig Straffer Zimerman no rl xxxij d /
+Exopposito /
+Domus der Eytzinger /
++ ibidem Michel lasentalerin Stainmetzin lx d /
+domus prima des von Toppl /
++ ibidem Wolfganng Elmfawer Ladner hos iij s d /
+domus h 2ª des von Toppl /
+d ibidem Sigmunnd Naibrickh hos no rl iij s d /
+do 3ª des von Toppl /
+nihil ibidem LeonhartKlemb hos iij s d /
+domus des von Scheffenberg /
++ ibidem Girschickh gastgob hos iij s d /
+Iterum am Grabenn /
+Domus Sigmund Cunrat <unclear>nur</unclear> /
+Bernhart flannder /
+d ibidem Hanns Nattl <unclear>Stidennater</unclear> j ttl d /
+ibidem relicta Caspar Aspeckhin lx d /
+iij ttl iij s ij d
+            </ab>
+
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
+
+            <ab facs="#facs_20_TextRegion_1654090027197_127" type="">
+ibidem Jorg Ain satler Lx d /
+8 dedit per <unclear>fristen</unclear> /
+<unclear>vlo m??trz</unclear> /
+domus Bernhardin Zuaimer Erben x s d /
+d ibidem Wentzl Mantich goldschmid hos x s d /
+d domus Hanns Valckh perse vj ttl d /
+d domus Mathes Ausserlirin nunc /
+d Larentz pitter ij ttl d /
+10 dedit per <unclear>puedigen</unclear> 2 ttl d /
+<unclear>da</unclear> /
+10 dedit per Staberin 4 ttl /
+Doctor Bertlme Staber perse <del>x</del> vj ttl d /
+domus Wolfganng Rieder nur /
+10 d Wolfganng Traw xij s d /
+ibidem Larentz walther flochwerin /
+domus der Eytzinger /
+domus herr wolfganng hainerl kn mt <unclear>secretar</unclear> /
+domus graf hanns von Wernberg /
+ibidem herr Wilhalm Tantsch kn mt <unclear>Serigurt</unclear> /
+Clausturm zw Augustinern /
+Exopposito /
+Domus Herr Jorg Neideckher /
+ibidem Hanns Eysenhut /
+Clausturm zw Sankt dorothe /
+xviij ttl lx d
+            </ab>
+
+            <ab facs="#facs_20_TextRegion_1654090165546_145" type="">
+Domus Osterreichische kantzelley /
+domus herr merten Teuchsler /
+11 d ibidem Jorg Zehutner hospes xxxij d /
+d domus relicta Philippin Stainmetzrin x s d /
+d domus augustin hold apoteckher per se vj ttl iiij s d /
+ibidem Wolfganng Zullinger Hawer hz /
++ ibidem relicta doctor Jorg Schoblingin iiij s d /
+ibidem Hanns Klerperger slayrer lx d /
+ibidem Michel rordeckl Schreiber /
+Estuarium am Sweinmarckt /
+nihil ibidem Stephan mayr pader hospes iij s d /
+Exopposito /
+Domus des von Schannberg /
++ ibidem Bernhart Schbennckh federleiter hospes lx d /
+ibidem Wolfganng ain hawer no rl xxxij d /
+ibidem n <unclear>Schewsengeyrn</unclear> /
+domus hernn Lassla prager /
++ nur Maister Mathes Kolner x s d /
+domus Herrn Mathesen <unclear>Bischonen</unclear> zu /
+<unclear>Eigklaw</unclear> /
+x ttl v s iiij d
+            </ab>
+
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
+
+            <ab facs="#facs_21_TextRegion_1654092022012_289" type="">
+d ibidem Steffan Walgnnit Schuster iij s d /
+d ibidem Jorg Lackhner <unclear>Sneid</unclear>lx d /
+d domus Michel <unclear>Strwer</unclear> perse xj ttl d /
+d domus Una pars Stephan pan v ttl d /
+d domus Altra pars wilhalm Sighart perse xij s d /
+d ibidem Hanns Urihl Zingiesser iij s d /
+d ibidem Ulrich kuckh apoteckher ij ttl d /
+9 dedit ibidem Sigmunnd Mutestgleich Sailer iij s d /
+ibidem Stephan Schannawer hospes <del>vij s d</del> /
+domus herrn Sigmundn Scharaitpeckhn /
+d ibidem Michel Rosch hospes vj s d /
+Halm Kairsner perse /
+domus Jorg Ebersperger <unclear>Nunr</unclear> hutte /
+Rosengassl /
+Domus Herrn Hannsen Matschacher /
+d ibidem Sigmunnd pawer hospes vj s d /
+domus herr Sigmunnd Potenprunner /
+domus ibidem Wolfganng Maychaser furer xxxij d /
+domus herr hanns hafkhircher /
+ibidem hanns posstbot /
+domus prima doctor fuchsmagen /
+domus 2ª doctor fuchsmagn /
+xxij ttl vij s ij d
+            </ab>
+
+            <ab facs="#facs_21_TextRegion_1654093384701_391" type="">
+domus 2a Sigmunnd pernsus perse xvj ttl d /
+d ibidem relicta hanns hawferin kramerin /
++ ibidem Paul Igler wagnnknecht hospes lx d /
+d domus Thoman Koph sailer ij ttl iiij s d /
+d ibidem Jorg Wurckhler hawer xxxij d /
+dedit per <unclear>fugener</unclear> domus Michel freyswalt perse v ttl iiij s d /
+domus herr Niclasen von puchaw /
+nihil ibidem Mert Weithecher furman hospes iiij s d /
+d domus Hanns Schatzer greissler perse ij ttl iiij s d /
+domus 2ª herr Cristof Oberhainrer /
++ ibidem Niclas Newpawr hospes no rl iiij s d /
++ ibidem Cristof pangkher hawer xxxij d /
+<comment comment="2a Cristof Oberhainer ist drei Zeilen höher schon einmal aufgeführt &gt; Fehler in Reihenfolge oder Nummerierung?">+ domus 2a herr Cristof Oberhainner v ttl d </comment> /
+nihil ibidem Leopold frischmit Snitzer xxxij d /
+ibidem Caspar <unclear>Mernnshammer kaltmawtner</unclear> /
+9 d ibidem Jorg <unclear>Hunrairer</unclear> Schneider lx d /
+domus prima Sigmunnd Pernfus /
+d ibidem Ludwig Ain Appodeckher hospes x s d /
+10 dedit vij ttl d /
+vnd viiij ttl d /
+<unclear>abtadyn</unclear> per <unclear>natschrecht</unclear> /
+do 2ª <unclear>kufnsserin</unclear> Erben /
+deb 9 <unclear>pars</unclear> /
+1d ibidem Michel Maler <comment comment="Schrift wie Summe "><unclear>trnl</unclear></comment> /
+d ibidem Leonhart Kunther Schuster iiij s d /
+Exopposito /
+xxxvij ttl xxxvj d
+            </ab>
+
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
+
+            <ab facs="#facs_22_TextRegion_1655299425468_216" type="">
++ ibidem wolfganng gross pewtler lx d /
++ ibidem Triwolt Schedl schuster hospes vj s d /
+nihil ibidem Jorg pranntner kursner xxxij d /
+10 domus Sebastian happl schusster perse xij s d /
+dedit iij fl rh /
+domus Stephan panhalm der Elter perse xj ttl d /
+d ibidem Anndre Sneidnhoser Zimerman ij ttld /
+dedit viij fl rh /
+d domus Thoman Leidenfrost peckh perse vj ttl lx d /
+d hanns Stral Tischler perse j ttl d /
+d domus michel Schutzpier schuster perse vj s d /
+d domus prima Jorg Poltinger perse ij ttl iiij s d /
++ ibidem Stephan Stainmetz lx d /
++ ibidem relicta hannsin ain slayrerin xxxij d /
+Ferner Stras /
+domus Oswald garser kunsner /
+domus 2a kufnsserin /
+domus Studenten haws /
+ibidem hanns Stollner /
+domus Walthasar Englman nur /
+domus n Neideckher kantzler perse /
+xxvj ttl iiij s d
+            </ab>
+
+            <ab facs="#facs_22_TextRegion_1655302649717_440" type="">
+8 d Ladnerin xxxij d /
+d ibidm Paul Silber Koch hospes ij ttl d /
+d ibidem Achatz meysl Tischler hospes iij s d /
+d domus Wolfganng Mayr Oler perse ij ttl iiij d /
+10 dedit lx d ibidem + Latzarin ain Taundlerin iij s d /
+8 d domus Wolfganng diem perse v ttl d /
+nihil ibidem Jorg koph Sailer xxxij d /
++ ibidem Paul Wurmperger xxxij d /
+domus 2a Jorg Poltinger /
++ ibidem hanns Weinwurmb kursner hospes j ttl d /
+1 d domus Veit holdt Tischler perse xiiij s d /
+d domus relicta Anndre ladnerin x s d /
+d ibidem hanns stefinger Tischler hospes iij s d /
+domus hanns Rawch Tischler vj s d /
+domus 1a hospitalis /
+ibidem relicta wolfganng sponselderin /
+domus <unclear>???</unclear> /
++ ibidem Benedict Kronperger Oler hospes iij s d /
+domus 2a ad <unclear>???</unclear> /
+9 d ibidem michel Lackhner Wagner hospes xij s d /
+Newmarckt /
+Domus Civitatis melgrub /
+xvj ttl vij s vj d
+            </ab>
+
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
+
+            <ab facs="#facs_23_TextRegion_1655304802610_573" type="">
+d domus 2a hanns Rockhner perse vij ttl d /
++ ibidem michel Vischkhewffl no rl xxxij d /
+8 d domus michel wild kursner nur /
+12 d ibidem Oswald Zahenperger hospes j ttl d /
+9 dedit ibidem hanns frasch kursner hospes iiij s d /
+d ibidem Stephan fewsl Tischler lx d /
+d ibidem Wolfganng krenn kuntner hospes iiij s d /
+d domus Jorg Steyrer Vaszieher perse ij ttl d /
+d domus Valenthin gotsprat Wagner perse x s d /
+9 dedit ibidem Thoman Veit Melmesser hospes iiij s d /
+d domus Niclas Puchperger Wagner perse ij ttl iiij s d /
+d domus Anndre Vechter Sayler perse xiiij s d /
+Jorg mutesgleich Sayler x s d /
+domus 2a imitatis melgenb /
+domus Leonhart Enenckl kinder /
+ibidem Philipp Sayrer habet /
+domus 2a Spital kellner /
+domus 1a hanns Rockhner /
+Exopᵗº /
+xviij ttl v s ij d
+            </ab>
+
+            <ab facs="#facs_23_TextRegion_1655305183492_612" type="">
+11 d ibidem Gothart Sigendorffer khunter iij s d /
+11 d ibidem Colman Vorsthofer Wagner lx d /
+d domus Wofganng hofman Smid perse ij ttl iiij s d /
+d domus herr Anndre Osterhafer perse j ttl d /
++ domus Thoman hunckher kunter Erben xiiij s d /
+nihil ibidem Schockhlin ain Reisnerin xxxij d /
+domus relicta Peter hoferin nur <unclear continued="true">Murtdesgleichn </unclear> /
+Exopposition /
+10 dedit domus prima Paul weimter Wagner perse x s d /
+10 d ibidem Mathes Ain Kunter lx d /
+domus 2a Paul Weimter Wagner /
+d ibidem Thoman Hasensprunng Sailer hospes iij s d /
+d domus Wolfganng Hackher Smid perse x s d /
+domus relicta fritz Siberin vj s d /
+12 d /
+ibidem maister Hanns Ain glaser /
+d ibidem Wolfganng Syber Ir Sun xxxij d /
+9 dedit b ibidem Ulrich Ernhuber melmesser xxxij d /
+11 d a domus Wolfganng Vuger Wagner perse vj s d /
+d domus relicta Niclas Munichreiterin perse iiij ttl d /
+x iiij ttl vij s vj d
+            </ab>
+
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
+
+            <ab facs="#facs_24_TextRegion_1655370452758_124" type="">
+d ibidem Anndre halbwachs wagner hospes iij s d /
+d domus altra pars Jorg Steyrer kunter perse iij s d /
+d domus una pars Wolfganng pacher tischler perse xi½ s d /
+d domus altra pars Walthasar Osterhafer Smid vj ttl d /
+ibidem relicta <del>???</del> /
++ ibidem relicta mert furmanin lx d /
+12 d ibidem Wolfganng Vorschofer Wagner iiij s d /
+domus Cristof vuger Stewrknecht perse /
+ibidem Hanns Althofer Erben /
+d domus una pars Peter Rainingerin iiij s d /
+<unclear>Basmug </unclear> /
+d ibidem Gregorer pildung Ansdenckher j ttl d /
+domus Waltasar Osterhafer Smid perse /
+o? ist frey domus herrn hannsen pranntl vj s d /
+Exoposito /
+domus herrn Ulrich weispriacher /
++ ibidem relicta Paul Trollin iiij s d /
+d domus Jacob merns perse xj ttl d /
+d domus relicta wolfgang Rulantin perse xvj ttl d /
+<hi>relicta Hanns Holtnerin</hi> /
+d domus mert kettnner <comment comment="ausgeschrieben, nicht mit Kürzungszeichen ">per se</comment> xiiij s d /
+<unclear>ll </unclear>ttl iiij s d
+            </ab>
+
+            <ab facs="#facs_24_r10" type="">
+d domus relicta kolman krichsteterin ij ttl d /
+Iterum kernerstras /
+d domus gilig kornpeckh ??? /
+Cristof keltendarffer oler iiij ttl d /
+domus wolfgang Valtermain nur <del>vj s d</del> /
+d Erhart pambshaberin vj s d /
+d ibidem Caspar pambshaber kursner iiij s d /
+Ir Sun /
+d ibidem Niclas hutseckh Rosler xxxij d /
+d domus relicta wolfgang Stranerin j ttl d /
+nihil ibidem michel Tunckl Zindgeselle no rl xxxij d /
+Claustrum zw Clarn /
+domus Niclas messenrabin nur /
+Stephan olachinderit /
+8 d ibidem Wolfgang hammatter peckh iiij s d /
+viiij ttl iiij d
+            </ab>
+
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
+
+            <ab facs="#facs_25_TextRegion_1655806703610_46" type="">
++ ibidem relicta niclas mestennrabin lx d /
+d domus Michel flugl schuster j ttl d /
+d domus hanns Schucler kn mt Zuschroter ii½ ttl d /
+1 d ibidem Cristof Lanngpawer furer hospes iiij s d /
+ibidem /
+ibidem Jorg <unclear>???? ain ???</unclear> xxxij d /
+ibidem maister Augustin menigasst hz /
+domus relicta Sigmund waitzhoferin /
+d ibidem Leonhart Anngermair furer hospes iiijs d /
+x ibidem mert spanin Ladnerin xxxij d /
+d ibidem hanns Ruppach Tischler no rl xxxij d /
+x domus hanns Stulpacher iiij s d /
+ibidem Ulrich ain malergeselle /
+ibidem Barbara frawn /
+domus ? hanns Zwetler fasner /
+10 d ibidem Jorg ain furman non cetera xxxij d /
+d Ulrich perckhainerin xxxij d /
+Vor Widmer Thor /
+Domus nihil Jorg Weingartner hawer hospes Lx d /
+vj ttl xj d
+            </ab>
+
+            <ab facs="#facs_25_TextRegion_1655807048076_102" type="">
+d ibidem michel Schreiber pader hospes j ttl d /
+d domus Ulrich Egnburgerin v ttl d /
++ domus Philipp Schalech Hafner Erben iiij s d /
+nihil ibidem Bernhart Ain hawer hospes xxxij d /
++ ibidem n wurfflmacher xxxij d /
+d domus Jorg <unclear>gugkhuyener</unclear> perse iij s d /
+d f hanns <unclear>aister</unclear> domus herrn Merten fucher perse vj s d /
+d domus relicta michel harderin nur ij ttl d /
+d domus Jorg <unclear>minmer</unclear> hawer perse vj sd /
+domus Peter Puchssermaister nur /
+Anndre Schunpfer /
+domus herrn hannsen hawser /
+ibidem Sebastian Hamer <unclear>heffnerer</unclear> lx d /
+Estuarium Ulrich Engburger /
+d domus hanns Runeiderben Ladner perse vij ttl d /
+Preidnstras /
+d domus Erhart dieterspurger hafner perse iiij s d /
+hanns Lanndeckher /
+xxviij ttl iij s iiij d
+            </ab>
+
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
+
+            <ab facs="#facs_26_TextRegion_1655812742502_217" type="">
+d domus Thoman kermer peckh nur vj s d /
+d domus Leonhart Zimerman Ladner perse j ttl d /
+8 d domus 2a Ulrich der Zwetler hafner Erben vj s d /
+11 d domus Wolfganng Colman Ratmaister lx d /
++ domus relicta philipp klampherin lx d /
++ ibidem hanns hartperger hawer xxxij d /
+d ibidem hanns Leitner <unclear>pir</unclear> Leitgeb vj s d /
+d ibidem Heronimus Zeisl vj s d /
+10 domus d Erhart Ofenstainer hawer iij s d /
+d domus marx grainer nur iiij s d /
+d domus Jacob haderl pinter perse lx d /
+d domus relicta Lucas Wunderin furmanin iij sd /
++ domus Ulrich Raseamerin perse vj s d /
+Waitz hawer vj s d /
++ ibidem Wernhart hawer hafner hospes lx d /
+Pierhaws /
+Wolfganng Lindnwer /
+Jorg Kariph hawer perse /
+d domus Toman puchler nur /
+Sigmund Habmwatter iiij s d /
+Exoᵗº /
+d domus Caspar Verder nur hanna /
+viij ttl iij s ij d
+            </ab>
+
+            <ab facs="#facs_26_TextRegion_1655814811566_328" type="">
+d domus Ulrich Brabst hawer perse vj s d /
+12 d domus Wolfganng Schachtlin vj s d /
+domus 2a <unclear>Niculasch Sibnurher</unclear> hospes iiij s d /
+nihil ibidem Hain Ladner hospes xxxij d /
+d domus Hanns grat hawer perse vj s d /
+d domus Wolfganng Welser hawer vj s d /
+hunrairerin /
+d domus Leonhart magerl perse ij ttl d /
+domus Sigmund Stegferlder /
+d domus hanns Newpawer Lezellter iii½ ttl d /
+domus hospitalis alts pichaws /
+nihil ibidem Waolfganng Nawhofer furer hospes xxxij d /
+d domus hanns <unclear>Eischen</unclear> cramer iij s d /
+11 dedit per /
+domus <unclear>???</unclear> Wolfgang Aichinger hawer perse iiij s d /
+domus ??? Mauster Laste vo 2 s ??? j ttl d /
+12 dedit iiij s d /
+1 d ibidem Peter Unpild Lezellter hos lx d /
+d /
+Frawnfleckh /
+ibidem Niculasch ain Vleischhacker kuerht hospes /
+domus hanns franngkh nunc hospitalis /
+hueterstras /
+x ttl vij s iiij d
+            </ab>
+
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
+
+            <ab facs="#facs_27_TextRegion_1656337051124_76" type="">
+nihil ibidem Wolfgang Osterreicher hospes xxxij d /
+nihil ibidem Jorg Wagndrussl hawer xxxij d /
+d ibidem Hanns Slaher melmesser iij s d /
+8 d domus relicta Michel Awerin Ladnerin iiij s d /
+d domus Hanns Koder hawer perse j ttl d /
+1 d ibidem <del>Mert </del>Hans swartz hawer hospes xxxij d /
+10 d domus relicta Jorg Tallingerin iiij s d /
+ibidem Leonhart Englmaier Sawslager /
+domus 2a Hanns Newpawer lezellter /
+d domus Wilhalm Eckart hawer perse iij s d /
+domus Hanns Strasser Tandler /
+d ibidem Hanns Kanch hawer xxxij d /
+domus Mathes Hawpperger /
+d ibidem Sigmund Raltermair hawer perse iiij s d /
+d domus Veit Strieckh hawer perse xxxij d /
+domus Wolfgang zawner /
+domus Cristof und Stewr kurst /
+Exoᵗº /
+iij ttl vij s x d
+            </ab>
+
+            <ab facs="#facs_27_TextRegion_1656338081492_190" type="">
+d domus Joral Korbach peckh perse j ttl d /
+michel ain maler <unclear>obijtt</unclear> /
+1 d domus Thoman Man hawer perse iiij s d /
+d domus Urban puchler perse lx d /
+ibidem Sixt Sailer hawer /
+ibidem Wolfganng Sighart /
+8 d domus Niclas Haimlich hawer perse xxxij d /
+domus Anthain slusslfelder nur /
++ domus Hanns Waitz <unclear>nunc</unclear> /
+nihil ibidem Wolfganng Spendling hawer hospes xxxij d /
+d domus Thoman puchler hawer perse lx d /
+d domus Jorg Oder hawer perse iij s d /
+d domus Hanns Kaltermair hawer perse iiij s d /
++ ibidem Sigmund Weiskircher lx d /
+domus Sigmund Weiskircher /
+d /
+d domus Mert Weisinger hawer perse iiij s d /
+michel Eysenhaimer hawer iij s d /
+<unclear>Stabgesl</unclear> /
+d domus Relicta Wolfganng Asperlaibin lx d /
+Hanns Slesinger /
+iiij ttl vj s iiij d /
+24 /
+lx d
+            </ab>
+
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
+
+            <ab facs="#facs_28_TextRegion_1656498493060_86" type="">
+d domus /
+d domus Ambrasty Tenckh hawer perse j ttl d /
+iij s d /
+12 d domus Hanns Frangkhnstainer lx d /
+d domus Wolfgang Khanradl hawer perse lx d /
+d domus Leonhart Ennglmair lx d /
+d domus Thoman puchler hawer j ttl lx d /
+iij s d /
++ domus Pangretz Masperder hawer lx d /
+<hi>domus Niculasch Siberburder</hi> /
+8 d domus ibidem Hanns Mawrer hospes no rl xxxij d /
+der Lamng perse /
+Leonhart Osterreicher nur /
+Michel Dietmair hawer /
+Iterum Frawnfleckh /
+domus herrn Jorgen Fuchssen varat /
+domus Anndre Friesler nur /
+d Jorg Liebl /
+Iterum vor Widmerthor /
+iiij ttl xxxij d
+            </ab>
+
+            <ab facs="#facs_28_TextRegion_1656499220179_169" type="">
+d domus Caspar Halb phaff j ttl iiij s d /
+Domus pera Toman Schachner /
+ibidem Hanns Foschendorffer Ladner iij s d /
+domus der von Stubmberg /
+nihil x ibidem Wolfganng Haiden pinter hospes iiij s d /
+ibidem Jorah mair koch /
+ibidem Caspar Zippsser lx d /
+d domus Pangretz Lewtgeb hawer perse ij ttl d /
+ibidem Hanns Messnig Schaberin /
+domus 2a Thoman Schaberin varat /
+domus Hanns Tuchler /
+d ibidem Michel Puchler hawer lx d /
+ibidem Veit ain hawer xxxij d /
+d ibidem Relicta Philipp Frolichin xxxij d /
+d /
+domus Philipp frolichin nur /
+Ulrich gernng hawer /
+d ibidem Jorg Strawbinger hawer perse lx d /
+9 dedit Alex Lanngenmanntl perse iiij s d /
+Katerkucken /
+d domus Niclas Zechmaister hawer perse iij s d /
+vij ttl iiij d /
+vj s d
+            </ab>
+
+            <ab facs="#facs_28_r9" type="">
+25
+            </ab>
+
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
+
+            <ab facs="#facs_29_TextRegion_1656500158495_284" type="">
+nihil ibidem Sebastian Simbser hospes xxxij d /
+nihil domus Wolfganng phandl Richter perse xxxij d /
+8 d domus Jorg Stainer hawer perse iij s d /
+d /
+d domus Leonhart Gluck hawer perse iiij s d /
+d domus Steffan Eferdinger hawer perse iij s d /
+d domus Valenthin Kren hawer perse iiij s d /
+d domus Hanns Kaindl hawer iiij s d /
+d domus Michel Keckh hawer perse iiij s d /
+d domus Hanns Kayser hawer perse j ttl d /
+d dibidem Mert Steyrer Von Hartperg hawer iiij s d /
+ibidem Steffan pulckhawer hawer xxxij d /
+d domus Cristof Lewbl vj s d /
+domus Relicta Nainrich Strawbingerin iij s d /
+11 d domus Michel Pawr hawer perse iiij s d /
+d domus Leonhart Klawr hawer perse iij s d /
+d domus Relicta Maert Swartzin iij s d /
+domus Cristof Crat Cramer /
+domus Wolfgang Kratzer /
+ibidem Gilig Srawbinger Ir Sun /
+Exoᵗº /
+vij ttl vj d
+            </ab>
+
+            <ab facs="#facs_29_TextRegion_1656501153183_429" type="">
+iij s d /
+11 d domus Jorg Wamer <unclear>???</unclear> iij s d /
+d ibidem Mert Mayrhofer iij s d /
+d domus Stephan Ladner hawer perse iij s d /
+iij s d /
+d /
+d domus Michel Haiden hawer perse iij s d /
+ibidem Leonhart Magerl xxxij d /
+d domus Siluester Steyrer hawer perse iij s d /
+d domus Leonhart Aigner hawer perse iiij s d /
+d domus Vabian Landsman hawer perse x s d /
+d domus Hainrich Kolhaimer hawer perse iij s d /
+d domus Relicta Jorg Kratwollin nur iiij s d /
+d domus Toman pannagl hawer perse iiij s d /
+d domus Mert Steyrer hawer perse iij s d /
+d domus Niclas Smoll hawer perse xij s d /
+d domus Thoman Pegl hawer perse vj s d /
+domus Ludwig Pachhaimer /
+d ibidem Adam Zawn hawer /
+Hanns Degerhart perse /
+Augustin Staimer /
+domus Wolffgang gundl nur /
+Wolfgang pellendorffer /
+Iterum Laimbrueb /
+viij ttl iiij s ij d
+            </ab>
+
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
+
+            <ab facs="#facs_30_TextRegion_1656503021897_587" type="">
+d domus Leonhart Keckh hawer perse ij ttl lx d /
+d domus Sigmund Lamppltaler hawer perse iij s d /
+dedit 32d ibidem Steffan Ain mirllner lx d /
+d domus Peter Huber hawer perse lx d /
+1 d domus /
+d domus Valenthin Kranking hawer perse iiij s d /
+d domus Hainrich Smid hawer perse vj s d /
+Anndre mayrhoflin nur /
+xij s d /
+Andre Vischer hawer /
+ibidem Hanns Purckhuerht hawer xxxij d /
+Ulrich /
+d domus Michel <unclear>Weimeurmb</unclear> hawer perse vj s d /
+Ulrichin /
+d domus Jorg Steger hawer perse /
+vj s d /
+nur Hanns Waldschafer /
+d domus Relicta Michel Rosch hawerin iij s d /
+d domus Paul Metzner hawer perse iij s d /
+domus herr Jorg Hayer /
+ibidem Leonhart Welser hawer xxxij d /
+d domus Relicta Philipp Franng Khusneterin lx d /
+d domus Gabriel Zettenphering lx d /
+Schuster varat /
+Claustrum zw sand Tiboldt /
+9 domus d Cristof Huber Himrairer Varat iiij s d /
+viiij ttl iij s iiij d
+            </ab>
+
+            <ab facs="#facs_30_TextRegion_1656507980829_773" type="">
+d ibidem <unclear>Orchat Stancr</unclear> hawerin lxxxij d /
+8 domus Mert <unclear>Sternen</unclear> hawer perse iij s d /
+14 d domus Hanns Styer hawer varat iij s d /
+lx d /
+d /
+d domus Michel Lewtewlt hawer perse vj s d /
+d domus Cristof Nuspeckh hawer perse vj s d /
+d domus Wolfganng Huber hawer iij s d /
+d domus Paul Huml Korbler perse lx d /
+d domus Jorg Hinnger hawer iiij s d /
+d domus Paul Snind hawer perse iij s d /
+nihil ibidem Leonhart Hebmstrert Zieglknecht lx d /
+domus Hanns Stettner hawer Erben iij s d /
+domus x Jord Oder hawer perse iij s d /
+11 dedit domus Erhart Schusfoch hawer perse iij s d /
+iiij s d /
+d domus Leonhart Spach Zieglknecht lx d /
+nihil ibidem Jacob Schatt hospes iij s d /
+domus Veit Laistschneid nunc /
+Philipp Mathoser /
+<unclear>per fr iln ??????</unclear> /
+domus Relicta Erhart Sneiderin nunc /
+Hans Staimz perse /
+domus Sigmund Schannleitner /
+domus Joachim Schattl Zieglstadl /
+domus Ulrich Gernng hawer varat /
+vj ttl vj s xxij d /
+per karata wein /
+d
+            </ab>
+
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
+
+            <ab facs="#facs_31_TextRegion_1656509287831_863" type="">
+nihil ibidem Paul Kuppinger hawer xxxij d /
+d ibidem Peter Wispeckh hospes j ttl d /
+d domus Hanns Fuchs hawer perse ii½ ttl d /
+d domus 2a CristofSamt firerin perse vj s d /
+d domus Peter Feyrabent hafner perse vj s d /
+d domus Ulrich minnichofer perse iiij ttl iiij s d /
+d domus Leonhart Aichinger hawer vj s d /
+d domus Wolfgang Maylon ain peckh iij s d /
+d domus Veit Small hawer perse iij s d /
+d domus Anndre Grobinger hawer perse x s d /
+d domus Wolfgang Kafmader hawer perse x s d /
+d domus Wolfganng Sunnleitner hawer perse iij s d /
++ domus Stephan grimnawer pranstat lx d /
+d domus Relicta Wolfgang Trappin varat iij s d /
+11d domus Hanns glins hawer perse iiij s d /
+domus pera Cristof Samt furer varat /
+Ofenluken /
+domus Andre Weispacher greissler stadl /
+domus Sigmund Kunrat stadl /
+xv ttl xxxij d
+            </ab>
+
+            <ab facs="#facs_31_TextRegion_1657107754869_91" type="">
+ /
+d domus Toman Masawer hawer perse iiij s d /
+d domus Peter List hawer perse xxxij d /
++ domus relicta Cristan pawerinin iij s d /
+d domus Mert Hawpperger hawer perse iiij s d /
++ ibidem Peter Weiniger Ladner Lx d /
+d Jorg Schraltrittin xij s d /
++ ibidem Hanns <unclear>Zscherro</unclear> ladner iij sd /
+domus Hanns Huder Stadl /
+Exoᵗº /
+domus pera Hanns Suss /
+domus 2a Hanns Suss /
+nihil ibidem Niclas frannclh hawer hospes xxxij d /
+d domus Hanns freydenstainer hawer perse vj s d /
+12 dedit domus Ulrich Arbeiter hawer iij s d /
+Iterum Lanntrueb /
+domus Wolfgang Spilberger nur /
+11 d domus Gilig kronstoffer Zimerman perse iiij s d /
+v ttl iij s iiij d
+            </ab>
+
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
+
+            <ab facs="#facs_32_TextRegion_1657108554613_203" type="">
+11 d domus Kuntz Kelhainer Stainmetz perse vj s d /
++ ibidem Leonhart Slesinger Ain hawer xxxij d /
+d ibidem Jorg Hoftetter pinter hospes iij s d /
+nihil ibidem Hainrich Tantschner hawer xxxij d /
+d domus Wolfganng prunner hawer perse xij s d /
+d domus Wolfgang Spillerger hawer perse iij ttl d /
+d domus Mert Rietenperger hawer j ttl d /
+d domus Jorg Naimer prantweiner j ttl d /
+d domus Leonhart Landstainerin ii½ ttl d /
+xij s d /
+d domus Anndre Lawterpacher Smid perse xij s d /
+d domus Jorg Rat hawer perse iij ttl d /
+d domus Sannd Michels ladnerschafft j ttl d /
+domus Wolfgang Karl hawer /
+ibidem Hanns Ahainerin sein muter /
+Krembergassn /
+xvj ttl iij s iiij d
+            </ab>
+
+            <ab facs="#facs_32_TextRegion_1657109616737_293" type="">
+ /
+d domus Michel Kheckh hawer perse iij s d /
+d domus Michel Glener hawer perse iiij s d /
++ ibidem Georig Pernpeckh hawer xxxij d /
+nihil ibidem Michel Hewsler hawer hospes xxxij d /
+d domus Hanns Talhaimer hawer perse iij s d /
+d ibidem Hanns Wintzer hawer hospes xxxij d /
+1d domus Relicta Hanns Kettnerin hawerin iiij s d /
+1d domus Wolfganng Huttinger hawer iiij s d /
+d domus Michel pentzl nur iij s d /
++ domus Relicta Christoffin Von munichen lx d /
+nihil ibidem Christof Steberin Vaglerin xxxij d /
+d domus Hanns Frangkh hawer perse iij s d /
+1 d domus Caspar Maser hawer perse iij sd /
+11 d domus Wolfgang Saindl hawer perse iij s d /
+domus Hainrich Rigl /
+domus Larentz pawr greissler /
++ domus Bernhart hofstperger varat iij s d /
+Toman Kirchperger hawer /
+Exoᵗº /
+iiij ttl vij s viij d
+            </ab>
+
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
+
+            <ab facs="#facs_33_TextRegion_1657110668689_391" type="">
+10 d domus Hanns Paltz hawer perse xxxij d /
+d domus Steffan Ebnstainerer hawer perse vj sd /
++ domus Wentzl Hafner hawer perse iij s d /
+9d domus Jorg Prawn hawer perse iij s d /
+d domus Ulrich pachl hawer perse iiij s d /
+domus Leonhart Lanndstainer iiij s d /
+nur Paul Heygl ½ ttl d /
+d domus Paul funfl hawer perse j ttl d /
+9 d /
++ domus Relicta Niclas planckhnstainerin iiij s d /
+Iterum /
+Lambgrch /
+d ibidem Leonhart Sibnhainer Ladner xij s d /
+11d domus Christof Manninger hawer perse iij s d /
+11d domus Ulrich Hofer peckhen Erben iij ttl d /
+10 d domus Hainerman Punckhner peckh perse ii½ ttl d /
+d domus Wolfganng Aichinger hawer perse vj s d /
+ibidem Jorg Plangkhnstainer Saunbstrickher /
+d domus Hanns fraiendinst pinter iiij s d /
+d domus ???? iiij s d /
+d domus Leonhart Moser hawer perse x s d /
+d ibidem Hanns pueckhawser peckh hospes iiij s d /
+xv ttl ij d
+            </ab>
+
+            <ab facs="#facs_33_TextRegion_1657112378126_568" type="">
++ ibidem marx gramer hawer perse xxxij <hi>iij <unclear>s</unclear></hi> d /
++ ibidem Hanns Kinepantl Smid xxxij d /
+d domus Thoman pranntweinerin nur /
+d domus Gilig Steidl hawer perse iiij s d /
+d domus Larentz Tschurer hawer perse lx d /
+d domus Relicta Hanns petzin iij s d /
+11d domus Anndre Lofler Klampher j ttl d /
+1d domus Christof franngkh hawer perse iij s d /
+11 d domus Relicta Georig kutnerin iij s d /
+12 dedit domus Hanns perger hawer perse iij s d /
+d domus Thoman gunskhinrcher hawer perse vj s d /
+d domus Mert Steyrer pranntweiner perse xxi½ ttl d /
+d domus Mert Weissl hawer perse j ttl d /
+30 /
+d domus Relicta Anndre Stainhawssin iiij s d /
+vj s d /
+x domus der Aitzlich varat xxxij d /
+Newlucken /
+Hainrich Wundechch /
+<hi>Nemluck</hi> Exoᵗº /
+x ttl xxxvj d
+            </ab>
+
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
+
+            <ab facs="#facs_34_TextRegion_1657114133290_631" type="">
+10 d domus Erhart Kling hawer perse xxxij d /
+9 dedit /
+d domus Hanns Nadlstumpf hawer perse iij s d /
+iij s d /
+1 d domus Hanns Katl hawer perse iij s d /
++ domus Jorg Rind ??? ??? media landa iij s d /
+d ibidem phyleph Mulperger iij s d /
+nihil ibidem Steffan Hutzinger xxxij d /
+1 d /
+d domus Erasen Franckh perse x s d /
+Jorah Pawther nunc /
+d domus Christof Schedl /
+lx d /
+domus Mathes Obernpergen nur /
+Jorg Pranntl hawer /
+domus Relicta Thoman Gerstlin /
+<hi>ibidem Philip mulperger ain hawer hz </hi> /
+domus Hanns putscherin nur /
+iij s d /
+Wolfganng peckhin /
+ij ttl v s iiij d
+            </ab>
+
+            <ab facs="#facs_34_TextRegion_1657120515559_733" type="">
+19 d ibidem Leonhart Tachinger schuster iij s d /
+d domus Steffan Lambeckh hawer perse iiij s d /
+Domus Relicta Mathes Venngstin schusterin x s d /
++ ibidem Ulrich purgl Ladner iiij s d /
+nihil ibidem Mert Hunrairer lx d /
+d domus doctor Hanns Angrer iiij s d /
+d domus Jorah Windischin j ttl d /
+d domus Wolfgang Osterreicher ladner perse x s d /
+d ibidem Oswald Kunrat hospes lx d /
+domus Hanns Pabinger perse /
+Iterum Laimgrueb /
+domus pera Hanns Keserin nunc /
+Andre Mawrbacher peckh perse /
+domus Hanns Hawssterin nur /
+Jorg Reytzinger huter /
+Prunlucken /
+v ttl vij s d
+            </ab>
+
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
+
+            <ab facs="#facs_35_TextRegion_1647431586999_27" type="">
+nihil ibidem Sigmund Ain hawer non cetera xxxij d /
+domus Jungkhfraw gathrey nunc /
+12 d Wolfganng Kranntzl pinterin lx d /
+d domus Augustin Strasser prantweinerin x s d /
++ domus herr Mert Srumesser zu hof iiij s d /
+nihil ibidem Ulrich Losperger hawer hospes no rl xxxij d /
+d domus Jorg Kirbssinger hawer perse iiij s d /
+d domus Niclas Labndach koch perse iij s d /
++ domus Relicta n <unclear>Stinrerin</unclear> Varat xxxij d /
+d domus Paul Wunderlich hawer perse xxxij d /
+xxxij d /
+per ??? domus??? Jorg Kichmair slayrer perse iij s d /
+Fundlucken /
+Exᵗº /
+domus Thoman Wisinger /
+nihil ibidem Jacob Koch hawer hospes /
+Iterum prunlucken /
+1 d /
+iij ttl vij ß x d
+            </ab>
+
+            <ab facs="#facs_35_TextRegion_1647515862886_20" type="">
+32 /
+d domus Hanns Gagerstorffer nur lx d /
+nihil ibidem Taman Osterreicher kursner no rl xxxij d /
+d ibidem Hanns Newmullner hofpinter iiij s d /
+Domus des von Hochnwerg <unclear>varat</unclear> /
+domus pera et 2a Christof Oberhaimer varat /
++ domus Hainrich Ranger Kunigclicher lx d /
+Mayestar Vals Khuer /
+Hanns pawngartner /
+d domus Kuntz Schiller hawer perse vj s d /
+domus Herren Jorgen von Rorborf /
+ibidem maister Caspar ain puchssenmaister /
+domus Jorg Rubhutlin nur /
+Anndre <unclear>gnaser</unclear> /
+do des von Aspach /
+nihil ibidem Anndre Kolnpeckh kursner hospes xxxij d /
++ ibidem Thoman <comment comment="vllt. Erben kh? "><unclear>Erberkh</unclear></comment> lx d /
+d ibidem Sigmund Lewdolfinger hospes iiij s d /
+d ibidem Jorg <unclear>Esain</unclear> pinter hospes vj <del>iiij</del> s d /
+ibidem Melchior Kolbmberger hospes /
+iij ttl lx iiij d
+            </ab>
+
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
+
+            <ab facs="#facs_36_TextRegion_1657183194504_893" type="">
++ Domus Hanns Camer hafner Erben iij s d /
+ibidem Wolfganng Kamer hafner hospes /
+domus Wentzl pangkher varat /
+ibidem Jahannes Niderhaimer mawter /
+hinus iih s d /
+xj ? xxxvij ttl 5 s xxviij d
+            </ab>
+
+            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
+
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
+
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
+
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
+
+         </div>
+      </body>
+   </text>
+</TEI>

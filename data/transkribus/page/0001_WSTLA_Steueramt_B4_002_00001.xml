@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-11T16:02:08.456+01:00</Created>
+        <LastChange>2023-02-22T13:50:16.625+01:00</LastChange>
+        <TranskribusMetadata docId="831090" pageId="30875074" pageNr="1" tsid="115164842" status="DONE" userId="114903" imgUrl="https://files.transkribus.eu/Get?id=QHOAWCOCOUDLVANJLUXCRLLH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ELJXFOXPPBMDLFHBCNFAZPWN" imageId="24289826"/>
+    </Metadata>
+    <Page imageFilename="0001_WSTLA_Steueramt_B4_002_00001.jpg" imageWidth="2699" imageHeight="3500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692198649166" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="300,341 300,494 318,494 318,341"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="300,494 318,491 318,341 300,344"/>
+                <Baseline points="300,444 318,441"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="333,556 333,710 351,710 351,556"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="333,706 351,710 351,560 333,556"/>
+                <Baseline points="333,656 351,660"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="336,402 336,883 593,883 593,402"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="411,436 456,432 456,402 411,406"/>
+                <Baseline points="411,426 456,422"/>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="390,475 420,472 420,442 390,445"/>
+                <Baseline points="390,465 420,462"/>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="392,739 426,739 461,740 461,697 426,696 392,696"/>
+                <Baseline points="392,725 426,725 461,726"/>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="522,733 564,752 564,709 522,690"/>
+                <Baseline points="522,719 564,738"/>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="336,824 369,830 369,787 336,781"/>
+                <Baseline points="336,810 369,816"/>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="384,828 409,832 434,832 459,837 459,807 434,802 409,802 384,798"/>
+                <Baseline points="384,818 409,822 434,822 459,827"/>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="347,883 374,880 401,875 429,871 456,867 483,864 511,862 538,862 565,862 593,865 593,835 565,832 538,832 511,832 483,834 456,837 429,841 401,845 374,850 347,853"/>
+                <Baseline points="347,873 374,870 401,865 429,861 456,857 483,854 511,852 538,852 565,852 593,855"/>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
